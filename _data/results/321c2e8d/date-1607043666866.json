@@ -1,0 +1,46 @@
+{
+  "url": "https://www.fedex.com/global/choose-location.html",
+  "requestedUrl": "https://www.fedex.com/",
+  "timestamp": 1607047608444,
+  "ranks": {
+    "hundos": 12,
+    "performance": 37,
+    "accessibility": 29,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.38,
+    "accessibility": 0.94,
+    "bestPractices": 0.87,
+    "seo": 0.98,
+    "total": 317
+  },
+  "firstContentfulPaint": 4699.669,
+  "speedIndex": 7049.759970176137,
+  "largestContentfulPaint": 11130.534000000001,
+  "totalBlockingTime": 404.5,
+  "cumulativeLayoutShift": 0.07770950635274251,
+  "timeToInteractive": 9965.947,
+  "maxPotentialFirstInputDelay": 333,
+  "timeToFirstByte": 187.154,
+  "weight": {
+    "summary": "39 requests • 1,143 KiB",
+    "total": 1170106,
+    "image": 43474,
+    "imageCount": 7,
+    "script": 608486,
+    "scriptCount": 14,
+    "document": 12716,
+    "font": 422687,
+    "fontCount": 3,
+    "stylesheet": 70011,
+    "stylesheetCount": 1,
+    "thirdParty": 218447,
+    "thirdPartyCount": 9
+  },
+  "axe": {
+    "passes": 1910,
+    "violations": 56
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.americantower.com/",
+  "requestedUrl": "https://www.americantower.com/",
+  "timestamp": 1607092353466,
+  "ranks": {
+    "hundos": 43,
+    "performance": 43,
+    "accessibility": 48,
+    "cumulative": 43
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.45,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 298
+  },
+  "firstContentfulPaint": 5249.635500000001,
+  "speedIndex": 6319.960413866527,
+  "largestContentfulPaint": 9578.120500000005,
+  "totalBlockingTime": 84.89849999999933,
+  "cumulativeLayoutShift": 0.07053711318969726,
+  "timeToInteractive": 9393.255500000003,
+  "maxPotentialFirstInputDelay": 159,
+  "timeToFirstByte": 96.22499999999997,
+  "weight": {
+    "summary": "62 requests • 1,722 KiB",
+    "total": 1763001,
+    "image": 907777,
+    "imageCount": 11,
+    "script": 484969,
+    "scriptCount": 29,
+    "document": 10618,
+    "font": 268425,
+    "fontCount": 3,
+    "stylesheet": 88916,
+    "stylesheetCount": 15,
+    "thirdParty": 242874,
+    "thirdPartyCount": 19
+  },
+  "axe": {
+    "passes": 376,
+    "violations": 15
+  }
+}

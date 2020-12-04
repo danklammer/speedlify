@@ -1,0 +1,46 @@
+{
+  "url": "https://www.textron.com/",
+  "requestedUrl": "https://www.textron.com/",
+  "timestamp": 1607059502075,
+  "ranks": {
+    "hundos": 39,
+    "performance": 49,
+    "accessibility": 33,
+    "cumulative": 39
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.4,
+    "accessibility": 0.89,
+    "bestPractices": 0.87,
+    "seo": 0.76,
+    "total": 292
+  },
+  "firstContentfulPaint": 6816.008999999995,
+  "speedIndex": 8344.773361468837,
+  "largestContentfulPaint": 11407.032499999994,
+  "totalBlockingTime": 141,
+  "cumulativeLayoutShift": 0.0035525833268960317,
+  "timeToInteractive": 8730.767999999996,
+  "maxPotentialFirstInputDelay": 149,
+  "timeToFirstByte": 107.994,
+  "weight": {
+    "summary": "86 requests • 3,333 KiB",
+    "total": 3412737,
+    "image": 2928482,
+    "imageCount": 20,
+    "script": 338018,
+    "scriptCount": 36,
+    "document": 12244,
+    "font": 70885,
+    "fontCount": 7,
+    "stylesheet": 62186,
+    "stylesheetCount": 18,
+    "thirdParty": 1063843,
+    "thirdPartyCount": 28
+  },
+  "axe": {
+    "passes": 590,
+    "violations": 21
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cardinalhealth.com/en.html",
+  "requestedUrl": "https://www.cardinalhealth.com/",
+  "timestamp": 1607047052528,
+  "ranks": {
+    "hundos": 42,
+    "performance": 31,
+    "accessibility": 49,
+    "cumulative": 42
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.4,
+    "accessibility": 0.88,
+    "bestPractices": 0.8,
+    "seo": 0.77,
+    "total": 285
+  },
+  "firstContentfulPaint": 4545.472,
+  "speedIndex": 5431.591278044627,
+  "largestContentfulPaint": 9168.113500000003,
+  "totalBlockingTime": 477.8220000000001,
+  "cumulativeLayoutShift": 0.1411471896701389,
+  "timeToInteractive": 8795.426,
+  "maxPotentialFirstInputDelay": 474.9999999999991,
+  "timeToFirstByte": 29.398000000000003,
+  "weight": {
+    "summary": "77 requests • 1,240 KiB",
+    "total": 1270261,
+    "image": 462326,
+    "imageCount": 31,
+    "script": 515528,
+    "scriptCount": 24,
+    "document": 39910,
+    "font": 177216,
+    "fontCount": 8,
+    "stylesheet": 69412,
+    "stylesheetCount": 5,
+    "thirdParty": 545650,
+    "thirdPartyCount": 30
+  },
+  "axe": {
+    "passes": 745,
+    "violations": 4
+  }
+}

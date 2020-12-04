@@ -1,0 +1,46 @@
+{
+  "url": "https://www.morganstanley.com/",
+  "requestedUrl": "https://www.morganstanley.com/",
+  "timestamp": 1607047825925,
+  "ranks": {
+    "hundos": 86,
+    "performance": 93,
+    "accessibility": 4,
+    "cumulative": 86
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.07,
+    "accessibility": 1,
+    "bestPractices": 0.47,
+    "seo": 0.84,
+    "total": 238
+  },
+  "firstContentfulPaint": 5935.656499999999,
+  "speedIndex": 15909.409574014175,
+  "largestContentfulPaint": 19353.614000000016,
+  "totalBlockingTime": 1142.277499999999,
+  "cumulativeLayoutShift": 0.8950406002468534,
+  "timeToInteractive": 18350.906499999997,
+  "maxPotentialFirstInputDelay": 904,
+  "timeToFirstByte": 260.78399999999993,
+  "weight": {
+    "summary": "217 requests • 3,983 KiB",
+    "total": 4078940,
+    "image": 2747493,
+    "imageCount": 89,
+    "script": 737595,
+    "scriptCount": 35,
+    "document": 30580,
+    "font": 283428,
+    "fontCount": 7,
+    "stylesheet": 63012,
+    "stylesheetCount": 1,
+    "thirdParty": 1248468,
+    "thirdPartyCount": 159
+  },
+  "axe": {
+    "passes": 1108,
+    "violations": 3
+  }
+}

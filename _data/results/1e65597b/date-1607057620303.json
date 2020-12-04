@@ -1,0 +1,46 @@
+{
+  "url": "https://www.dish.com/",
+  "requestedUrl": "https://www.dish.com/",
+  "timestamp": 1607058267962,
+  "ranks": {
+    "hundos": 89,
+    "performance": 73,
+    "accessibility": 59,
+    "cumulative": 90
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.18,
+    "accessibility": 0.82,
+    "bestPractices": 0.4,
+    "seo": 0.83,
+    "total": 223
+  },
+  "firstContentfulPaint": 2251.9480000000003,
+  "speedIndex": 17769.51641249473,
+  "largestContentfulPaint": 24507.595499999996,
+  "totalBlockingTime": 4597,
+  "cumulativeLayoutShift": 0.14698555639055041,
+  "timeToInteractive": 31974.249097373948,
+  "maxPotentialFirstInputDelay": 2589,
+  "timeToFirstByte": 311.307,
+  "weight": {
+    "summary": "377 requests • 5,674 KiB",
+    "total": 5810524,
+    "image": 3609566,
+    "imageCount": 100,
+    "script": 1537166,
+    "scriptCount": 152,
+    "document": 75992,
+    "font": 211512,
+    "fontCount": 16,
+    "stylesheet": 88857,
+    "stylesheetCount": 42,
+    "thirdParty": 1567433,
+    "thirdPartyCount": 159
+  },
+  "axe": {
+    "passes": 5485,
+    "violations": 1233
+  }
+}

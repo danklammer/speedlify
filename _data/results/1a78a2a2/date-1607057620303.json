@@ -1,0 +1,46 @@
+{
+  "url": "https://www.davita.com/",
+  "requestedUrl": "https://www.davita.com/",
+  "timestamp": 1607083127019,
+  "ranks": {
+    "hundos": 85,
+    "performance": 75,
+    "accessibility": 34,
+    "cumulative": 85
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.89,
+    "bestPractices": 0.53,
+    "seo": 0.79,
+    "total": 238
+  },
+  "firstContentfulPaint": 3328.6024999999995,
+  "speedIndex": 10318.772435875362,
+  "largestContentfulPaint": 8008.447999999999,
+  "totalBlockingTime": 1823.4999999999982,
+  "cumulativeLayoutShift": 0.1511077651977539,
+  "timeToInteractive": 22591.77054901122,
+  "maxPotentialFirstInputDelay": 329,
+  "timeToFirstByte": 253.199,
+  "weight": {
+    "summary": "229 requests • 2,537 KiB",
+    "total": 2597826,
+    "image": 834605,
+    "imageCount": 88,
+    "script": 1379682,
+    "scriptCount": 85,
+    "document": 71892,
+    "font": 84673,
+    "fontCount": 10,
+    "stylesheet": 172147,
+    "stylesheetCount": 2,
+    "thirdParty": 1091896,
+    "thirdPartyCount": 153
+  },
+  "axe": {
+    "passes": 1294,
+    "violations": 27
+  }
+}

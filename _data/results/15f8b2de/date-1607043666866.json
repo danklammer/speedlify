@@ -1,0 +1,46 @@
+{
+  "url": "https://www.nexteraenergy.com/",
+  "requestedUrl": "https://www.nexteraenergy.com/",
+  "timestamp": 1607053762675,
+  "ranks": {
+    "hundos": 23,
+    "performance": 5,
+    "accessibility": 61,
+    "cumulative": 23
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.7,
+    "accessibility": 0.83,
+    "bestPractices": 0.73,
+    "seo": 0.69,
+    "total": 295
+  },
+  "firstContentfulPaint": 1213.306,
+  "speedIndex": 1379.1885440209148,
+  "largestContentfulPaint": 5272.906000000001,
+  "totalBlockingTime": 217,
+  "cumulativeLayoutShift": 0.7543978084988064,
+  "timeToInteractive": 5883.356000000002,
+  "maxPotentialFirstInputDelay": 212,
+  "timeToFirstByte": 37.057000000000016,
+  "weight": {
+    "summary": "55 requests • 950 KiB",
+    "total": 972388,
+    "image": 477075,
+    "imageCount": 23,
+    "script": 199653,
+    "scriptCount": 6,
+    "document": 11132,
+    "font": 231725,
+    "fontCount": 3,
+    "stylesheet": 45554,
+    "stylesheetCount": 3,
+    "thirdParty": 170032,
+    "thirdPartyCount": 36
+  },
+  "axe": {
+    "passes": 381,
+    "violations": 35
+  }
+}

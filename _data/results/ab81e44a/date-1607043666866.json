@@ -1,0 +1,46 @@
+{
+  "url": "https://www.xpo.com/",
+  "requestedUrl": "https://www.xpo.com/",
+  "timestamp": 1607054180303,
+  "ranks": {
+    "hundos": 43,
+    "performance": 66,
+    "accessibility": 20,
+    "cumulative": 43
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.23,
+    "accessibility": 0.95,
+    "bestPractices": 0.73,
+    "seo": 0.91,
+    "total": 282
+  },
+  "firstContentfulPaint": 3634.1420000000007,
+  "speedIndex": 7380.20980570237,
+  "largestContentfulPaint": 6539.834000000002,
+  "totalBlockingTime": 1481,
+  "cumulativeLayoutShift": 0.00005050309499104817,
+  "timeToInteractive": 14777.038,
+  "maxPotentialFirstInputDelay": 337,
+  "timeToFirstByte": 108.15699999999998,
+  "weight": {
+    "summary": "107 requests • 4,778 KiB",
+    "total": 4892496,
+    "image": 3568363,
+    "imageCount": 28,
+    "script": 956964,
+    "scriptCount": 37,
+    "document": 70141,
+    "font": 192624,
+    "fontCount": 8,
+    "stylesheet": 92042,
+    "stylesheetCount": 9,
+    "thirdParty": 4883869,
+    "thirdPartyCount": 106
+  },
+  "axe": {
+    "passes": 638,
+    "violations": 31
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.broadcom.com/",
+  "requestedUrl": "https://www.broadcom.com/",
+  "timestamp": 1607053282762,
+  "ranks": {
+    "hundos": 14,
+    "performance": 32,
+    "accessibility": 30,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.91,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 305
+  },
+  "firstContentfulPaint": 3565.5190000000002,
+  "speedIndex": 4893.336689642437,
+  "largestContentfulPaint": 8193.389000000001,
+  "totalBlockingTime": 489.5,
+  "cumulativeLayoutShift": 0.9768332987891303,
+  "timeToInteractive": 8140.924500000002,
+  "maxPotentialFirstInputDelay": 413,
+  "timeToFirstByte": 57.87700000000001,
+  "weight": {
+    "summary": "73 requests • 2,178 KiB",
+    "total": 2230056,
+    "image": 1241146,
+    "imageCount": 26,
+    "script": 404486,
+    "scriptCount": 15,
+    "document": 2037,
+    "font": 257526,
+    "fontCount": 7,
+    "stylesheet": 110120,
+    "stylesheetCount": 11,
+    "thirdParty": 493712,
+    "thirdPartyCount": 18
+  },
+  "axe": {
+    "passes": 620,
+    "violations": 22
+  }
+}

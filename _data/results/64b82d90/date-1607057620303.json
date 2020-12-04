@@ -1,0 +1,46 @@
+{
+  "url": "https://www.fiserv.com/",
+  "requestedUrl": "https://www.fiserv.com/",
+  "timestamp": 1607086859578,
+  "ranks": {
+    "hundos": 86,
+    "performance": 80,
+    "accessibility": 62,
+    "cumulative": 85
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.21,
+    "accessibility": 0.83,
+    "bestPractices": 0.6,
+    "seo": 0.79,
+    "total": 243
+  },
+  "firstContentfulPaint": 2602.963,
+  "speedIndex": 12014.029332714357,
+  "largestContentfulPaint": 20093.41200000001,
+  "totalBlockingTime": 1069.5000000000018,
+  "cumulativeLayoutShift": 0.18762872568766276,
+  "timeToInteractive": 18411.71500000001,
+  "maxPotentialFirstInputDelay": 444,
+  "timeToFirstByte": 51.577,
+  "weight": {
+    "summary": "125 requests • 3,215 KiB",
+    "total": 3292632,
+    "image": 2257947,
+    "imageCount": 40,
+    "script": 938620,
+    "scriptCount": 42,
+    "document": 45120,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 22766,
+    "stylesheetCount": 2,
+    "thirdParty": 1280499,
+    "thirdPartyCount": 97
+  },
+  "axe": {
+    "passes": 709,
+    "violations": 61
+  }
+}

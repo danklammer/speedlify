@@ -1,0 +1,46 @@
+{
+  "url": "https://www.unitedrentals.com/",
+  "requestedUrl": "https://www.unitedrentals.com/",
+  "timestamp": 1607088783341,
+  "ranks": {
+    "hundos": 60,
+    "performance": 81,
+    "accessibility": 49,
+    "cumulative": 60
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.2,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "seo": 0.99,
+    "total": 279
+  },
+  "firstContentfulPaint": 3381.392,
+  "speedIndex": 7631.355698341762,
+  "largestContentfulPaint": 11728.901999999998,
+  "totalBlockingTime": 1711.0000000000018,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 22512.231999999996,
+  "maxPotentialFirstInputDelay": 1742.0000000000018,
+  "timeToFirstByte": 147.297,
+  "weight": {
+    "summary": "159 requests • 2,775 KiB",
+    "total": 2841502,
+    "image": 409350,
+    "imageCount": 32,
+    "script": 1905219,
+    "scriptCount": 78,
+    "document": 50673,
+    "font": 40339,
+    "fontCount": 3,
+    "stylesheet": 302749,
+    "stylesheetCount": 17,
+    "thirdParty": 1351966,
+    "thirdPartyCount": 115
+  },
+  "axe": {
+    "passes": 1884,
+    "violations": 37
+  }
+}

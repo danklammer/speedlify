@@ -1,0 +1,46 @@
+{
+  "url": "https://www.motorolasolutions.com/en_us.html?geo=redirect",
+  "requestedUrl": "https://www.motorolasolutions.com/",
+  "timestamp": 1607092228306,
+  "ranks": {
+    "hundos": 93,
+    "performance": 97,
+    "accessibility": 92,
+    "cumulative": 93
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.08,
+    "accessibility": 0.64,
+    "bestPractices": 0.8,
+    "seo": 0.78,
+    "total": 230
+  },
+  "firstContentfulPaint": 7108.583000000001,
+  "speedIndex": 15034.805528977507,
+  "largestContentfulPaint": 16394.753000000004,
+  "totalBlockingTime": 1384.5,
+  "cumulativeLayoutShift": 0.09959677378336589,
+  "timeToInteractive": 26070.63550000001,
+  "maxPotentialFirstInputDelay": 355,
+  "timeToFirstByte": 355.198,
+  "weight": {
+    "summary": "246 requests • 3,636 KiB",
+    "total": 3722912,
+    "image": 1741662,
+    "imageCount": 53,
+    "script": 1632510,
+    "scriptCount": 94,
+    "document": 37762,
+    "font": 71894,
+    "fontCount": 3,
+    "stylesheet": 162644,
+    "stylesheetCount": 18,
+    "thirdParty": 1050249,
+    "thirdPartyCount": 139
+  },
+  "axe": {
+    "passes": 1210,
+    "violations": 41
+  }
+}

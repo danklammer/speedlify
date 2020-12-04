@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ralphlauren.com/",
+  "requestedUrl": "https://www.ralphlauren.com/",
+  "timestamp": 1607095974487,
+  "ranks": {
+    "hundos": 91,
+    "performance": 91,
+    "accessibility": 83,
+    "cumulative": 91
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.74,
+    "bestPractices": 0.67,
+    "seo": 0.83,
+    "total": 244
+  },
+  "firstContentfulPaint": 4111.842,
+  "speedIndex": 11141.722690866762,
+  "largestContentfulPaint": 5981.808999999999,
+  "totalBlockingTime": 2090.415500000002,
+  "cumulativeLayoutShift": 0.05510857052273221,
+  "timeToInteractive": 24455.460499999994,
+  "maxPotentialFirstInputDelay": 570,
+  "timeToFirstByte": 275.629,
+  "weight": {
+    "summary": "226 requests • 3,301 KiB",
+    "total": 3380710,
+    "image": 799565,
+    "imageCount": 43,
+    "script": 1586227,
+    "scriptCount": 84,
+    "document": 95010,
+    "font": 681709,
+    "fontCount": 19,
+    "stylesheet": 169445,
+    "stylesheetCount": 17,
+    "thirdParty": 3030548,
+    "thirdPartyCount": 201
+  },
+  "axe": {
+    "passes": 1544,
+    "violations": 42
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.humana.com/",
+  "requestedUrl": "https://www.humana.com/",
+  "timestamp": 1607044529575,
+  "ranks": {
+    "hundos": 56,
+    "performance": 71,
+    "accessibility": 57,
+    "cumulative": 56
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.19,
+    "accessibility": 0.84,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 274
+  },
+  "firstContentfulPaint": 3892.256,
+  "speedIndex": 8275.933928145132,
+  "largestContentfulPaint": 12377.0395,
+  "totalBlockingTime": 1084.2225000000008,
+  "cumulativeLayoutShift": 0.330271484375,
+  "timeToInteractive": 11887.4735,
+  "maxPotentialFirstInputDelay": 877.0000000000018,
+  "timeToFirstByte": 876.6769999999999,
+  "weight": {
+    "summary": "45 requests • 2,221 KiB",
+    "total": 2274143,
+    "image": 719533,
+    "imageCount": 5,
+    "script": 1082639,
+    "scriptCount": 24,
+    "document": 23360,
+    "font": 82839,
+    "fontCount": 3,
+    "stylesheet": 260742,
+    "stylesheetCount": 4,
+    "thirdParty": 486891,
+    "thirdPartyCount": 22
+  },
+  "axe": {
+    "passes": 820,
+    "violations": 7
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.assurant.com/",
+  "requestedUrl": "https://www.assurant.com/",
+  "timestamp": 1607088483657,
+  "ranks": {
+    "hundos": 56,
+    "performance": 78,
+    "accessibility": 8,
+    "cumulative": 55
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.23,
+    "accessibility": 0.98,
+    "bestPractices": 0.67,
+    "seo": 0.93,
+    "total": 281
+  },
+  "firstContentfulPaint": 4640.419,
+  "speedIndex": 9763.63850390331,
+  "largestContentfulPaint": 4640.419,
+  "totalBlockingTime": 1111.4999999999982,
+  "cumulativeLayoutShift": 0.14598524305555555,
+  "timeToInteractive": 24788.064999999995,
+  "maxPotentialFirstInputDelay": 416,
+  "timeToFirstByte": 426.669,
+  "weight": {
+    "summary": "126 requests • 4,590 KiB",
+    "total": 4699800,
+    "image": 2919705,
+    "imageCount": 38,
+    "script": 1339270,
+    "scriptCount": 51,
+    "document": 72130,
+    "font": 180778,
+    "fontCount": 4,
+    "stylesheet": 175006,
+    "stylesheetCount": 8,
+    "thirdParty": 1170844,
+    "thirdPartyCount": 74
+  },
+  "axe": {
+    "passes": 949,
+    "violations": 11
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.macysinc.com/",
+  "requestedUrl": "https://www.macysinc.com/",
+  "timestamp": 1607049437521,
+  "ranks": {
+    "hundos": 4,
+    "performance": 13,
+    "accessibility": 4,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.58,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "seo": 0.99,
+    "total": 344
+  },
+  "firstContentfulPaint": 2235.487,
+  "speedIndex": 5674.183473045705,
+  "largestContentfulPaint": 9432.481,
+  "totalBlockingTime": 209,
+  "cumulativeLayoutShift": 0.060749200608995226,
+  "timeToInteractive": 7813.537,
+  "maxPotentialFirstInputDelay": 215,
+  "timeToFirstByte": 51.36200000000008,
+  "weight": {
+    "summary": "43 requests • 2,369 KiB",
+    "total": 2425441,
+    "image": 1836729,
+    "imageCount": 21,
+    "script": 379954,
+    "scriptCount": 7,
+    "document": 9235,
+    "font": 114987,
+    "fontCount": 4,
+    "stylesheet": 79378,
+    "stylesheetCount": 4,
+    "thirdParty": 2416206,
+    "thirdPartyCount": 42
+  },
+  "axe": {
+    "passes": 711,
+    "violations": 15
+  }
+}

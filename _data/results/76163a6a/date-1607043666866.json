@@ -1,0 +1,45 @@
+{
+  "url": "https://www.wfscorp.com/en",
+  "requestedUrl": "https://www.wfscorp.com/",
+  "timestamp": 1607046663372,
+  "ranks": {
+    "hundos": 21,
+    "performance": 11,
+    "accessibility": 72,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.6,
+    "accessibility": 0.8,
+    "bestPractices": 0.73,
+    "seo": 0.89,
+    "total": 302
+  },
+  "firstContentfulPaint": 2632.647,
+  "speedIndex": 7068.581102425664,
+  "largestContentfulPaint": 3216.2100000000005,
+  "totalBlockingTime": 481.3294999999998,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10946.187,
+  "maxPotentialFirstInputDelay": 414,
+  "timeToFirstByte": 51.316,
+  "weight": {
+    "summary": "88 requests • 1,789 KiB",
+    "total": 1831997,
+    "image": 809240,
+    "imageCount": 31,
+    "script": 763684,
+    "scriptCount": 31,
+    "document": 33908,
+    "font": 77458,
+    "fontCount": 1,
+    "stylesheet": 138538,
+    "stylesheetCount": 5,
+    "thirdParty": 571601,
+    "thirdPartyCount": 57
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

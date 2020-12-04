@@ -1,0 +1,46 @@
+{
+  "url": "https://www.centerpointenergy.com/en-us/",
+  "requestedUrl": "https://www.centerpointenergy.com/",
+  "timestamp": 1607058397007,
+  "ranks": {
+    "hundos": 43,
+    "performance": 56,
+    "accessibility": 9,
+    "cumulative": 42
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.35,
+    "accessibility": 0.97,
+    "bestPractices": 0.73,
+    "seo": 0.85,
+    "total": 290
+  },
+  "firstContentfulPaint": 5752.102000000001,
+  "speedIndex": 9831.534155292775,
+  "largestContentfulPaint": 7632.750000000002,
+  "totalBlockingTime": 223.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 15962.252499999999,
+  "maxPotentialFirstInputDelay": 146,
+  "timeToFirstByte": 212.738,
+  "weight": {
+    "summary": "124 requests • 1,871 KiB",
+    "total": 1915484,
+    "image": 200997,
+    "imageCount": 33,
+    "script": 1266842,
+    "scriptCount": 51,
+    "document": 19843,
+    "font": 172686,
+    "fontCount": 2,
+    "stylesheet": 241269,
+    "stylesheetCount": 4,
+    "thirdParty": 977318,
+    "thirdPartyCount": 87
+  },
+  "axe": {
+    "passes": 246,
+    "violations": 9
+  }
+}

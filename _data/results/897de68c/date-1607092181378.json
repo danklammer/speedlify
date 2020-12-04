@@ -1,0 +1,46 @@
+{
+  "url": "https://www.weyerhaeuser.com/",
+  "requestedUrl": "https://www.weyerhaeuser.com/",
+  "timestamp": 1607095692092,
+  "ranks": {
+    "hundos": 40,
+    "performance": 53,
+    "accessibility": 41,
+    "cumulative": 39
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.39,
+    "accessibility": 0.89,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 299
+  },
+  "firstContentfulPaint": 3153.093999999999,
+  "speedIndex": 7923.714984343604,
+  "largestContentfulPaint": 9305.146,
+  "totalBlockingTime": 338,
+  "cumulativeLayoutShift": 0.7138085494571262,
+  "timeToInteractive": 10434.201000000003,
+  "maxPotentialFirstInputDelay": 202,
+  "timeToFirstByte": 1337.434,
+  "weight": {
+    "summary": "127 requests • 2,013 KiB",
+    "total": 2061392,
+    "image": 1313638,
+    "imageCount": 56,
+    "script": 516692,
+    "scriptCount": 38,
+    "document": 24784,
+    "font": 117653,
+    "fontCount": 4,
+    "stylesheet": 83533,
+    "stylesheetCount": 18,
+    "thirdParty": 343440,
+    "thirdPartyCount": 45
+  },
+  "axe": {
+    "passes": 513,
+    "violations": 14
+  }
+}

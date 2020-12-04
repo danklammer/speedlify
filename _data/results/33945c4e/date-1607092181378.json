@@ -1,0 +1,46 @@
+{
+  "url": "https://www.analog.com/en/index.html",
+  "requestedUrl": "https://www.analog.com/",
+  "timestamp": 1607093252713,
+  "ranks": {
+    "hundos": 22,
+    "performance": 18,
+    "accessibility": 45,
+    "cumulative": 22
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.64,
+    "accessibility": 0.88,
+    "bestPractices": 0.6,
+    "seo": 0.99,
+    "total": 311
+  },
+  "firstContentfulPaint": 2160.498,
+  "speedIndex": 3033.677678825471,
+  "largestContentfulPaint": 6126.3336605529785,
+  "totalBlockingTime": 248.50000000000045,
+  "cumulativeLayoutShift": 0.4399121093749999,
+  "timeToInteractive": 6553.816321105956,
+  "maxPotentialFirstInputDelay": 246,
+  "timeToFirstByte": 140.255,
+  "weight": {
+    "summary": "71 requests • 1,537 KiB",
+    "total": 1573888,
+    "image": 620588,
+    "imageCount": 26,
+    "script": 542441,
+    "scriptCount": 14,
+    "document": 24677,
+    "font": 194516,
+    "fontCount": 5,
+    "stylesheet": 177534,
+    "stylesheetCount": 7,
+    "thirdParty": 276272,
+    "thirdPartyCount": 25
+  },
+  "axe": {
+    "passes": 1056,
+    "violations": 60
+  }
+}

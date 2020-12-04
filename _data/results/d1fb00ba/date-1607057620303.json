@@ -1,0 +1,46 @@
+{
+  "url": "https://www.nov.com/",
+  "requestedUrl": "https://www.nov.com/",
+  "timestamp": 1607085890516,
+  "ranks": {
+    "hundos": 8,
+    "performance": 30,
+    "accessibility": 28,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.6,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.93,
+    "total": 337
+  },
+  "firstContentfulPaint": 1236.491,
+  "speedIndex": 4011.874668907735,
+  "largestContentfulPaint": 9352.491,
+  "totalBlockingTime": 119.5,
+  "cumulativeLayoutShift": 0.7642929996914335,
+  "timeToInteractive": 7544.491,
+  "maxPotentialFirstInputDelay": 241,
+  "timeToFirstByte": 324.692,
+  "weight": {
+    "summary": "31 requests • 2,523 KiB",
+    "total": 2583055,
+    "image": 1642748,
+    "imageCount": 18,
+    "script": 345063,
+    "scriptCount": 2,
+    "document": 12817,
+    "font": 239854,
+    "fontCount": 4,
+    "stylesheet": 40051,
+    "stylesheetCount": 1,
+    "thirdParty": 300783,
+    "thirdPartyCount": 4
+  },
+  "axe": {
+    "passes": 747,
+    "violations": 33
+  }
+}

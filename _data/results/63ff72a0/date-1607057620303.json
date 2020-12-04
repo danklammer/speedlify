@@ -1,0 +1,46 @@
+{
+  "url": "https://www.livenationentertainment.com/",
+  "requestedUrl": "https://www.livenationentertainment.com/",
+  "timestamp": 1607083832074,
+  "ranks": {
+    "hundos": 56,
+    "performance": 36,
+    "accessibility": 86,
+    "cumulative": 55
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.51,
+    "accessibility": 0.68,
+    "bestPractices": 0.73,
+    "seo": 0.86,
+    "total": 278
+  },
+  "firstContentfulPaint": 3439.3169999999996,
+  "speedIndex": 8070.973167763251,
+  "largestContentfulPaint": 5334.181,
+  "totalBlockingTime": 128,
+  "cumulativeLayoutShift": 0.04200219472249349,
+  "timeToInteractive": 12016.824999999992,
+  "maxPotentialFirstInputDelay": 250,
+  "timeToFirstByte": 115.05199999999999,
+  "weight": {
+    "summary": "64 requests • 10,380 KiB",
+    "total": 10629518,
+    "image": 10093519,
+    "imageCount": 25,
+    "script": 314089,
+    "scriptCount": 23,
+    "document": 11461,
+    "font": 93641,
+    "fontCount": 3,
+    "stylesheet": 116591,
+    "stylesheetCount": 11,
+    "thirdParty": 10543533,
+    "thirdPartyCount": 60
+  },
+  "axe": {
+    "passes": 414,
+    "violations": 20
+  }
+}

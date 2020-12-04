@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bookingholdings.com/",
+  "requestedUrl": "https://www.bookingholdings.com/",
+  "timestamp": 1607059189327,
+  "ranks": {
+    "hundos": 5,
+    "performance": 7,
+    "accessibility": 56,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.73,
+    "accessibility": 0.83,
+    "bestPractices": 0.93,
+    "seo": 0.86,
+    "total": 335
+  },
+  "firstContentfulPaint": 2576.513,
+  "speedIndex": 2670.319638001692,
+  "largestContentfulPaint": 3925.4495000000006,
+  "totalBlockingTime": 437,
+  "cumulativeLayoutShift": 0.0024768066406250003,
+  "timeToInteractive": 5950.157999999999,
+  "maxPotentialFirstInputDelay": 411,
+  "timeToFirstByte": 67.738,
+  "weight": {
+    "summary": "55 requests • 1,297 KiB",
+    "total": 1327966,
+    "image": 1034738,
+    "imageCount": 28,
+    "script": 190246,
+    "scriptCount": 14,
+    "document": 6532,
+    "font": 34299,
+    "fontCount": 2,
+    "stylesheet": 62151,
+    "stylesheetCount": 10,
+    "thirdParty": 53289,
+    "thirdPartyCount": 6
+  },
+  "axe": {
+    "passes": 167,
+    "violations": 23
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.brighthousefinancial.com/",
+  "requestedUrl": "https://www.brighthousefinancial.com/",
+  "timestamp": 1607094170611,
+  "ranks": {
+    "hundos": 98,
+    "performance": 67,
+    "accessibility": 97,
+    "cumulative": 98
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.32,
+    "accessibility": 0.6,
+    "bestPractices": null,
+    "seo": 0.57,
+    "total": 149
+  },
+  "firstContentfulPaint": 6112.678,
+  "speedIndex": 7077.866059060625,
+  "largestContentfulPaint": 17644.452499999996,
+  "totalBlockingTime": 421.0000000000018,
+  "cumulativeLayoutShift": 0.03570556640625,
+  "timeToInteractive": 13074.845999999998,
+  "maxPotentialFirstInputDelay": 241.00000000000182,
+  "timeToFirstByte": 538.178,
+  "weight": {
+    "summary": "284 requests • 2,159 KiB",
+    "total": 2211016,
+    "image": 1134511,
+    "imageCount": 103,
+    "script": 816814,
+    "scriptCount": 85,
+    "document": 42360,
+    "font": 65899,
+    "fontCount": 4,
+    "stylesheet": 114830,
+    "stylesheetCount": 13,
+    "thirdParty": 643801,
+    "thirdPartyCount": 216
+  },
+  "axe": {
+    "passes": 725,
+    "violations": 36
+  }
+}

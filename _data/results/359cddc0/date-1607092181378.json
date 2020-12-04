@@ -1,0 +1,46 @@
+{
+  "url": "https://www.mastec.com/",
+  "requestedUrl": "https://www.mastec.com/",
+  "timestamp": 1607093791570,
+  "ranks": {
+    "hundos": 32,
+    "performance": 28,
+    "accessibility": 62,
+    "cumulative": 32
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.59,
+    "accessibility": 0.84,
+    "bestPractices": 0.8,
+    "seo": 0.83,
+    "total": 306
+  },
+  "firstContentfulPaint": 3399.267999999999,
+  "speedIndex": 5486.400712236425,
+  "largestContentfulPaint": 5891.954,
+  "totalBlockingTime": 50,
+  "cumulativeLayoutShift": 0.00044458219740125865,
+  "timeToInteractive": 7483.626999999999,
+  "maxPotentialFirstInputDelay": 131,
+  "timeToFirstByte": 61.28699999999998,
+  "weight": {
+    "summary": "52 requests • 2,892 KiB",
+    "total": 2960912,
+    "image": 2113835,
+    "imageCount": 35,
+    "script": 191219,
+    "scriptCount": 5,
+    "document": 53449,
+    "font": 350229,
+    "fontCount": 9,
+    "stylesheet": 252180,
+    "stylesheetCount": 2,
+    "thirdParty": 298648,
+    "thirdPartyCount": 13
+  },
+  "axe": {
+    "passes": 658,
+    "violations": 14
+  }
+}

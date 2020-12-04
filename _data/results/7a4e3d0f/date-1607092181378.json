@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cintas.com/",
+  "requestedUrl": "https://www.cintas.com/",
+  "timestamp": 1607092626344,
+  "ranks": {
+    "hundos": 94,
+    "performance": 96,
+    "accessibility": 76,
+    "cumulative": 94
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.12,
+    "accessibility": 0.76,
+    "bestPractices": 0.6,
+    "seo": 0.77,
+    "total": 225
+  },
+  "firstContentfulPaint": 4790.031999999999,
+  "speedIndex": 12177.203421570102,
+  "largestContentfulPaint": 24275.48600000001,
+  "totalBlockingTime": 862,
+  "cumulativeLayoutShift": 0.9120297813415527,
+  "timeToInteractive": 29293.032,
+  "maxPotentialFirstInputDelay": 401,
+  "timeToFirstByte": 34.22700000000032,
+  "weight": {
+    "summary": "204 requests • 6,048 KiB",
+    "total": 6193025,
+    "image": 2903962,
+    "imageCount": 56,
+    "script": 1164352,
+    "scriptCount": 49,
+    "document": 49010,
+    "font": 1156714,
+    "fontCount": 31,
+    "stylesheet": 58105,
+    "stylesheetCount": 14,
+    "thirdParty": 1761216,
+    "thirdPartyCount": 131
+  },
+  "axe": {
+    "passes": 738,
+    "violations": 42
+  }
+}

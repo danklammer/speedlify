@@ -1,0 +1,46 @@
+{
+  "url": "https://hdsupply.com/",
+  "requestedUrl": "https://www.hdsupply.com/",
+  "timestamp": 1607093149628,
+  "ranks": {
+    "hundos": 27,
+    "performance": 27,
+    "accessibility": 23,
+    "cumulative": 27
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.59,
+    "accessibility": 0.95,
+    "bestPractices": 0.73,
+    "seo": 0.82,
+    "total": 309
+  },
+  "firstContentfulPaint": 3651.2920000000004,
+  "speedIndex": 4385.155004869595,
+  "largestContentfulPaint": 4311.292,
+  "totalBlockingTime": 334.5,
+  "cumulativeLayoutShift": 1.673104579501682,
+  "timeToInteractive": 7378.339,
+  "maxPotentialFirstInputDelay": 499,
+  "timeToFirstByte": 85.87400000000001,
+  "weight": {
+    "summary": "64 requests • 1,295 KiB",
+    "total": 1326212,
+    "image": 669197,
+    "imageCount": 5,
+    "script": 254900,
+    "scriptCount": 21,
+    "document": 18024,
+    "font": 264109,
+    "fontCount": 10,
+    "stylesheet": 118250,
+    "stylesheetCount": 24,
+    "thirdParty": 170859,
+    "thirdPartyCount": 11
+  },
+  "axe": {
+    "passes": 667,
+    "violations": 33
+  }
+}

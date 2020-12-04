@@ -1,0 +1,46 @@
+{
+  "url": "https://www.newellbrands.com/",
+  "requestedUrl": "https://www.newellbrands.com/",
+  "timestamp": 1607088496494,
+  "ranks": {
+    "hundos": 55,
+    "performance": 58,
+    "accessibility": 44,
+    "cumulative": 56
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.35,
+    "accessibility": 0.88,
+    "bestPractices": 0.73,
+    "seo": 0.85,
+    "total": 281
+  },
+  "firstContentfulPaint": 4196.6685,
+  "speedIndex": 7490.861203499496,
+  "largestContentfulPaint": 12842.034499999998,
+  "totalBlockingTime": 535,
+  "cumulativeLayoutShift": 0.023131141662597658,
+  "timeToInteractive": 9635.34,
+  "maxPotentialFirstInputDelay": 469,
+  "timeToFirstByte": 296.81399999999996,
+  "weight": {
+    "summary": "142 requests • 4,371 KiB",
+    "total": 4476348,
+    "image": 3037669,
+    "imageCount": 115,
+    "script": 243390,
+    "scriptCount": 8,
+    "document": 24001,
+    "font": 95184,
+    "fontCount": 6,
+    "stylesheet": 126323,
+    "stylesheetCount": 2,
+    "thirdParty": 4452347,
+    "thirdPartyCount": 141
+  },
+  "axe": {
+    "passes": 1690,
+    "violations": 80
+  }
+}

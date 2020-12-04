@@ -1,0 +1,46 @@
+{
+  "url": "https://www.jnj.com/",
+  "requestedUrl": "https://www.jnj.com/",
+  "timestamp": 1607044212679,
+  "ranks": {
+    "hundos": 79,
+    "performance": 57,
+    "accessibility": 85,
+    "cumulative": 78
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.26,
+    "accessibility": 0.7,
+    "bestPractices": 0.73,
+    "seo": 0.84,
+    "total": 253
+  },
+  "firstContentfulPaint": 2271.11,
+  "speedIndex": 6509.127879110694,
+  "largestContentfulPaint": 10050.295999999997,
+  "totalBlockingTime": 1582.9999999999982,
+  "cumulativeLayoutShift": 0.09975742594401041,
+  "timeToInteractive": 16920.893499999995,
+  "maxPotentialFirstInputDelay": 399,
+  "timeToFirstByte": 57.918000000000006,
+  "weight": {
+    "summary": "137 requests • 6,737 KiB",
+    "total": 6898437,
+    "image": 5164739,
+    "imageCount": 89,
+    "script": 1010691,
+    "scriptCount": 22,
+    "document": 46159,
+    "font": 454154,
+    "fontCount": 9,
+    "stylesheet": 216877,
+    "stylesheetCount": 2,
+    "thirdParty": 6256621,
+    "thirdPartyCount": 115
+  },
+  "axe": {
+    "passes": 1062,
+    "violations": 130
+  }
+}

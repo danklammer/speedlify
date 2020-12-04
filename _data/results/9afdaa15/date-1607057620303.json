@@ -1,0 +1,46 @@
+{
+  "url": "https://www.republicservices.com/",
+  "requestedUrl": "https://www.republicservices.com/",
+  "timestamp": 1607086785872,
+  "ranks": {
+    "hundos": 89,
+    "performance": 87,
+    "accessibility": 87,
+    "cumulative": 90
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.67,
+    "bestPractices": 0.73,
+    "seo": 0.77,
+    "total": 234
+  },
+  "firstContentfulPaint": 2043.0279999999998,
+  "speedIndex": 13957.346168826516,
+  "largestContentfulPaint": 18102.23425694275,
+  "totalBlockingTime": 4685.943000000004,
+  "cumulativeLayoutShift": 0.3178127932018704,
+  "timeToInteractive": 25070.364500000003,
+  "maxPotentialFirstInputDelay": 1098,
+  "timeToFirstByte": 166.599,
+  "weight": {
+    "summary": "110 requests • 4,283 KiB",
+    "total": 4385877,
+    "image": 869082,
+    "imageCount": 24,
+    "script": 2664663,
+    "scriptCount": 38,
+    "document": 19827,
+    "font": 422044,
+    "fontCount": 7,
+    "stylesheet": 280795,
+    "stylesheetCount": 12,
+    "thirdParty": 1481950,
+    "thirdPartyCount": 78
+  },
+  "axe": {
+    "passes": 784,
+    "violations": 40
+  }
+}

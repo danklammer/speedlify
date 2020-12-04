@@ -1,0 +1,46 @@
+{
+  "url": "https://www.crowncastle.com/",
+  "requestedUrl": "https://www.crowncastle.com/",
+  "timestamp": 1607096343714,
+  "ranks": {
+    "hundos": 46,
+    "performance": 69,
+    "accessibility": 65,
+    "cumulative": 46
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.31,
+    "accessibility": 0.84,
+    "bestPractices": 0.8,
+    "seo": 0.99,
+    "total": 294
+  },
+  "firstContentfulPaint": 4348.765500000001,
+  "speedIndex": 7391.704748728451,
+  "largestContentfulPaint": 14539.554000000004,
+  "totalBlockingTime": 579.5,
+  "cumulativeLayoutShift": 0.03856138335333931,
+  "timeToInteractive": 12474.729500000001,
+  "maxPotentialFirstInputDelay": 353,
+  "timeToFirstByte": 380.937,
+  "weight": {
+    "summary": "112 requests • 9,933 KiB",
+    "total": 10171567,
+    "image": 6078282,
+    "imageCount": 28,
+    "script": 752207,
+    "scriptCount": 30,
+    "document": 59947,
+    "font": 13543,
+    "fontCount": 1,
+    "stylesheet": 210481,
+    "stylesheetCount": 7,
+    "thirdParty": 3857985,
+    "thirdPartyCount": 94
+  },
+  "axe": {
+    "passes": 1043,
+    "violations": 71
+  }
+}

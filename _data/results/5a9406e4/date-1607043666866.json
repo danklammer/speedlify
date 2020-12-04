@@ -1,0 +1,46 @@
+{
+  "url": "https://www.aflac.com/",
+  "requestedUrl": "https://www.aflac.com/",
+  "timestamp": 1607049812536,
+  "ranks": {
+    "hundos": 17,
+    "performance": 35,
+    "accessibility": 9,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.41,
+    "accessibility": 0.98,
+    "bestPractices": 0.87,
+    "seo": 0.77,
+    "total": 303
+  },
+  "firstContentfulPaint": 2492.846,
+  "speedIndex": 4558.367710115396,
+  "largestContentfulPaint": 6278.5365,
+  "totalBlockingTime": 795.8165000000008,
+  "cumulativeLayoutShift": 0.009334935506184895,
+  "timeToInteractive": 12921.862999999998,
+  "maxPotentialFirstInputDelay": 345,
+  "timeToFirstByte": 215.898,
+  "weight": {
+    "summary": "113 requests • 1,519 KiB",
+    "total": 1555675,
+    "image": 460244,
+    "imageCount": 46,
+    "script": 724475,
+    "scriptCount": 39,
+    "document": 32254,
+    "font": 160239,
+    "fontCount": 6,
+    "stylesheet": 174277,
+    "stylesheetCount": 6,
+    "thirdParty": 474663,
+    "thirdPartyCount": 50
+  },
+  "axe": {
+    "passes": 848,
+    "violations": 66
+  }
+}

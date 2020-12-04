@@ -1,0 +1,46 @@
+{
+  "url": "https://www.manpowergroup.com/",
+  "requestedUrl": "https://www.manpowergroup.com/",
+  "timestamp": 1607050018445,
+  "ranks": {
+    "hundos": 2,
+    "performance": 4,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.76,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "seo": 0.9,
+    "total": 353
+  },
+  "firstContentfulPaint": 2294.108,
+  "speedIndex": 3080.2806135645687,
+  "largestContentfulPaint": 5885.007999999999,
+  "totalBlockingTime": 52,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3212.5289999999995,
+  "maxPotentialFirstInputDelay": 112,
+  "timeToFirstByte": 496.74,
+  "weight": {
+    "summary": "40 requests • 2,078 KiB",
+    "total": 2127849,
+    "image": 1886922,
+    "imageCount": 20,
+    "script": 143636,
+    "scriptCount": 10,
+    "document": 8420,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 56886,
+    "stylesheetCount": 5,
+    "thirdParty": 170836,
+    "thirdPartyCount": 11
+  },
+  "axe": {
+    "passes": 481,
+    "violations": 2
+  }
+}

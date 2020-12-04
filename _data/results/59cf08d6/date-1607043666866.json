@@ -1,0 +1,46 @@
+{
+  "url": "https://www.microsoft.com/en-us/",
+  "requestedUrl": "https://www.microsoft.com/",
+  "timestamp": 1607044009605,
+  "ranks": {
+    "hundos": 30,
+    "performance": 27,
+    "accessibility": 18,
+    "cumulative": 29
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.97,
+    "bestPractices": 0.73,
+    "seo": 0.84,
+    "total": 296
+  },
+  "firstContentfulPaint": 3482.5105000000003,
+  "speedIndex": 5788.653699699936,
+  "largestContentfulPaint": 5185.227000000001,
+  "totalBlockingTime": 687.4999999999991,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10435.360499999999,
+  "maxPotentialFirstInputDelay": 447,
+  "timeToFirstByte": 128.274,
+  "weight": {
+    "summary": "175 requests • 1,404 KiB",
+    "total": 1437847,
+    "image": 629250,
+    "imageCount": 57,
+    "script": 558341,
+    "scriptCount": 36,
+    "document": 87146,
+    "font": 23527,
+    "fontCount": 1,
+    "stylesheet": 70688,
+    "stylesheetCount": 4,
+    "thirdParty": 1086307,
+    "thirdPartyCount": 143
+  },
+  "axe": {
+    "passes": 1402,
+    "violations": 7
+  }
+}

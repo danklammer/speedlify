@@ -1,0 +1,46 @@
+{
+  "url": "https://www.capitalone.com/",
+  "requestedUrl": "https://www.capitalone.com/",
+  "timestamp": 1607048391732,
+  "ranks": {
+    "hundos": 52,
+    "performance": 67,
+    "accessibility": 45,
+    "cumulative": 52
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.21,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 277
+  },
+  "firstContentfulPaint": 2405.898,
+  "speedIndex": 10475.666381615725,
+  "largestContentfulPaint": 13050.737777244574,
+  "totalBlockingTime": 2372.0000000000005,
+  "cumulativeLayoutShift": 0.03650390625,
+  "timeToInteractive": 15470.90127724457,
+  "maxPotentialFirstInputDelay": 883.0000000000009,
+  "timeToFirstByte": 225.54899999999998,
+  "weight": {
+    "summary": "107 requests • 1,873 KiB",
+    "total": 1918390,
+    "image": 527755,
+    "imageCount": 26,
+    "script": 1163104,
+    "scriptCount": 44,
+    "document": 57089,
+    "font": 85830,
+    "fontCount": 3,
+    "stylesheet": 49223,
+    "stylesheetCount": 2,
+    "thirdParty": 270069,
+    "thirdPartyCount": 36
+  },
+  "axe": {
+    "passes": 617,
+    "violations": 29
+  }
+}

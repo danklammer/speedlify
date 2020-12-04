@@ -1,0 +1,46 @@
+{
+  "url": "https://www.appliedmaterials.com/",
+  "requestedUrl": "https://www.appliedmaterials.com/",
+  "timestamp": 1607059295261,
+  "ranks": {
+    "hundos": 8,
+    "performance": 5,
+    "accessibility": 67,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.82,
+    "accessibility": 0.79,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 327
+  },
+  "firstContentfulPaint": 1438.8249999999998,
+  "speedIndex": 4289.736530398912,
+  "largestContentfulPaint": 2605.9429999999998,
+  "totalBlockingTime": 130,
+  "cumulativeLayoutShift": 0.14080284288194445,
+  "timeToInteractive": 9059.693499999998,
+  "maxPotentialFirstInputDelay": 105,
+  "timeToFirstByte": 38.52199999999999,
+  "weight": {
+    "summary": "37 requests • 1,666 KiB",
+    "total": 1706235,
+    "image": 1221856,
+    "imageCount": 12,
+    "script": 212581,
+    "scriptCount": 10,
+    "document": 19096,
+    "font": 169279,
+    "fontCount": 5,
+    "stylesheet": 80112,
+    "stylesheetCount": 1,
+    "thirdParty": 98549,
+    "thirdPartyCount": 13
+  },
+  "axe": {
+    "passes": 751,
+    "violations": 64
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.aam.com/",
+  "requestedUrl": "https://www.aam.com/",
+  "timestamp": 1607094191056,
+  "ranks": {
+    "hundos": 23,
+    "performance": 8,
+    "accessibility": 44,
+    "cumulative": 23
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.74,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "seo": 0.81,
+    "total": 310
+  },
+  "firstContentfulPaint": 2354.8499999999995,
+  "speedIndex": 4395.263117219363,
+  "largestContentfulPaint": 3690.0524999999993,
+  "totalBlockingTime": 153,
+  "cumulativeLayoutShift": 0.0385949452718099,
+  "timeToInteractive": 9401.3455,
+  "maxPotentialFirstInputDelay": 125,
+  "timeToFirstByte": 96.69899999999998,
+  "weight": {
+    "summary": "95 requests • 2,461 KiB",
+    "total": 2520530,
+    "image": 1333223,
+    "imageCount": 27,
+    "script": 365953,
+    "scriptCount": 26,
+    "document": 23611,
+    "font": 93474,
+    "fontCount": 2,
+    "stylesheet": 64383,
+    "stylesheetCount": 3,
+    "thirdParty": 314745,
+    "thirdPartyCount": 64
+  },
+  "axe": {
+    "passes": 576,
+    "violations": 36
+  }
+}

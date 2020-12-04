@@ -1,0 +1,46 @@
+{
+  "url": "https://www.newmont.com/home/default.aspx",
+  "requestedUrl": "https://www.newmont.com/",
+  "timestamp": 1607087118679,
+  "ranks": {
+    "hundos": 93,
+    "performance": 91,
+    "accessibility": 76,
+    "cumulative": 93
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.12,
+    "accessibility": 0.76,
+    "bestPractices": 0.67,
+    "seo": 0.76,
+    "total": 231
+  },
+  "firstContentfulPaint": 4808.927000000001,
+  "speedIndex": 9853.067130052048,
+  "largestContentfulPaint": 46325.86050000015,
+  "totalBlockingTime": 1527.2470000000003,
+  "cumulativeLayoutShift": 1.1094320415920682,
+  "timeToInteractive": 9928.294000000002,
+  "maxPotentialFirstInputDelay": 1577,
+  "timeToFirstByte": 108.10499999999999,
+  "weight": {
+    "summary": "89 requests • 36,636 KiB",
+    "total": 37515492,
+    "image": 36771796,
+    "imageCount": 24,
+    "script": 456873,
+    "scriptCount": 19,
+    "document": 38484,
+    "font": 87575,
+    "fontCount": 8,
+    "stylesheet": 130774,
+    "stylesheetCount": 7,
+    "thirdParty": 37447030,
+    "thirdPartyCount": 64
+  },
+  "axe": {
+    "passes": 817,
+    "violations": 17
+  }
+}

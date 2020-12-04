@@ -1,0 +1,46 @@
+{
+  "url": "https://m.kohls.com/",
+  "requestedUrl": "https://www.kohls.com/",
+  "timestamp": 1607053682974,
+  "ranks": {
+    "hundos": 93,
+    "performance": 57,
+    "accessibility": 95,
+    "cumulative": 93
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.43,
+    "bestPractices": 0.6,
+    "seo": 0.77,
+    "total": 207
+  },
+  "firstContentfulPaint": 2570.268,
+  "speedIndex": 8448.495396794187,
+  "largestContentfulPaint": 4199.385,
+  "totalBlockingTime": 4546.4999999999945,
+  "cumulativeLayoutShift": 1.5758290794160632,
+  "timeToInteractive": 28074.664173645007,
+  "maxPotentialFirstInputDelay": 985.9999999999964,
+  "timeToFirstByte": 138.998,
+  "weight": {
+    "summary": "392 requests • 3,639 KiB",
+    "total": 3726561,
+    "image": 1156078,
+    "imageCount": 163,
+    "script": 2082526,
+    "scriptCount": 80,
+    "document": 143092,
+    "font": 14719,
+    "fontCount": 1,
+    "stylesheet": 164582,
+    "stylesheetCount": 5,
+    "thirdParty": 3018493,
+    "thirdPartyCount": 351
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

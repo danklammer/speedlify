@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bakerhughes.com/",
+  "requestedUrl": "https://www.bakerhughes.com/",
+  "timestamp": 1607053135829,
+  "ranks": {
+    "hundos": 32,
+    "performance": 58,
+    "accessibility": 17,
+    "cumulative": 32
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.26,
+    "accessibility": 0.96,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 288
+  },
+  "firstContentfulPaint": 2217.143,
+  "speedIndex": 5448.255204325874,
+  "largestContentfulPaint": 13388.169999999998,
+  "totalBlockingTime": 2069.999999999999,
+  "cumulativeLayoutShift": 0.3197998318142361,
+  "timeToInteractive": 15830.918999999998,
+  "maxPotentialFirstInputDelay": 1123.0000000000018,
+  "timeToFirstByte": 136.64900000000003,
+  "weight": {
+    "summary": "104 requests • 2,275 KiB",
+    "total": 2329575,
+    "image": 1140201,
+    "imageCount": 31,
+    "script": 848471,
+    "scriptCount": 41,
+    "document": 42583,
+    "font": 130722,
+    "fontCount": 3,
+    "stylesheet": 127999,
+    "stylesheetCount": 2,
+    "thirdParty": 478089,
+    "thirdPartyCount": 65
+  },
+  "axe": {
+    "passes": 944,
+    "violations": 42
+  }
+}

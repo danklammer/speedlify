@@ -1,0 +1,46 @@
+{
+  "url": "https://aecom.com/",
+  "requestedUrl": "https://www.aecom.com/",
+  "timestamp": 1607050082051,
+  "ranks": {
+    "hundos": 71,
+    "performance": 76,
+    "accessibility": 72,
+    "cumulative": 70
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.18,
+    "accessibility": 0.78,
+    "bestPractices": 0.73,
+    "seo": 0.86,
+    "total": 255
+  },
+  "firstContentfulPaint": 3425.352,
+  "speedIndex": 9966.053191501162,
+  "largestContentfulPaint": 11586.814999999999,
+  "totalBlockingTime": 910.5,
+  "cumulativeLayoutShift": 0.9373769760131836,
+  "timeToInteractive": 17220.926,
+  "maxPotentialFirstInputDelay": 590,
+  "timeToFirstByte": 40.29,
+  "weight": {
+    "summary": "141 requests • 3,037 KiB",
+    "total": 3110111,
+    "image": 1237516,
+    "imageCount": 43,
+    "script": 624924,
+    "scriptCount": 41,
+    "document": 46821,
+    "font": 1078640,
+    "fontCount": 22,
+    "stylesheet": 115518,
+    "stylesheetCount": 22,
+    "thirdParty": 922259,
+    "thirdPartyCount": 54
+  },
+  "axe": {
+    "passes": 1210,
+    "violations": 44
+  }
+}

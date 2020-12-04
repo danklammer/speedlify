@@ -1,0 +1,46 @@
+{
+  "url": "https://us.pg.com/",
+  "requestedUrl": "https://www.pg.com/",
+  "timestamp": 1607044507463,
+  "ranks": {
+    "hundos": 73,
+    "performance": 87,
+    "accessibility": 86,
+    "cumulative": 70
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.1,
+    "accessibility": 0.69,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 259
+  },
+  "firstContentfulPaint": 6442.9580000000005,
+  "speedIndex": 12458.379678469697,
+  "largestContentfulPaint": 7577.4490000000005,
+  "totalBlockingTime": 2556.9310000000005,
+  "cumulativeLayoutShift": 0.05733166503906251,
+  "timeToInteractive": 13300.999,
+  "maxPotentialFirstInputDelay": 935,
+  "timeToFirstByte": 64.82900000000001,
+  "weight": {
+    "summary": "73 requests • 1,344 KiB",
+    "total": 1376476,
+    "image": 202095,
+    "imageCount": 24,
+    "script": 981110,
+    "scriptCount": 21,
+    "document": 8211,
+    "font": 40402,
+    "fontCount": 3,
+    "stylesheet": 86717,
+    "stylesheetCount": 3,
+    "thirdParty": 818741,
+    "thirdPartyCount": 67
+  },
+  "axe": {
+    "passes": 561,
+    "violations": 8
+  }
+}

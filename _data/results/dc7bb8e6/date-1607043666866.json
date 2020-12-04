@@ -1,0 +1,46 @@
+{
+  "url": "https://www.southerncompany.com/",
+  "requestedUrl": "https://www.southerncompany.com/",
+  "timestamp": 1607049929271,
+  "ranks": {
+    "hundos": 30,
+    "performance": 46,
+    "accessibility": 50,
+    "cumulative": 31
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.35,
+    "accessibility": 0.86,
+    "bestPractices": 0.87,
+    "seo": 0.82,
+    "total": 290
+  },
+  "firstContentfulPaint": 3277.3675000000003,
+  "speedIndex": 8525.720398089179,
+  "largestContentfulPaint": 4239.9605,
+  "totalBlockingTime": 766.0000000000005,
+  "cumulativeLayoutShift": 0.3557585856119792,
+  "timeToInteractive": 16645.962,
+  "maxPotentialFirstInputDelay": 372.00000000000045,
+  "timeToFirstByte": 92.75,
+  "weight": {
+    "summary": "116 requests • 11,148 KiB",
+    "total": 11415325,
+    "image": 10367593,
+    "imageCount": 51,
+    "script": 685109,
+    "scriptCount": 29,
+    "document": 20247,
+    "font": 294419,
+    "fontCount": 9,
+    "stylesheet": 38157,
+    "stylesheetCount": 1,
+    "thirdParty": 827586,
+    "thirdPartyCount": 68
+  },
+  "axe": {
+    "passes": 878,
+    "violations": 64
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.targaresources.com/",
+  "requestedUrl": "https://www.targaresources.com/",
+  "timestamp": 1607087592847,
+  "ranks": {
+    "hundos": 59,
+    "performance": 39,
+    "accessibility": 33,
+    "cumulative": 59
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.54,
+    "accessibility": 0.9,
+    "bestPractices": 0.6,
+    "seo": 0.75,
+    "total": 279
+  },
+  "firstContentfulPaint": 2106.7599999999993,
+  "speedIndex": 5178.204090676953,
+  "largestContentfulPaint": 11668.265000000003,
+  "totalBlockingTime": 78,
+  "cumulativeLayoutShift": 1.1951578691270617,
+  "timeToInteractive": 8572.411000000004,
+  "maxPotentialFirstInputDelay": 147,
+  "timeToFirstByte": 116.263,
+  "weight": {
+    "summary": "40 requests • 2,006 KiB",
+    "total": 2054201,
+    "image": 1460967,
+    "imageCount": 9,
+    "script": 348477,
+    "scriptCount": 18,
+    "document": 15074,
+    "font": 144388,
+    "fontCount": 3,
+    "stylesheet": 78803,
+    "stylesheetCount": 6,
+    "thirdParty": 71982,
+    "thirdPartyCount": 7
+  },
+  "axe": {
+    "passes": 632,
+    "violations": 28
+  }
+}

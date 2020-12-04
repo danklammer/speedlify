@@ -1,0 +1,46 @@
+{
+  "url": "https://www.securian.com/",
+  "requestedUrl": "https://www.securian.com/",
+  "timestamp": 1607095672349,
+  "ranks": {
+    "hundos": 56,
+    "performance": 70,
+    "accessibility": 49,
+    "cumulative": 56
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.31,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "seo": 0.91,
+    "total": 282
+  },
+  "firstContentfulPaint": 12090.928999999996,
+  "speedIndex": 12090.928999999996,
+  "largestContentfulPaint": 16816.168999999994,
+  "totalBlockingTime": 167.80500000000757,
+  "cumulativeLayoutShift": 0.004212646484375,
+  "timeToInteractive": 19649.874,
+  "maxPotentialFirstInputDelay": 235,
+  "timeToFirstByte": 53.26999999999998,
+  "weight": {
+    "summary": "89 requests • 2,857 KiB",
+    "total": 2925633,
+    "image": 398082,
+    "imageCount": 26,
+    "script": 861585,
+    "scriptCount": 23,
+    "document": 22646,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 1629963,
+    "stylesheetCount": 6,
+    "thirdParty": 342940,
+    "thirdPartyCount": 60
+  },
+  "axe": {
+    "passes": 677,
+    "violations": 29
+  }
+}

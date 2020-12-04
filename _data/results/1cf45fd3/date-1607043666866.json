@@ -1,0 +1,46 @@
+{
+  "url": "https://www.dollartree.com/",
+  "requestedUrl": "https://www.dollartree.com/",
+  "timestamp": 1607049613802,
+  "ranks": {
+    "hundos": 92,
+    "performance": 96,
+    "accessibility": 73,
+    "cumulative": 92
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.01,
+    "accessibility": 0.76,
+    "bestPractices": 0.47,
+    "seo": 0.85,
+    "total": 209
+  },
+  "firstContentfulPaint": 9456.099,
+  "speedIndex": 18109.687646170696,
+  "largestContentfulPaint": 34951.0735,
+  "totalBlockingTime": 15634.901500000009,
+  "cumulativeLayoutShift": 0.890010113398234,
+  "timeToInteractive": 53817.417500000025,
+  "maxPotentialFirstInputDelay": 4001,
+  "timeToFirstByte": 239.072,
+  "weight": {
+    "summary": "431 requests • 11,212 KiB",
+    "total": 11481340,
+    "image": 6973092,
+    "imageCount": 202,
+    "script": 2686753,
+    "scriptCount": 133,
+    "document": 42825,
+    "font": 113499,
+    "fontCount": 6,
+    "stylesheet": 327972,
+    "stylesheetCount": 21,
+    "thirdParty": 2038760,
+    "thirdPartyCount": 173
+  },
+  "axe": {
+    "passes": 3555,
+    "violations": 77
+  }
+}

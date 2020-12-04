@@ -1,0 +1,46 @@
+{
+  "url": "https://www.rockwellautomation.com/",
+  "requestedUrl": "https://www.rockwellautomation.com/",
+  "timestamp": 1607094094845,
+  "ranks": {
+    "hundos": 74,
+    "performance": 73,
+    "accessibility": 66,
+    "cumulative": 71
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.29,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "seo": 0.79,
+    "total": 271
+  },
+  "firstContentfulPaint": 2357.2830000000004,
+  "speedIndex": 8707.421300473277,
+  "largestContentfulPaint": 13367.776000000002,
+  "totalBlockingTime": 985,
+  "cumulativeLayoutShift": 0.021321182250976563,
+  "timeToInteractive": 10848.648,
+  "maxPotentialFirstInputDelay": 520,
+  "timeToFirstByte": 81.17699999999999,
+  "weight": {
+    "summary": "69 requests • 983 KiB",
+    "total": 1006383,
+    "image": 66127,
+    "imageCount": 13,
+    "script": 780095,
+    "scriptCount": 26,
+    "document": 13429,
+    "font": 48436,
+    "fontCount": 2,
+    "stylesheet": 52424,
+    "stylesheetCount": 2,
+    "thirdParty": 685193,
+    "thirdPartyCount": 58
+  },
+  "axe": {
+    "passes": 870,
+    "violations": 16
+  }
+}

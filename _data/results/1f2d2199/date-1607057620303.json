@@ -1,0 +1,46 @@
+{
+  "url": "https://www.caesars.com/",
+  "requestedUrl": "https://www.caesars.com/",
+  "timestamp": 1607087571287,
+  "ranks": {
+    "hundos": 83,
+    "performance": 94,
+    "accessibility": 45,
+    "cumulative": 82
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.03,
+    "accessibility": 0.88,
+    "bestPractices": 0.73,
+    "seo": 0.86,
+    "total": 250
+  },
+  "firstContentfulPaint": 12755.325,
+  "speedIndex": 14103.927165668007,
+  "largestContentfulPaint": 32380.47000000001,
+  "totalBlockingTime": 1285.184500000004,
+  "cumulativeLayoutShift": 0.8207878553602431,
+  "timeToInteractive": 23044.865000000005,
+  "maxPotentialFirstInputDelay": 894.0000000000073,
+  "timeToFirstByte": 333.31,
+  "weight": {
+    "summary": "236 requests • 6,514 KiB",
+    "total": 6670252,
+    "image": 3293009,
+    "imageCount": 65,
+    "script": 2268729,
+    "scriptCount": 45,
+    "document": 25130,
+    "font": 128677,
+    "fontCount": 11,
+    "stylesheet": 63749,
+    "stylesheetCount": 7,
+    "thirdParty": 792211,
+    "thirdPartyCount": 125
+  },
+  "axe": {
+    "passes": 2454,
+    "violations": 200
+  }
+}

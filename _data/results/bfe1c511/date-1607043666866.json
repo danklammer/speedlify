@@ -1,0 +1,46 @@
+{
+  "url": "https://www.dow.com/en-us",
+  "requestedUrl": "https://www.dow.com/",
+  "timestamp": 1607046474512,
+  "ranks": {
+    "hundos": 75,
+    "performance": 38,
+    "accessibility": 88,
+    "cumulative": 74
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.68,
+    "bestPractices": 0.73,
+    "seo": 0.79,
+    "total": 257
+  },
+  "firstContentfulPaint": 2789.785,
+  "speedIndex": 4614.973038233506,
+  "largestContentfulPaint": 5650.090948905945,
+  "totalBlockingTime": 2252.000000000001,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8848.538948905945,
+  "maxPotentialFirstInputDelay": 1250.0000000000002,
+  "timeToFirstByte": 257.403,
+  "weight": {
+    "summary": "63 requests • 2,239 KiB",
+    "total": 2292782,
+    "image": 1417814,
+    "imageCount": 30,
+    "script": 612993,
+    "scriptCount": 12,
+    "document": 81682,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 118512,
+    "stylesheetCount": 4,
+    "thirdParty": 156016,
+    "thirdPartyCount": 13
+  },
+  "axe": {
+    "passes": 961,
+    "violations": 63
+  }
+}

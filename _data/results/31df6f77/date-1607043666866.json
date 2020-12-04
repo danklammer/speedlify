@@ -1,0 +1,46 @@
+{
+  "url": "https://www.publix.com/",
+  "requestedUrl": "https://www.publix.com/",
+  "timestamp": 1607045034946,
+  "ranks": {
+    "hundos": 37,
+    "performance": 83,
+    "accessibility": 8,
+    "cumulative": 36
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.13,
+    "accessibility": 1,
+    "bestPractices": 0.8,
+    "seo": 0.98,
+    "total": 291
+  },
+  "firstContentfulPaint": 5373.897500000001,
+  "speedIndex": 15388.951926834396,
+  "largestContentfulPaint": 20413.02799999999,
+  "totalBlockingTime": 983.9999999999982,
+  "cumulativeLayoutShift": 0.17132576179504394,
+  "timeToInteractive": 18447.699,
+  "maxPotentialFirstInputDelay": 539,
+  "timeToFirstByte": 669.145,
+  "weight": {
+    "summary": "158 requests • 1,961 KiB",
+    "total": 2007582,
+    "image": 602504,
+    "imageCount": 62,
+    "script": 1256897,
+    "scriptCount": 37,
+    "document": 20589,
+    "font": 69700,
+    "fontCount": 5,
+    "stylesheet": 23089,
+    "stylesheetCount": 3,
+    "thirdParty": 1199031,
+    "thirdPartyCount": 133
+  },
+  "axe": {
+    "passes": 889,
+    "violations": 14
+  }
+}

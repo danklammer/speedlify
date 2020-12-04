@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cognizant.com/",
+  "requestedUrl": "https://www.cognizant.com/",
+  "timestamp": 1607050572331,
+  "ranks": {
+    "hundos": 85,
+    "performance": 84,
+    "accessibility": 90,
+    "cumulative": 85
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.13,
+    "accessibility": 0.61,
+    "bestPractices": 0.73,
+    "seo": 0.81,
+    "total": 228
+  },
+  "firstContentfulPaint": 4247.183,
+  "speedIndex": 10802.998626709012,
+  "largestContentfulPaint": 16576.658172149662,
+  "totalBlockingTime": 3243,
+  "cumulativeLayoutShift": 0.059375,
+  "timeToInteractive": 19254.06815246582,
+  "maxPotentialFirstInputDelay": 663,
+  "timeToFirstByte": 54.94200000000001,
+  "weight": {
+    "summary": "183 requests • 4,986 KiB",
+    "total": 5105121,
+    "image": 2526396,
+    "imageCount": 58,
+    "script": 1966641,
+    "scriptCount": 67,
+    "document": 137672,
+    "font": 98047,
+    "fontCount": 5,
+    "stylesheet": 164589,
+    "stylesheetCount": 10,
+    "thirdParty": 1644378,
+    "thirdPartyCount": 108
+  },
+  "axe": {
+    "passes": 1965,
+    "violations": 120
+  }
+}

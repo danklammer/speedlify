@@ -1,0 +1,46 @@
+{
+  "url": "https://www.chs.net/",
+  "requestedUrl": "https://www.chs.net/",
+  "timestamp": 1607058095971,
+  "ranks": {
+    "hundos": 1,
+    "performance": 2,
+    "accessibility": 10,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.87,
+    "accessibility": 0.97,
+    "bestPractices": 0.87,
+    "seo": 0.81,
+    "total": 352
+  },
+  "firstContentfulPaint": 2836.0815000000002,
+  "speedIndex": 3539.8757179174145,
+  "largestContentfulPaint": 2935.181,
+  "totalBlockingTime": 227.13950000000023,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4026.4730000000004,
+  "maxPotentialFirstInputDelay": 339,
+  "timeToFirstByte": 145.57799999999997,
+  "weight": {
+    "summary": "19 requests • 672 KiB",
+    "total": 687855,
+    "image": 449278,
+    "imageCount": 9,
+    "script": 194012,
+    "scriptCount": 5,
+    "document": 29105,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 15460,
+    "stylesheetCount": 4,
+    "thirdParty": 53151,
+    "thirdPartyCount": 5
+  },
+  "axe": {
+    "passes": 415,
+    "violations": 11
+  }
+}

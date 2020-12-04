@@ -1,0 +1,45 @@
+{
+  "url": "https://www.bestbuy.com/",
+  "requestedUrl": "https://www.bestbuy.com/",
+  "timestamp": 1607044875316,
+  "ranks": {
+    "hundos": 67,
+    "performance": 81,
+    "accessibility": 48,
+    "cumulative": 67
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.13,
+    "accessibility": 0.9,
+    "bestPractices": 0.67,
+    "seo": 0.92,
+    "total": 262
+  },
+  "firstContentfulPaint": 4910.804999999999,
+  "speedIndex": 7010.778104252799,
+  "largestContentfulPaint": 11737.874999999996,
+  "totalBlockingTime": 1979,
+  "cumulativeLayoutShift": 0.2078179486592611,
+  "timeToInteractive": 24379.968999999997,
+  "maxPotentialFirstInputDelay": 850,
+  "timeToFirstByte": 327.515,
+  "weight": {
+    "summary": "332 requests • 4,024 KiB",
+    "total": 4120311,
+    "image": 1686648,
+    "imageCount": 80,
+    "script": 1881118,
+    "scriptCount": 102,
+    "document": 144450,
+    "font": 165941,
+    "fontCount": 4,
+    "stylesheet": 67262,
+    "stylesheetCount": 23,
+    "thirdParty": 2741012,
+    "thirdPartyCount": 206
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

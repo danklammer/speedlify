@@ -1,0 +1,46 @@
+{
+  "url": "https://www.penskeautomotive.com/corporate-profile/default.aspx",
+  "requestedUrl": "https://www.penskeautomotive.com/",
+  "timestamp": 1607053263145,
+  "ranks": {
+    "hundos": 57,
+    "performance": 40,
+    "accessibility": 66,
+    "cumulative": 58
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.82,
+    "bestPractices": 0.67,
+    "seo": 0.82,
+    "total": 268
+  },
+  "firstContentfulPaint": 5905.750000000001,
+  "speedIndex": 5905.750000000001,
+  "largestContentfulPaint": 9975.020000000002,
+  "totalBlockingTime": 412,
+  "cumulativeLayoutShift": 0.3842724609375,
+  "timeToInteractive": 7522.272500000001,
+  "maxPotentialFirstInputDelay": 447,
+  "timeToFirstByte": 53.548,
+  "weight": {
+    "summary": "67 requests • 4,992 KiB",
+    "total": 5111699,
+    "image": 4440757,
+    "imageCount": 31,
+    "script": 477413,
+    "scriptCount": 16,
+    "document": 26106,
+    "font": 23104,
+    "fontCount": 2,
+    "stylesheet": 142641,
+    "stylesheetCount": 12,
+    "thirdParty": 5083412,
+    "thirdPartyCount": 63
+  },
+  "axe": {
+    "passes": 387,
+    "violations": 20
+  }
+}

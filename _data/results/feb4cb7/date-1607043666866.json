@@ -1,0 +1,45 @@
+{
+  "url": "https://www.lear.com/",
+  "requestedUrl": "https://www.lear.com/",
+  "timestamp": 1607050127064,
+  "ranks": {
+    "hundos": 48,
+    "performance": 30,
+    "accessibility": 44,
+    "cumulative": 49
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.43,
+    "accessibility": 0.88,
+    "bestPractices": 0.6,
+    "seo": 0.84,
+    "total": 275
+  },
+  "firstContentfulPaint": 2314.762,
+  "speedIndex": 6098.3927593904655,
+  "largestContentfulPaint": 4573.6485,
+  "totalBlockingTime": 693.5,
+  "cumulativeLayoutShift": 0.344287109375,
+  "timeToInteractive": 12131.173999999999,
+  "maxPotentialFirstInputDelay": 390,
+  "timeToFirstByte": 48.335999999999984,
+  "weight": {
+    "summary": "70 requests • 7,447 KiB",
+    "total": 4036641,
+    "image": 2687837,
+    "imageCount": 23,
+    "script": 884925,
+    "scriptCount": 22,
+    "document": 64572,
+    "font": 168128,
+    "fontCount": 5,
+    "stylesheet": 93961,
+    "stylesheetCount": 8,
+    "thirdParty": 901824,
+    "thirdPartyCount": 33
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

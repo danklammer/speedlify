@@ -1,0 +1,46 @@
+{
+  "url": "https://www.hertz.com/",
+  "requestedUrl": "https://www.hertz.com/",
+  "timestamp": 1607088589551,
+  "ranks": {
+    "hundos": 53,
+    "performance": 84,
+    "accessibility": 17,
+    "cumulative": 51
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.19,
+    "accessibility": 0.94,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 285
+  },
+  "firstContentfulPaint": 5483.428000000002,
+  "speedIndex": 11744.585424981702,
+  "largestContentfulPaint": 8071.790000000002,
+  "totalBlockingTime": 965.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9861.185000000003,
+  "maxPotentialFirstInputDelay": 400,
+  "timeToFirstByte": 152.221,
+  "weight": {
+    "summary": "60 requests • 1,135 KiB",
+    "total": 1161816,
+    "image": 3863,
+    "imageCount": 11,
+    "script": 863102,
+    "scriptCount": 21,
+    "document": 3538,
+    "font": 125588,
+    "fontCount": 5,
+    "stylesheet": 92610,
+    "stylesheetCount": 6,
+    "thirdParty": 316762,
+    "thirdPartyCount": 31
+  },
+  "axe": {
+    "passes": 130,
+    "violations": 12
+  }
+}

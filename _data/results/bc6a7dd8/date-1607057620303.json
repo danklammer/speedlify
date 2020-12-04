@@ -1,0 +1,46 @@
+{
+  "url": "https://www.berryglobal.com/",
+  "requestedUrl": "https://www.berryglobal.com/",
+  "timestamp": 1607089014675,
+  "ranks": {
+    "hundos": 70,
+    "performance": 33,
+    "accessibility": 68,
+    "cumulative": 70
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.59,
+    "accessibility": 0.8,
+    "bestPractices": 0.73,
+    "seo": 0.61,
+    "total": 273
+  },
+  "firstContentfulPaint": 3168.3369999999995,
+  "speedIndex": 3801.8159931023297,
+  "largestContentfulPaint": 7128.243499999999,
+  "totalBlockingTime": 185.5,
+  "cumulativeLayoutShift": 0.15239009857177735,
+  "timeToInteractive": 8660.783000000003,
+  "maxPotentialFirstInputDelay": 289,
+  "timeToFirstByte": 32.43699999999998,
+  "weight": {
+    "summary": "84 requests • 3,808 KiB",
+    "total": 3899042,
+    "image": 3263400,
+    "imageCount": 22,
+    "script": 492982,
+    "scriptCount": 41,
+    "document": 26583,
+    "font": 56983,
+    "fontCount": 6,
+    "stylesheet": 56964,
+    "stylesheetCount": 10,
+    "thirdParty": 273615,
+    "thirdPartyCount": 27
+  },
+  "axe": {
+    "passes": 929,
+    "violations": 49
+  }
+}

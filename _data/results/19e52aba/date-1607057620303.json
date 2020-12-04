@@ -1,0 +1,46 @@
+{
+  "url": "https://www.mutualofomaha.com/",
+  "requestedUrl": "https://www.mutualofomaha.com/",
+  "timestamp": 1607059072502,
+  "ranks": {
+    "hundos": 7,
+    "performance": 14,
+    "accessibility": 60,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.65,
+    "accessibility": 0.81,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 331
+  },
+  "firstContentfulPaint": 2170.149,
+  "speedIndex": 4738.2437055077335,
+  "largestContentfulPaint": 4727.081499999999,
+  "totalBlockingTime": 397.14400000000023,
+  "cumulativeLayoutShift": 0.25180816650390625,
+  "timeToInteractive": 5365.663,
+  "maxPotentialFirstInputDelay": 455,
+  "timeToFirstByte": 359.03799999999995,
+  "weight": {
+    "summary": "51 requests • 607 KiB",
+    "total": 621851,
+    "image": 122713,
+    "imageCount": 13,
+    "script": 341619,
+    "scriptCount": 23,
+    "document": 53691,
+    "font": 66092,
+    "fontCount": 5,
+    "stylesheet": 34703,
+    "stylesheetCount": 5,
+    "thirdParty": 272475,
+    "thirdPartyCount": 24
+  },
+  "axe": {
+    "passes": 903,
+    "violations": 39
+  }
+}

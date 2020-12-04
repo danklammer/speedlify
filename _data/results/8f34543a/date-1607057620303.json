@@ -1,0 +1,46 @@
+{
+  "url": "https://www.aes.com/",
+  "requestedUrl": "https://www.aes.com/",
+  "timestamp": 1607088353263,
+  "ranks": {
+    "hundos": 36,
+    "performance": 45,
+    "accessibility": 26,
+    "cumulative": 36
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.48,
+    "accessibility": 0.92,
+    "bestPractices": 0.87,
+    "seo": 0.72,
+    "total": 299
+  },
+  "firstContentfulPaint": 2779.277,
+  "speedIndex": 8177.893758730437,
+  "largestContentfulPaint": 19807.151499999993,
+  "totalBlockingTime": 15,
+  "cumulativeLayoutShift": 0.00070953369140625,
+  "timeToInteractive": 11215.918499999996,
+  "maxPotentialFirstInputDelay": 78,
+  "timeToFirstByte": 182.04200000000003,
+  "weight": {
+    "summary": "105 requests • 6,486 KiB",
+    "total": 6641745,
+    "image": 5554508,
+    "imageCount": 22,
+    "script": 334279,
+    "scriptCount": 44,
+    "document": 13168,
+    "font": 33972,
+    "fontCount": 1,
+    "stylesheet": 110102,
+    "stylesheetCount": 26,
+    "thirdParty": 168968,
+    "thirdPartyCount": 23
+  },
+  "axe": {
+    "passes": 539,
+    "violations": 15
+  }
+}

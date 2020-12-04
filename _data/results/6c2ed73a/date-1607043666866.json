@@ -1,0 +1,46 @@
+{
+  "url": "https://mobile.southwest.com/",
+  "requestedUrl": "https://www.southwest.com/",
+  "timestamp": 1607051549358,
+  "ranks": {
+    "hundos": 95,
+    "performance": 93,
+    "accessibility": 96,
+    "cumulative": 95
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.05,
+    "accessibility": 0.41,
+    "bestPractices": 0.67,
+    "seo": 0.83,
+    "total": 196
+  },
+  "firstContentfulPaint": 9107.601999999999,
+  "speedIndex": 11136.611314767455,
+  "largestContentfulPaint": 14145.246,
+  "totalBlockingTime": 1581,
+  "cumulativeLayoutShift": 0.4632296752929687,
+  "timeToInteractive": 14895.7225,
+  "maxPotentialFirstInputDelay": 1143,
+  "timeToFirstByte": 63.089,
+  "weight": {
+    "summary": "119 requests • 1,713 KiB",
+    "total": 1754346,
+    "image": 366563,
+    "imageCount": 35,
+    "script": 1251256,
+    "scriptCount": 24,
+    "document": 6777,
+    "font": 6917,
+    "fontCount": 1,
+    "stylesheet": 43904,
+    "stylesheetCount": 1,
+    "thirdParty": 129493,
+    "thirdPartyCount": 68
+  },
+  "axe": {
+    "passes": 2526,
+    "violations": 5
+  }
+}

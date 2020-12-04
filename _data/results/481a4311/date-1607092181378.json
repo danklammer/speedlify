@@ -1,0 +1,46 @@
+{
+  "url": "https://www.graybar.com/",
+  "requestedUrl": "https://www.graybar.com/",
+  "timestamp": 1607092363956,
+  "ranks": {
+    "hundos": 53,
+    "performance": 38,
+    "accessibility": 69,
+    "cumulative": 53
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.47,
+    "accessibility": 0.81,
+    "bestPractices": 0.8,
+    "seo": 0.77,
+    "total": 285
+  },
+  "firstContentfulPaint": 3472.5105000000003,
+  "speedIndex": 5988.996145104682,
+  "largestContentfulPaint": 8834.825,
+  "totalBlockingTime": 206.5000000000009,
+  "cumulativeLayoutShift": 0.31922319666544596,
+  "timeToInteractive": 10253.716000000002,
+  "maxPotentialFirstInputDelay": 231,
+  "timeToFirstByte": 151.55299999999997,
+  "weight": {
+    "summary": "175 requests • 1,859 KiB",
+    "total": 1904073,
+    "image": 976447,
+    "imageCount": 28,
+    "script": 625375,
+    "scriptCount": 117,
+    "document": 22217,
+    "font": 160215,
+    "fontCount": 6,
+    "stylesheet": 114060,
+    "stylesheetCount": 11,
+    "thirdParty": 1347193,
+    "thirdPartyCount": 72
+  },
+  "axe": {
+    "passes": 711,
+    "violations": 7
+  }
+}

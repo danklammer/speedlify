@@ -1,0 +1,46 @@
+{
+  "url": "http://www.nvrinc.com/",
+  "requestedUrl": "http://www.nvrinc.com/",
+  "timestamp": 1607092376813,
+  "ranks": {
+    "hundos": 14,
+    "performance": 6,
+    "accessibility": 52,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 0.73,
+    "seo": 0.88,
+    "total": 322
+  },
+  "firstContentfulPaint": 1409.5899999999997,
+  "speedIndex": 1409.5899999999997,
+  "largestContentfulPaint": 7587.17,
+  "totalBlockingTime": 11.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2965.9745,
+  "maxPotentialFirstInputDelay": 63,
+  "timeToFirstByte": 92.33000000000001,
+  "weight": {
+    "summary": "24 requests • 1,571 KiB",
+    "total": 1608260,
+    "image": 1506469,
+    "imageCount": 12,
+    "script": 55684,
+    "scriptCount": 2,
+    "document": 3986,
+    "font": 31279,
+    "fontCount": 3,
+    "stylesheet": 10842,
+    "stylesheetCount": 4,
+    "thirdParty": 44856,
+    "thirdPartyCount": 8
+  },
+  "axe": {
+    "passes": 207,
+    "violations": 11
+  }
+}

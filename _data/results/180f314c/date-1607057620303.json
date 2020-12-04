@@ -1,0 +1,46 @@
+{
+  "url": "https://www.labcorp.com/",
+  "requestedUrl": "https://www.labcorp.com/",
+  "timestamp": 1607058611432,
+  "ranks": {
+    "hundos": 46,
+    "performance": 53,
+    "accessibility": 65,
+    "cumulative": 46
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.8,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 288
+  },
+  "firstContentfulPaint": 3312.8680000000004,
+  "speedIndex": 8474.001794708345,
+  "largestContentfulPaint": 11170.906499999997,
+  "totalBlockingTime": 382.4409999999989,
+  "cumulativeLayoutShift": 0.30183299594455293,
+  "timeToInteractive": 11288.106000000003,
+  "maxPotentialFirstInputDelay": 274,
+  "timeToFirstByte": 59.383999999999986,
+  "weight": {
+    "summary": "122 requests • 1,626 KiB",
+    "total": 1664695,
+    "image": 646691,
+    "imageCount": 29,
+    "script": 666844,
+    "scriptCount": 39,
+    "document": 19255,
+    "font": 206492,
+    "fontCount": 5,
+    "stylesheet": 79949,
+    "stylesheetCount": 7,
+    "thirdParty": 835075,
+    "thirdPartyCount": 99
+  },
+  "axe": {
+    "passes": 1213,
+    "violations": 32
+  }
+}

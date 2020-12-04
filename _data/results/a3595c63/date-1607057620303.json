@@ -1,0 +1,46 @@
+{
+  "url": "https://avisbudgetgroup.com/",
+  "requestedUrl": "https://www.avisbudgetgroup.com/",
+  "timestamp": 1607085540978,
+  "ranks": {
+    "hundos": 88,
+    "performance": 90,
+    "accessibility": 47,
+    "cumulative": 88
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.14,
+    "accessibility": 0.87,
+    "bestPractices": 0.6,
+    "seo": 0.77,
+    "total": 238
+  },
+  "firstContentfulPaint": 7215.168000000001,
+  "speedIndex": 13685.441902829736,
+  "largestContentfulPaint": 8378.168000000001,
+  "totalBlockingTime": 923,
+  "cumulativeLayoutShift": 0.039541956583658854,
+  "timeToInteractive": 14186.802432189943,
+  "maxPotentialFirstInputDelay": 631,
+  "timeToFirstByte": 1960.256,
+  "weight": {
+    "summary": "183 requests • 4,946 KiB",
+    "total": 5064731,
+    "image": 3596694,
+    "imageCount": 51,
+    "script": 815668,
+    "scriptCount": 77,
+    "document": 74103,
+    "font": 381426,
+    "fontCount": 10,
+    "stylesheet": 191134,
+    "stylesheetCount": 33,
+    "thirdParty": 487988,
+    "thirdPartyCount": 38
+  },
+  "axe": {
+    "passes": 1893,
+    "violations": 28
+  }
+}

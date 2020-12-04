@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cigna.com/",
+  "requestedUrl": "https://www.cigna.com/",
+  "timestamp": 1607043812825,
+  "ranks": {
+    "hundos": 58,
+    "performance": 52,
+    "accessibility": 75,
+    "cumulative": 58
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.29,
+    "accessibility": 0.78,
+    "bestPractices": 0.73,
+    "seo": 0.92,
+    "total": 272
+  },
+  "firstContentfulPaint": 2899.6549999999997,
+  "speedIndex": 5378.159463018744,
+  "largestContentfulPaint": 9520.994999999999,
+  "totalBlockingTime": 954.9999999999982,
+  "cumulativeLayoutShift": 0.5915331386990017,
+  "timeToInteractive": 11761.936,
+  "maxPotentialFirstInputDelay": 592,
+  "timeToFirstByte": 69.709,
+  "weight": {
+    "summary": "102 requests • 1,433 KiB",
+    "total": 1467116,
+    "image": 152708,
+    "imageCount": 25,
+    "script": 972286,
+    "scriptCount": 30,
+    "document": 24483,
+    "font": 103446,
+    "fontCount": 6,
+    "stylesheet": 64815,
+    "stylesheetCount": 2,
+    "thirdParty": 633430,
+    "thirdPartyCount": 72
+  },
+  "axe": {
+    "passes": 1149,
+    "violations": 37
+  }
+}

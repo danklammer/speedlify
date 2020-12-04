@@ -1,0 +1,46 @@
+{
+  "url": "https://www.allstate.com/",
+  "requestedUrl": "https://www.allstate.com/",
+  "timestamp": 1607048023819,
+  "ranks": {
+    "hundos": 78,
+    "performance": 59,
+    "accessibility": 84,
+    "cumulative": 77
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.25,
+    "accessibility": 0.7,
+    "bestPractices": 0.67,
+    "seo": 0.92,
+    "total": 254
+  },
+  "firstContentfulPaint": 3588.603,
+  "speedIndex": 6225.6605324740285,
+  "largestContentfulPaint": 9526.699705039979,
+  "totalBlockingTime": 1614.8304100799533,
+  "cumulativeLayoutShift": 0.050818947686089404,
+  "timeToInteractive": 11552.626205039978,
+  "maxPotentialFirstInputDelay": 307,
+  "timeToFirstByte": 143.161,
+  "weight": {
+    "summary": "107 requests • 1,791 KiB",
+    "total": 1834090,
+    "image": 543890,
+    "imageCount": 16,
+    "script": 827310,
+    "scriptCount": 45,
+    "document": 112004,
+    "font": 157367,
+    "fontCount": 4,
+    "stylesheet": 112893,
+    "stylesheetCount": 10,
+    "thirdParty": 606043,
+    "thirdPartyCount": 44
+  },
+  "axe": {
+    "passes": 1068,
+    "violations": 58
+  }
+}

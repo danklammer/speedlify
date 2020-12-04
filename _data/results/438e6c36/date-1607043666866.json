@@ -1,0 +1,46 @@
+{
+  "url": "https://www.abbvie.com/",
+  "requestedUrl": "https://www.abbvie.com/",
+  "timestamp": 1607046772935,
+  "ranks": {
+    "hundos": 70,
+    "performance": 58,
+    "accessibility": 80,
+    "cumulative": 69
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.26,
+    "accessibility": 0.76,
+    "bestPractices": 0.73,
+    "seo": 0.85,
+    "total": 260
+  },
+  "firstContentfulPaint": 31115.56099999993,
+  "speedIndex": 31115.56099999993,
+  "largestContentfulPaint": 31998.096999999932,
+  "totalBlockingTime": 324.5,
+  "cumulativeLayoutShift": 0.047075195312500005,
+  "timeToInteractive": 37540.550999999934,
+  "maxPotentialFirstInputDelay": 699,
+  "timeToFirstByte": 96.11400000000003,
+  "weight": {
+    "summary": "94 requests • 7,379 KiB",
+    "total": 7555729,
+    "image": 1047414,
+    "imageCount": 31,
+    "script": 5391989,
+    "scriptCount": 26,
+    "document": 100967,
+    "font": 114902,
+    "fontCount": 3,
+    "stylesheet": 843242,
+    "stylesheetCount": 1,
+    "thirdParty": 539826,
+    "thirdPartyCount": 55
+  },
+  "axe": {
+    "passes": 1346,
+    "violations": 42
+  }
+}

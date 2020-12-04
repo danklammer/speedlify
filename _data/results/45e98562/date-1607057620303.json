@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ameriprise.com/",
+  "requestedUrl": "https://www.ameriprise.com/",
+  "timestamp": 1607059621749,
+  "ranks": {
+    "hundos": 57,
+    "performance": 88,
+    "accessibility": 24,
+    "cumulative": 56
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.1,
+    "accessibility": 0.93,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 276
+  },
+  "firstContentfulPaint": 5040.483,
+  "speedIndex": 9085.989585103935,
+  "largestContentfulPaint": 6599.156,
+  "totalBlockingTime": 1868.499999999999,
+  "cumulativeLayoutShift": 1.1136480712890626,
+  "timeToInteractive": 19306.6875,
+  "maxPotentialFirstInputDelay": 1594.9999999999964,
+  "timeToFirstByte": 50.803,
+  "weight": {
+    "summary": "110 requests • 2,195 KiB",
+    "total": 2247210,
+    "image": 306763,
+    "imageCount": 26,
+    "script": 1488234,
+    "scriptCount": 44,
+    "document": 74038,
+    "font": 233123,
+    "fontCount": 6,
+    "stylesheet": 131379,
+    "stylesheetCount": 7,
+    "thirdParty": 390490,
+    "thirdPartyCount": 49
+  },
+  "axe": {
+    "passes": 888,
+    "violations": 26
+  }
+}

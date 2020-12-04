@@ -1,0 +1,46 @@
+{
+  "url": "https://www.uber.com/",
+  "requestedUrl": "https://www.uber.com/",
+  "timestamp": 1607057931607,
+  "ranks": {
+    "hundos": 38,
+    "performance": 58,
+    "accessibility": 70,
+    "cumulative": 37
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.3,
+    "accessibility": 0.77,
+    "bestPractices": 1,
+    "seo": 0.86,
+    "total": 293
+  },
+  "firstContentfulPaint": 3429.139,
+  "speedIndex": 5295.338849121932,
+  "largestContentfulPaint": 8895.791,
+  "totalBlockingTime": 1612.6989999999978,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9228.887999999999,
+  "maxPotentialFirstInputDelay": 751,
+  "timeToFirstByte": 157.40099999999998,
+  "weight": {
+    "summary": "55 requests • 961 KiB",
+    "total": 984528,
+    "image": 103435,
+    "imageCount": 16,
+    "script": 640708,
+    "scriptCount": 27,
+    "document": 119295,
+    "font": 118823,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 865894,
+    "thirdPartyCount": 52
+  },
+  "axe": {
+    "passes": 1502,
+    "violations": 32
+  }
+}

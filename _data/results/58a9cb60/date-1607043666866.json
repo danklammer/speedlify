@@ -1,0 +1,46 @@
+{
+  "url": "https://www.usbank.com/index.html",
+  "requestedUrl": "https://www.usbank.com/",
+  "timestamp": 1607052894246,
+  "ranks": {
+    "hundos": 91,
+    "performance": 65,
+    "accessibility": 21,
+    "cumulative": 91
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.24,
+    "accessibility": 0.94,
+    "bestPractices": null,
+    "seo": 0.93,
+    "total": 211
+  },
+  "firstContentfulPaint": 3255.1695,
+  "speedIndex": 5633.39542213,
+  "largestContentfulPaint": 10326.740000000002,
+  "totalBlockingTime": 1160.999999999999,
+  "cumulativeLayoutShift": 0.48125,
+  "timeToInteractive": 14028.345000000001,
+  "maxPotentialFirstInputDelay": 276.9999999999982,
+  "timeToFirstByte": 62.619,
+  "weight": {
+    "summary": "165 requests • 1,204 KiB",
+    "total": 1233064,
+    "image": 182905,
+    "imageCount": 34,
+    "script": 809840,
+    "scriptCount": 60,
+    "document": 31134,
+    "font": 124164,
+    "fontCount": 12,
+    "stylesheet": 38507,
+    "stylesheetCount": 5,
+    "thirdParty": 655891,
+    "thirdPartyCount": 100
+  },
+  "axe": {
+    "passes": 1539,
+    "violations": 4
+  }
+}

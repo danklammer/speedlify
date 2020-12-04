@@ -1,0 +1,46 @@
+{
+  "url": "https://www.graphicpkg.com/",
+  "requestedUrl": "https://www.graphicpkg.com/",
+  "timestamp": 1607096064472,
+  "ranks": {
+    "hundos": 58,
+    "performance": 90,
+    "accessibility": 19,
+    "cumulative": 58
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.95,
+    "bestPractices": 0.8,
+    "seo": 0.89,
+    "total": 281
+  },
+  "firstContentfulPaint": 6273.479000000001,
+  "speedIndex": 9906.397977002538,
+  "largestContentfulPaint": 11432.951000000001,
+  "totalBlockingTime": 673.9999999999991,
+  "cumulativeLayoutShift": 1.0014072418212892,
+  "timeToInteractive": 11438.337000000001,
+  "maxPotentialFirstInputDelay": 479.9999999999991,
+  "timeToFirstByte": 60.027000000000015,
+  "weight": {
+    "summary": "61 requests • 1,304 KiB",
+    "total": 1335237,
+    "image": 90832,
+    "imageCount": 7,
+    "script": 891597,
+    "scriptCount": 31,
+    "document": 201861,
+    "font": 14058,
+    "fontCount": 1,
+    "stylesheet": 133423,
+    "stylesheetCount": 12,
+    "thirdParty": 411707,
+    "thirdPartyCount": 33
+  },
+  "axe": {
+    "passes": 242,
+    "violations": 12
+  }
+}

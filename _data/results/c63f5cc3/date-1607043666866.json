@@ -1,0 +1,46 @@
+{
+  "url": "https://www.dollargeneral.com/",
+  "requestedUrl": "https://www.dollargeneral.com/",
+  "timestamp": 1607052882864,
+  "ranks": {
+    "hundos": 69,
+    "performance": 75,
+    "accessibility": 63,
+    "cumulative": 68
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.18,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "seo": 0.77,
+    "total": 258
+  },
+  "firstContentfulPaint": 3755.6485000000002,
+  "speedIndex": 7521.281196270021,
+  "largestContentfulPaint": 17466.742,
+  "totalBlockingTime": 1139.000000000001,
+  "cumulativeLayoutShift": 0.3863674036661784,
+  "timeToInteractive": 15572.759499999998,
+  "maxPotentialFirstInputDelay": 832,
+  "timeToFirstByte": 101.72599999999997,
+  "weight": {
+    "summary": "176 requests • 12,161 KiB",
+    "total": 12452584,
+    "image": 10717239,
+    "imageCount": 82,
+    "script": 1518408,
+    "scriptCount": 54,
+    "document": 25443,
+    "font": 62875,
+    "fontCount": 5,
+    "stylesheet": 94835,
+    "stylesheetCount": 6,
+    "thirdParty": 1022139,
+    "thirdPartyCount": 91
+  },
+  "axe": {
+    "passes": 1163,
+    "violations": 106
+  }
+}

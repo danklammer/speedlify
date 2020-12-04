@@ -1,0 +1,46 @@
+{
+  "url": "https://www.campbellsoupcompany.com/",
+  "requestedUrl": "https://www.campbellsoupcompany.com/",
+  "timestamp": 1607088559566,
+  "ranks": {
+    "hundos": 21,
+    "performance": 5,
+    "accessibility": 43,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.78,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "seo": 0.83,
+    "total": 316
+  },
+  "firstContentfulPaint": 1970.619,
+  "speedIndex": 3573.8386830927766,
+  "largestContentfulPaint": 3598.5310000000004,
+  "totalBlockingTime": 137.5,
+  "cumulativeLayoutShift": 0.570760937584771,
+  "timeToInteractive": 5895.419000000001,
+  "maxPotentialFirstInputDelay": 122,
+  "timeToFirstByte": 88.37200000000001,
+  "weight": {
+    "summary": "71 requests • 1,353 KiB",
+    "total": 1385818,
+    "image": 868591,
+    "imageCount": 30,
+    "script": 435429,
+    "scriptCount": 31,
+    "document": 15853,
+    "font": 27785,
+    "fontCount": 2,
+    "stylesheet": 37910,
+    "stylesheetCount": 6,
+    "thirdParty": 400169,
+    "thirdPartyCount": 27
+  },
+  "axe": {
+    "passes": 902,
+    "violations": 43
+  }
+}

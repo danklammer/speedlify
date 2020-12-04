@@ -1,0 +1,46 @@
+{
+  "url": "https://www.crowncork.com/",
+  "requestedUrl": "https://www.crowncork.com/",
+  "timestamp": 1607082386394,
+  "ranks": {
+    "hundos": 15,
+    "performance": 4,
+    "accessibility": 87,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.82,
+    "accessibility": 0.66,
+    "bestPractices": 0.87,
+    "seo": 0.84,
+    "total": 319
+  },
+  "firstContentfulPaint": 1847.182,
+  "speedIndex": 3535.3926382651302,
+  "largestContentfulPaint": 4173.308999999999,
+  "totalBlockingTime": 175.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3887.0945,
+  "maxPotentialFirstInputDelay": 338,
+  "timeToFirstByte": 417.374,
+  "weight": {
+    "summary": "28 requests • 2,058 KiB",
+    "total": 2107469,
+    "image": 1812719,
+    "imageCount": 22,
+    "script": 191646,
+    "scriptCount": 2,
+    "document": 15420,
+    "font": 24101,
+    "fontCount": 1,
+    "stylesheet": 63583,
+    "stylesheetCount": 2,
+    "thirdParty": 41986,
+    "thirdPartyCount": 2
+  },
+  "axe": {
+    "passes": 886,
+    "violations": 44
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.jetblue.com/",
+  "requestedUrl": "https://www.jetblue.com/",
+  "timestamp": 1607086520653,
+  "ranks": {
+    "hundos": 78,
+    "performance": 86,
+    "accessibility": 72,
+    "cumulative": 78
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.77,
+    "bestPractices": 0.73,
+    "seo": 0.92,
+    "total": 259
+  },
+  "firstContentfulPaint": 2874.7309999999998,
+  "speedIndex": 9032.166743520396,
+  "largestContentfulPaint": 10104.543999999998,
+  "totalBlockingTime": 3264.9999999999936,
+  "cumulativeLayoutShift": 0.40504150390625,
+  "timeToInteractive": 15397.83649999999,
+  "maxPotentialFirstInputDelay": 781,
+  "timeToFirstByte": 144.681,
+  "weight": {
+    "summary": "189 requests • 1,300 KiB",
+    "total": 1331501,
+    "image": 103850,
+    "imageCount": 59,
+    "script": 1024295,
+    "scriptCount": 71,
+    "document": 64414,
+    "font": 57822,
+    "fontCount": 4,
+    "stylesheet": 28237,
+    "stylesheetCount": 1,
+    "thirdParty": 113743,
+    "thirdPartyCount": 101
+  },
+  "axe": {
+    "passes": 1312,
+    "violations": 19
+  }
+}

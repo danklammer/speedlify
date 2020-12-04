@@ -1,0 +1,46 @@
+{
+  "url": "https://www.goodyear.com/",
+  "requestedUrl": "https://www.goodyear.com/",
+  "timestamp": 1607057802661,
+  "ranks": {
+    "hundos": 81,
+    "performance": 86,
+    "accessibility": 47,
+    "cumulative": 81
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.12,
+    "accessibility": 0.85,
+    "bestPractices": 0.67,
+    "seo": 0.77,
+    "total": 241
+  },
+  "firstContentfulPaint": 3963.113,
+  "speedIndex": 9998.993130821156,
+  "largestContentfulPaint": 10840.570000000002,
+  "totalBlockingTime": 2068.499999999998,
+  "cumulativeLayoutShift": 0.5147184439765082,
+  "timeToInteractive": 15659.998,
+  "maxPotentialFirstInputDelay": 660.0000000000018,
+  "timeToFirstByte": 315.916,
+  "weight": {
+    "summary": "182 requests • 1,600 KiB",
+    "total": 1638571,
+    "image": 149777,
+    "imageCount": 37,
+    "script": 1125025,
+    "scriptCount": 94,
+    "document": 60050,
+    "font": 198893,
+    "fontCount": 10,
+    "stylesheet": 87445,
+    "stylesheetCount": 10,
+    "thirdParty": 836611,
+    "thirdPartyCount": 130
+  },
+  "axe": {
+    "passes": 1227,
+    "violations": 27
+  }
+}

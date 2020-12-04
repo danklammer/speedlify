@@ -1,0 +1,46 @@
+{
+  "url": "https://www.lumen.com/en-us/home.html",
+  "requestedUrl": "https://www.lumen.com/",
+  "timestamp": 1607053349226,
+  "ranks": {
+    "hundos": 82,
+    "performance": 89,
+    "accessibility": 57,
+    "cumulative": 83
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.08,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "seo": 0.76,
+    "total": 235
+  },
+  "firstContentfulPaint": 5194.434500000001,
+  "speedIndex": 13033.577386824425,
+  "largestContentfulPaint": 10868.398000000001,
+  "totalBlockingTime": 3658.9999999999973,
+  "cumulativeLayoutShift": 0.1529298678504096,
+  "timeToInteractive": 25503.8805,
+  "maxPotentialFirstInputDelay": 852.9999999999982,
+  "timeToFirstByte": 133.18400000000003,
+  "weight": {
+    "summary": "285 requests • 8,051 KiB",
+    "total": 8243998,
+    "image": 1537644,
+    "imageCount": 118,
+    "script": 1726620,
+    "scriptCount": 95,
+    "document": 30928,
+    "font": 211998,
+    "fontCount": 5,
+    "stylesheet": 178294,
+    "stylesheetCount": 7,
+    "thirdParty": 7605523,
+    "thirdPartyCount": 253
+  },
+  "axe": {
+    "passes": 2443,
+    "violations": 47
+  }
+}

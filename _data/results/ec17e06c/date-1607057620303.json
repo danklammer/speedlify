@@ -1,0 +1,46 @@
+{
+  "url": "https://www.aboutschwab.com/",
+  "requestedUrl": "https://www.aboutschwab.com/",
+  "timestamp": 1607083790603,
+  "ranks": {
+    "hundos": 33,
+    "performance": 27,
+    "accessibility": 32,
+    "cumulative": 33
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "seo": 0.84,
+    "total": 297
+  },
+  "firstContentfulPaint": 3130.8145000000004,
+  "speedIndex": 4677.878145364008,
+  "largestContentfulPaint": 5649.726000000001,
+  "totalBlockingTime": 376.5,
+  "cumulativeLayoutShift": 0.00005072699652777778,
+  "timeToInteractive": 8967.636500000002,
+  "maxPotentialFirstInputDelay": 387.9999999999991,
+  "timeToFirstByte": 72.36700000000002,
+  "weight": {
+    "summary": "73 requests • 1,498 KiB",
+    "total": 1534368,
+    "image": 840954,
+    "imageCount": 25,
+    "script": 393048,
+    "scriptCount": 15,
+    "document": 34353,
+    "font": 164597,
+    "fontCount": 5,
+    "stylesheet": 84260,
+    "stylesheetCount": 2,
+    "thirdParty": 361992,
+    "thirdPartyCount": 44
+  },
+  "axe": {
+    "passes": 1144,
+    "violations": 22
+  }
+}

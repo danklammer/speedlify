@@ -1,0 +1,46 @@
+{
+  "url": "https://www.mosaicco.com/",
+  "requestedUrl": "https://www.mosaicco.com/",
+  "timestamp": 1607088990529,
+  "ranks": {
+    "hundos": 75,
+    "performance": 74,
+    "accessibility": 58,
+    "cumulative": 75
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.26,
+    "accessibility": 0.83,
+    "bestPractices": 0.73,
+    "seo": 0.83,
+    "total": 265
+  },
+  "firstContentfulPaint": 9592.493999999999,
+  "speedIndex": 17303.676250903303,
+  "largestContentfulPaint": 15350.964999999997,
+  "totalBlockingTime": 256,
+  "cumulativeLayoutShift": 0.353517771297031,
+  "timeToInteractive": 18995.3485,
+  "maxPotentialFirstInputDelay": 274,
+  "timeToFirstByte": 2474.2690000000002,
+  "weight": {
+    "summary": "43 requests • 5,076 KiB",
+    "total": 5197695,
+    "image": 2803552,
+    "imageCount": 18,
+    "script": 1449711,
+    "scriptCount": 11,
+    "document": 506448,
+    "font": 429073,
+    "fontCount": 7,
+    "stylesheet": 8309,
+    "stylesheetCount": 3,
+    "thirdParty": 362822,
+    "thirdPartyCount": 17
+  },
+  "axe": {
+    "passes": 563,
+    "violations": 26
+  }
+}

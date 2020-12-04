@@ -1,0 +1,45 @@
+{
+  "url": "https://www.arrow.com/",
+  "requestedUrl": "https://www.arrow.com/",
+  "timestamp": 1607049269629,
+  "ranks": {
+    "hundos": 86,
+    "performance": 59,
+    "accessibility": 94,
+    "cumulative": 86
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.26,
+    "accessibility": 0.49,
+    "bestPractices": 0.73,
+    "seo": 0.72,
+    "total": 220
+  },
+  "firstContentfulPaint": 3004.773,
+  "speedIndex": 7833.541812544188,
+  "largestContentfulPaint": 10610.461,
+  "totalBlockingTime": 974.5,
+  "cumulativeLayoutShift": 0.09541022523244222,
+  "timeToInteractive": 14612.054999999997,
+  "maxPotentialFirstInputDelay": 292,
+  "timeToFirstByte": 579.8889999999999,
+  "weight": {
+    "summary": "123 requests • 1,576 KiB",
+    "total": 1614272,
+    "image": 93247,
+    "imageCount": 38,
+    "script": 1191501,
+    "scriptCount": 49,
+    "document": 57677,
+    "font": 55233,
+    "fontCount": 1,
+    "stylesheet": 130997,
+    "stylesheetCount": 3,
+    "thirdParty": 684971,
+    "thirdPartyCount": 91
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

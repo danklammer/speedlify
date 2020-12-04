@@ -1,0 +1,45 @@
+{
+  "url": "https://www.techdata.com/",
+  "requestedUrl": "https://www.techdata.com/",
+  "timestamp": 1607046650223,
+  "ranks": {
+    "hundos": 49,
+    "performance": 15,
+    "accessibility": 92,
+    "cumulative": 49
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.55,
+    "accessibility": 0.6,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 281
+  },
+  "firstContentfulPaint": 1892.7030000000002,
+  "speedIndex": 5157.795516111917,
+  "largestContentfulPaint": 6082.024000000001,
+  "totalBlockingTime": 384.5,
+  "cumulativeLayoutShift": 0.005579511642456055,
+  "timeToInteractive": 10835.5755,
+  "maxPotentialFirstInputDelay": 245,
+  "timeToFirstByte": 1392.439,
+  "weight": {
+    "summary": "84 requests • 1,852 KiB",
+    "total": 1896851,
+    "image": 1433785,
+    "imageCount": 16,
+    "script": 294649,
+    "scriptCount": 30,
+    "document": 10969,
+    "font": 80159,
+    "fontCount": 4,
+    "stylesheet": 63173,
+    "stylesheetCount": 14,
+    "thirdParty": 241361,
+    "thirdPartyCount": 29
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.lilly.com/",
+  "requestedUrl": "https://www.lilly.com/",
+  "timestamp": 1607049801221,
+  "ranks": {
+    "hundos": 29,
+    "performance": 56,
+    "accessibility": 36,
+    "cumulative": 30
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.9,
+    "bestPractices": 0.87,
+    "seo": 0.86,
+    "total": 290
+  },
+  "firstContentfulPaint": 2767.04,
+  "speedIndex": 5959.507474181071,
+  "largestContentfulPaint": 6636.91,
+  "totalBlockingTime": 1119.5,
+  "cumulativeLayoutShift": 0.39041390652126734,
+  "timeToInteractive": 15853.342,
+  "maxPotentialFirstInputDelay": 745,
+  "timeToFirstByte": 348.24800000000005,
+  "weight": {
+    "summary": "48 requests • 8,953 KiB",
+    "total": 9167815,
+    "image": 7760763,
+    "imageCount": 15,
+    "script": 1127948,
+    "scriptCount": 18,
+    "document": 49077,
+    "font": 96201,
+    "fontCount": 5,
+    "stylesheet": 132430,
+    "stylesheetCount": 4,
+    "thirdParty": 8519903,
+    "thirdPartyCount": 31
+  },
+  "axe": {
+    "passes": 748,
+    "violations": 52
+  }
+}

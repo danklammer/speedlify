@@ -1,0 +1,46 @@
+{
+  "url": "https://www.fcx.com/",
+  "requestedUrl": "https://www.fcx.com/",
+  "timestamp": 1607083034273,
+  "ranks": {
+    "hundos": 44,
+    "performance": 47,
+    "accessibility": 54,
+    "cumulative": 44
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.84,
+    "bestPractices": 0.73,
+    "seo": 0.9,
+    "total": 289
+  },
+  "firstContentfulPaint": 2351.431,
+  "speedIndex": 9008.442684003328,
+  "largestContentfulPaint": 18829.966,
+  "totalBlockingTime": 201.5,
+  "cumulativeLayoutShift": 0.7976246149275037,
+  "timeToInteractive": 12979.690999999999,
+  "maxPotentialFirstInputDelay": 387,
+  "timeToFirstByte": 185.96299999999997,
+  "weight": {
+    "summary": "65 requests • 3,683 KiB",
+    "total": 3771512,
+    "image": 2664294,
+    "imageCount": 27,
+    "script": 208146,
+    "scriptCount": 8,
+    "document": 38222,
+    "font": 805622,
+    "fontCount": 19,
+    "stylesheet": 50433,
+    "stylesheetCount": 5,
+    "thirdParty": 880596,
+    "thirdPartyCount": 33
+  },
+  "axe": {
+    "passes": 693,
+    "violations": 204
+  }
+}

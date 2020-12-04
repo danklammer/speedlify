@@ -1,0 +1,46 @@
+{
+  "url": "https://www.stryker.com/",
+  "requestedUrl": "https://www.stryker.com/",
+  "timestamp": 1607057787577,
+  "ranks": {
+    "hundos": 17,
+    "performance": 8,
+    "accessibility": 64,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.73,
+    "accessibility": 0.8,
+    "bestPractices": 0.8,
+    "seo": 0.85,
+    "total": 318
+  },
+  "firstContentfulPaint": 1947.8490000000002,
+  "speedIndex": 3095.982798047413,
+  "largestContentfulPaint": 4882.418000000001,
+  "totalBlockingTime": 231,
+  "cumulativeLayoutShift": 0.15059448242187498,
+  "timeToInteractive": 5947.9580000000005,
+  "maxPotentialFirstInputDelay": 224,
+  "timeToFirstByte": 48.59699999999998,
+  "weight": {
+    "summary": "35 requests • 532 KiB",
+    "total": 544737,
+    "image": 53183,
+    "imageCount": 4,
+    "script": 337126,
+    "scriptCount": 15,
+    "document": 7949,
+    "font": 83631,
+    "fontCount": 5,
+    "stylesheet": 48519,
+    "stylesheetCount": 3,
+    "thirdParty": 155726,
+    "thirdPartyCount": 16
+  },
+  "axe": {
+    "passes": 1095,
+    "violations": 15
+  }
+}

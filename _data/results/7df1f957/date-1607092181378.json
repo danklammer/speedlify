@@ -1,0 +1,46 @@
+{
+  "url": "https://www.rushenterprises.com/",
+  "requestedUrl": "https://www.rushenterprises.com/",
+  "timestamp": 1607093308669,
+  "ranks": {
+    "hundos": 36,
+    "performance": 57,
+    "accessibility": 17,
+    "cumulative": 36
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.96,
+    "bestPractices": 0.8,
+    "seo": 0.88,
+    "total": 301
+  },
+  "firstContentfulPaint": 3098.0135,
+  "speedIndex": 7176.858453978372,
+  "largestContentfulPaint": 4387.4715,
+  "totalBlockingTime": 1289.0000000000002,
+  "cumulativeLayoutShift": 0.00986903699239095,
+  "timeToInteractive": 10212.221499999998,
+  "maxPotentialFirstInputDelay": 906,
+  "timeToFirstByte": 730.068,
+  "weight": {
+    "summary": "113 requests • 7,464 KiB",
+    "total": 7642838,
+    "image": 528573,
+    "imageCount": 43,
+    "script": 381980,
+    "scriptCount": 19,
+    "document": 36870,
+    "font": 287795,
+    "fontCount": 12,
+    "stylesheet": 62699,
+    "stylesheetCount": 17,
+    "thirdParty": 7042728,
+    "thirdPartyCount": 56
+  },
+  "axe": {
+    "passes": 635,
+    "violations": 33
+  }
+}

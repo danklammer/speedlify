@@ -1,0 +1,46 @@
+{
+  "url": "https://www.howmet.com/",
+  "requestedUrl": "https://www.howmet.com/",
+  "timestamp": 1607057922861,
+  "ranks": {
+    "hundos": 22,
+    "performance": 42,
+    "accessibility": 20,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.46,
+    "accessibility": 0.94,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 312
+  },
+  "firstContentfulPaint": 3307.8460000000014,
+  "speedIndex": 6189.116252907164,
+  "largestContentfulPaint": 9314.3085,
+  "totalBlockingTime": 25.5,
+  "cumulativeLayoutShift": 0.9833788519965277,
+  "timeToInteractive": 10224.4585,
+  "maxPotentialFirstInputDelay": 92,
+  "timeToFirstByte": 140.20600000000002,
+  "weight": {
+    "summary": "55 requests • 1,639 KiB",
+    "total": 1678791,
+    "image": 1197756,
+    "imageCount": 10,
+    "script": 212501,
+    "scriptCount": 18,
+    "document": 9835,
+    "font": 151529,
+    "fontCount": 5,
+    "stylesheet": 82224,
+    "stylesheetCount": 17,
+    "thirdParty": 179792,
+    "thirdPartyCount": 12
+  },
+  "axe": {
+    "passes": 485,
+    "violations": 35
+  }
+}

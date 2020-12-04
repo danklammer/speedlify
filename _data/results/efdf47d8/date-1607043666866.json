@@ -1,0 +1,46 @@
+{
+  "url": "https://www.sysco.com/",
+  "requestedUrl": "https://www.sysco.com/",
+  "timestamp": 1607046132799,
+  "ranks": {
+    "hundos": 36,
+    "performance": 35,
+    "accessibility": 21,
+    "cumulative": 37
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.38,
+    "accessibility": 0.97,
+    "bestPractices": 0.67,
+    "seo": 0.89,
+    "total": 291
+  },
+  "firstContentfulPaint": 2157.2219999999998,
+  "speedIndex": 6255.7916379690105,
+  "largestContentfulPaint": 12627.418,
+  "totalBlockingTime": 502.4999999999977,
+  "cumulativeLayoutShift": 0.5667270045810276,
+  "timeToInteractive": 13323.998499999998,
+  "maxPotentialFirstInputDelay": 212,
+  "timeToFirstByte": 56.18000000000001,
+  "weight": {
+    "summary": "121 requests • 4,080 KiB",
+    "total": 4177614,
+    "image": 3046017,
+    "imageCount": 32,
+    "script": 656934,
+    "scriptCount": 33,
+    "document": 12389,
+    "font": 325370,
+    "fontCount": 11,
+    "stylesheet": 116701,
+    "stylesheetCount": 6,
+    "thirdParty": 744869,
+    "thirdPartyCount": 89
+  },
+  "axe": {
+    "passes": 588,
+    "violations": 30
+  }
+}

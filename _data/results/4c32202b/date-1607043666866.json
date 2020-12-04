@@ -1,0 +1,46 @@
+{
+  "url": "https://www.kroger.com/",
+  "requestedUrl": "https://www.kroger.com/",
+  "timestamp": 1607044042576,
+  "ranks": {
+    "hundos": 38,
+    "performance": 78,
+    "accessibility": 23,
+    "cumulative": 38
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.14,
+    "accessibility": 0.96,
+    "bestPractices": 0.87,
+    "seo": 0.92,
+    "total": 289
+  },
+  "firstContentfulPaint": 2848.7188281860354,
+  "speedIndex": 11309.453190211785,
+  "largestContentfulPaint": 10219.286828186036,
+  "totalBlockingTime": 3416.0954999999967,
+  "cumulativeLayoutShift": 1.0546712239583333,
+  "timeToInteractive": 15507.457328186028,
+  "maxPotentialFirstInputDelay": 1696.9999999999982,
+  "timeToFirstByte": 578.034,
+  "weight": {
+    "summary": "158 requests • 1,706 KiB",
+    "total": 1746511,
+    "image": 321971,
+    "imageCount": 47,
+    "script": 1110921,
+    "scriptCount": 53,
+    "document": 64171,
+    "font": 43928,
+    "fontCount": 3,
+    "stylesheet": 43231,
+    "stylesheetCount": 17,
+    "thirdParty": 430534,
+    "thirdPartyCount": 46
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

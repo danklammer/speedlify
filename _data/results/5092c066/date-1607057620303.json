@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cbrands.com/",
+  "requestedUrl": "https://www.cbrands.com/",
+  "timestamp": 1607088001310,
+  "ranks": {
+    "hundos": 63,
+    "performance": 52,
+    "accessibility": 86,
+    "cumulative": 63
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.68,
+    "bestPractices": 0.93,
+    "seo": 0.75,
+    "total": 278
+  },
+  "firstContentfulPaint": 3676.7240000000006,
+  "speedIndex": 5258.620607010362,
+  "largestContentfulPaint": 7285.724000000001,
+  "totalBlockingTime": 590.5,
+  "cumulativeLayoutShift": 0.4479811414082845,
+  "timeToInteractive": 5995.224000000001,
+  "maxPotentialFirstInputDelay": 366,
+  "timeToFirstByte": 55.035,
+  "weight": {
+    "summary": "118 requests • 6,493 KiB",
+    "total": 6648549,
+    "image": 5725647,
+    "imageCount": 10,
+    "script": 192825,
+    "scriptCount": 17,
+    "document": 15410,
+    "font": 139926,
+    "fontCount": 3,
+    "stylesheet": 20918,
+    "stylesheetCount": 4,
+    "thirdParty": 6633139,
+    "thirdPartyCount": 117
+  },
+  "axe": {
+    "passes": 728,
+    "violations": 11
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.progressive.com/",
+  "requestedUrl": "https://www.progressive.com/",
+  "timestamp": 1607045022782,
+  "ranks": {
+    "hundos": 3,
+    "performance": 6,
+    "accessibility": 14,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.74,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 0.93,
+    "total": 358
+  },
+  "firstContentfulPaint": 2299.408,
+  "speedIndex": 3551.362766647866,
+  "largestContentfulPaint": 2299.408,
+  "totalBlockingTime": 525.4999999999986,
+  "cumulativeLayoutShift": 0.48067005719078915,
+  "timeToInteractive": 6595.424759979247,
+  "maxPotentialFirstInputDelay": 292.9999999999991,
+  "timeToFirstByte": 418.10699999999997,
+  "weight": {
+    "summary": "95 requests • 1,051 KiB",
+    "total": 1075826,
+    "image": 504318,
+    "imageCount": 27,
+    "script": 373362,
+    "scriptCount": 29,
+    "document": 61935,
+    "font": 113766,
+    "fontCount": 5,
+    "stylesheet": 16715,
+    "stylesheetCount": 4,
+    "thirdParty": 762840,
+    "thirdPartyCount": 50
+  },
+  "axe": {
+    "passes": 1061,
+    "violations": 8
+  }
+}

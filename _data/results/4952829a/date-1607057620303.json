@@ -1,0 +1,46 @@
+{
+  "url": "https://www.fisglobal.com/",
+  "requestedUrl": "https://www.fisglobal.com/",
+  "timestamp": 1607085036319,
+  "ranks": {
+    "hundos": 62,
+    "performance": 63,
+    "accessibility": 14,
+    "cumulative": 62
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.32,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "seo": 0.84,
+    "total": 279
+  },
+  "firstContentfulPaint": 3252.927,
+  "speedIndex": 8880.905661307987,
+  "largestContentfulPaint": 4280.863,
+  "totalBlockingTime": 868.4999999999991,
+  "cumulativeLayoutShift": 0.5480369567871094,
+  "timeToInteractive": 14253.039999999995,
+  "maxPotentialFirstInputDelay": 558,
+  "timeToFirstByte": 612.059,
+  "weight": {
+    "summary": "106 requests • 2,624 KiB",
+    "total": 2686912,
+    "image": 1276719,
+    "imageCount": 21,
+    "script": 868872,
+    "scriptCount": 43,
+    "document": 51772,
+    "font": 262042,
+    "fontCount": 13,
+    "stylesheet": 171227,
+    "stylesheetCount": 13,
+    "thirdParty": 590079,
+    "thirdPartyCount": 40
+  },
+  "axe": {
+    "passes": 858,
+    "violations": 56
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.thermofisher.com/us/en/home.html",
+  "requestedUrl": "https://www.thermofisher.com/",
+  "timestamp": 1607051227147,
+  "ranks": {
+    "hundos": 89,
+    "performance": 54,
+    "accessibility": 86,
+    "cumulative": 88
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.29,
+    "accessibility": 0.65,
+    "bestPractices": 0.6,
+    "seo": 0.62,
+    "total": 216
+  },
+  "firstContentfulPaint": 1213.837,
+  "speedIndex": 6200.977465430054,
+  "largestContentfulPaint": 11463.660500000004,
+  "totalBlockingTime": 2175.6634999999987,
+  "cumulativeLayoutShift": 0.004105248345269098,
+  "timeToInteractive": 13396.897305694582,
+  "maxPotentialFirstInputDelay": 1301.9999999999964,
+  "timeToFirstByte": 95.96,
+  "weight": {
+    "summary": "243 requests • 1,480 KiB",
+    "total": 1515952,
+    "image": 369326,
+    "imageCount": 78,
+    "script": 971431,
+    "scriptCount": 81,
+    "document": 44805,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 77233,
+    "stylesheetCount": 10,
+    "thirdParty": 640429,
+    "thirdPartyCount": 154
+  },
+  "axe": {
+    "passes": 950,
+    "violations": 65
+  }
+}

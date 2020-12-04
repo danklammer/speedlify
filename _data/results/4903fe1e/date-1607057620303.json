@@ -1,0 +1,46 @@
+{
+  "url": "https://www.discover.com/",
+  "requestedUrl": "https://www.discover.com/",
+  "timestamp": 1607083141126,
+  "ranks": {
+    "hundos": 90,
+    "performance": 83,
+    "accessibility": 85,
+    "cumulative": 89
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.14,
+    "accessibility": 0.7,
+    "bestPractices": 0.53,
+    "seo": 0.86,
+    "total": 223
+  },
+  "firstContentfulPaint": 4198.415500000001,
+  "speedIndex": 8935.518570585176,
+  "largestContentfulPaint": 11732.428499999998,
+  "totalBlockingTime": 1865.499999999999,
+  "cumulativeLayoutShift": 0.10110753430260552,
+  "timeToInteractive": 20647.008,
+  "maxPotentialFirstInputDelay": 297,
+  "timeToFirstByte": 56.59700000000001,
+  "weight": {
+    "summary": "223 requests • 2,454 KiB",
+    "total": 2512778,
+    "image": 382447,
+    "imageCount": 83,
+    "script": 1681328,
+    "scriptCount": 81,
+    "document": 61428,
+    "font": 164566,
+    "fontCount": 3,
+    "stylesheet": 203880,
+    "stylesheetCount": 4,
+    "thirdParty": 1434244,
+    "thirdPartyCount": 160
+  },
+  "axe": {
+    "passes": 971,
+    "violations": 36
+  }
+}

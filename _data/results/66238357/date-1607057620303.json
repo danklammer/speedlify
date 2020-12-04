@@ -1,0 +1,46 @@
+{
+  "url": "https://www.owens-minor.com/",
+  "requestedUrl": "https://www.owens-minor.com/",
+  "timestamp": 1607087169646,
+  "ranks": {
+    "hundos": 18,
+    "performance": 21,
+    "accessibility": 23,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.65,
+    "accessibility": 0.93,
+    "bestPractices": 0.73,
+    "seo": 0.89,
+    "total": 320
+  },
+  "firstContentfulPaint": 2196.577,
+  "speedIndex": 6521.518660694546,
+  "largestContentfulPaint": 3922.0135,
+  "totalBlockingTime": 318.5,
+  "cumulativeLayoutShift": 0.038631003369758325,
+  "timeToInteractive": 8656.117,
+  "maxPotentialFirstInputDelay": 189,
+  "timeToFirstByte": 689.742,
+  "weight": {
+    "summary": "66 requests • 1,400 KiB",
+    "total": 1433713,
+    "image": 650585,
+    "imageCount": 22,
+    "script": 524220,
+    "scriptCount": 21,
+    "document": 22437,
+    "font": 46116,
+    "fontCount": 4,
+    "stylesheet": 188003,
+    "stylesheetCount": 7,
+    "thirdParty": 495458,
+    "thirdPartyCount": 33
+  },
+  "axe": {
+    "passes": 883,
+    "violations": 35
+  }
+}

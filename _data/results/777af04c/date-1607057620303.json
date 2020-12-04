@@ -1,0 +1,46 @@
+{
+  "url": "https://www.pseg.com/",
+  "requestedUrl": "https://www.pseg.com/",
+  "timestamp": 1607088505356,
+  "ranks": {
+    "hundos": 22,
+    "performance": 26,
+    "accessibility": 15,
+    "cumulative": 22
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.62,
+    "accessibility": 0.95,
+    "bestPractices": 0.73,
+    "seo": 0.85,
+    "total": 315
+  },
+  "firstContentfulPaint": 3634.890000000001,
+  "speedIndex": 4672.460539217899,
+  "largestContentfulPaint": 5686.781999999999,
+  "totalBlockingTime": 58.72349999999915,
+  "cumulativeLayoutShift": 0.021927326202392575,
+  "timeToInteractive": 6587.851500000001,
+  "maxPotentialFirstInputDelay": 94,
+  "timeToFirstByte": 287.46,
+  "weight": {
+    "summary": "72 requests • 642 KiB",
+    "total": 657617,
+    "image": 21955,
+    "imageCount": 18,
+    "script": 405948,
+    "scriptCount": 20,
+    "document": 21540,
+    "font": 100518,
+    "fontCount": 3,
+    "stylesheet": 95904,
+    "stylesheetCount": 2,
+    "thirdParty": 300565,
+    "thirdPartyCount": 51
+  },
+  "axe": {
+    "passes": 111,
+    "violations": 9
+  }
+}

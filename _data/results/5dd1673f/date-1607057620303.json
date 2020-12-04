@@ -1,0 +1,46 @@
+{
+  "url": "https://www.henryschein.com/",
+  "requestedUrl": "https://www.henryschein.com/",
+  "timestamp": 1607086772874,
+  "ranks": {
+    "hundos": 92,
+    "performance": 69,
+    "accessibility": 89,
+    "cumulative": 91
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.28,
+    "accessibility": 0.65,
+    "bestPractices": 0.67,
+    "seo": 0.73,
+    "total": 233
+  },
+  "firstContentfulPaint": 2168.714,
+  "speedIndex": 7071.2997799739705,
+  "largestContentfulPaint": 7611.965258132934,
+  "totalBlockingTime": 1488.499999999999,
+  "cumulativeLayoutShift": 0.0025439758300781247,
+  "timeToInteractive": 12598.393,
+  "maxPotentialFirstInputDelay": 656,
+  "timeToFirstByte": 79.76399999999998,
+  "weight": {
+    "summary": "108 requests • 3,065 KiB",
+    "total": 3138773,
+    "image": 1708669,
+    "imageCount": 39,
+    "script": 953231,
+    "scriptCount": 31,
+    "document": 83825,
+    "font": 184969,
+    "fontCount": 9,
+    "stylesheet": 190407,
+    "stylesheetCount": 8,
+    "thirdParty": 992329,
+    "thirdPartyCount": 66
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

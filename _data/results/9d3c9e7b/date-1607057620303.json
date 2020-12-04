@@ -1,0 +1,46 @@
+{
+  "url": "https://www.westlake.com/",
+  "requestedUrl": "https://www.westlake.com/",
+  "timestamp": 1607087992077,
+  "ranks": {
+    "hundos": 20,
+    "performance": 9,
+    "accessibility": 52,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.73,
+    "accessibility": 0.85,
+    "bestPractices": 0.8,
+    "seo": 0.79,
+    "total": 317
+  },
+  "firstContentfulPaint": 2036.606,
+  "speedIndex": 2515.6894661575534,
+  "largestContentfulPaint": 6230.152499999999,
+  "totalBlockingTime": 91.50000000000023,
+  "cumulativeLayoutShift": 0.05190754869249132,
+  "timeToInteractive": 4943.484,
+  "maxPotentialFirstInputDelay": 233.00000000000023,
+  "timeToFirstByte": 55.33800000000002,
+  "weight": {
+    "summary": "53 requests • 2,347 KiB",
+    "total": 2403615,
+    "image": 1654641,
+    "imageCount": 28,
+    "script": 100543,
+    "scriptCount": 4,
+    "document": 11637,
+    "font": 498607,
+    "fontCount": 9,
+    "stylesheet": 64878,
+    "stylesheetCount": 7,
+    "thirdParty": 128713,
+    "thirdPartyCount": 6
+  },
+  "axe": {
+    "passes": 653,
+    "violations": 13
+  }
+}

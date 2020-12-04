@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bjs.com/",
+  "requestedUrl": "https://www.bjs.com/",
+  "timestamp": 1607059595815,
+  "ranks": {
+    "hundos": 93,
+    "performance": 81,
+    "accessibility": 84,
+    "cumulative": 93
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.15,
+    "accessibility": 0.71,
+    "bestPractices": 0.53,
+    "seo": 0.77,
+    "total": 216
+  },
+  "firstContentfulPaint": 2768.3549999999996,
+  "speedIndex": 10155.074675937303,
+  "largestContentfulPaint": 14940.619999999995,
+  "totalBlockingTime": 5639.000000000003,
+  "cumulativeLayoutShift": 0.41889080810546875,
+  "timeToInteractive": 26073.6045,
+  "maxPotentialFirstInputDelay": 1128.0000000000036,
+  "timeToFirstByte": 73.40699999999998,
+  "weight": {
+    "summary": "288 requests • 4,176 KiB",
+    "total": 4275820,
+    "image": 1735750,
+    "imageCount": 149,
+    "script": 1499246,
+    "scriptCount": 56,
+    "document": 121539,
+    "font": 317442,
+    "fontCount": 7,
+    "stylesheet": 62737,
+    "stylesheetCount": 6,
+    "thirdParty": 3161089,
+    "thirdPartyCount": 254
+  },
+  "axe": {
+    "passes": 2252,
+    "violations": 114
+  }
+}

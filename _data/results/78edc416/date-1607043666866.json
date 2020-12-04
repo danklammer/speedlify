@@ -1,0 +1,46 @@
+{
+  "url": "https://www.oracle.com/index.html",
+  "requestedUrl": "https://www.oracle.com/",
+  "timestamp": 1607046525416,
+  "ranks": {
+    "hundos": 31,
+    "performance": 33,
+    "accessibility": 60,
+    "cumulative": 31
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.39,
+    "accessibility": 0.84,
+    "bestPractices": 0.93,
+    "seo": 0.79,
+    "total": 295
+  },
+  "firstContentfulPaint": 3264.218,
+  "speedIndex": 5696.204452087118,
+  "largestContentfulPaint": 8892.544,
+  "totalBlockingTime": 661.4999999999995,
+  "cumulativeLayoutShift": 0.00007101779513888888,
+  "timeToInteractive": 9341.41,
+  "maxPotentialFirstInputDelay": 304,
+  "timeToFirstByte": 45.285000000000004,
+  "weight": {
+    "summary": "54 requests • 1,723 KiB",
+    "total": 1763940,
+    "image": 997068,
+    "imageCount": 17,
+    "script": 394971,
+    "scriptCount": 21,
+    "document": 16640,
+    "font": 201258,
+    "fontCount": 2,
+    "stylesheet": 127536,
+    "stylesheetCount": 1,
+    "thirdParty": 289775,
+    "thirdPartyCount": 27
+  },
+  "axe": {
+    "passes": 317,
+    "violations": 42
+  }
+}

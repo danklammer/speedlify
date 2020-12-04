@@ -1,0 +1,46 @@
+{
+  "url": "https://m.jcpenney.com/",
+  "requestedUrl": "https://www.jcpenney.com/",
+  "timestamp": 1607058861265,
+  "ranks": {
+    "hundos": 88,
+    "performance": 93,
+    "accessibility": 81,
+    "cumulative": 88
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.06,
+    "accessibility": 0.73,
+    "bestPractices": 0.6,
+    "seo": 0.91,
+    "total": 230
+  },
+  "firstContentfulPaint": 5758.363000000001,
+  "speedIndex": 8667.492724613567,
+  "largestContentfulPaint": 10923.196000000002,
+  "totalBlockingTime": 2954,
+  "cumulativeLayoutShift": 0.7358059192233616,
+  "timeToInteractive": 24135.313500000004,
+  "maxPotentialFirstInputDelay": 679,
+  "timeToFirstByte": 119.13799999999999,
+  "weight": {
+    "summary": "244 requests • 3,620 KiB",
+    "total": 3706869,
+    "image": 844108,
+    "imageCount": 100,
+    "script": 1682373,
+    "scriptCount": 68,
+    "document": 134705,
+    "font": 40181,
+    "fontCount": 3,
+    "stylesheet": 76514,
+    "stylesheetCount": 7,
+    "thirdParty": 2535707,
+    "thirdPartyCount": 197
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

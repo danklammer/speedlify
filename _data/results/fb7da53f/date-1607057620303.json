@@ -1,0 +1,46 @@
+{
+  "url": "https://www.kkr.com/",
+  "requestedUrl": "https://www.kkr.com/",
+  "timestamp": 1607088901571,
+  "ranks": {
+    "hundos": 29,
+    "performance": 43,
+    "accessibility": 42,
+    "cumulative": 29
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.52,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "seo": 0.82,
+    "total": 309
+  },
+  "firstContentfulPaint": 2765.511,
+  "speedIndex": 7491.229929618938,
+  "largestContentfulPaint": 9608.479,
+  "totalBlockingTime": 72.5,
+  "cumulativeLayoutShift": 0.18504150390625,
+  "timeToInteractive": 7799.215,
+  "maxPotentialFirstInputDelay": 106,
+  "timeToFirstByte": 812.046,
+  "weight": {
+    "summary": "51 requests • 2,756 KiB",
+    "total": 2822487,
+    "image": 2289662,
+    "imageCount": 13,
+    "script": 190309,
+    "scriptCount": 16,
+    "document": 17210,
+    "font": 242036,
+    "fontCount": 11,
+    "stylesheet": 82624,
+    "stylesheetCount": 8,
+    "thirdParty": 200986,
+    "thirdPartyCount": 15
+  },
+  "axe": {
+    "passes": 676,
+    "violations": 19
+  }
+}

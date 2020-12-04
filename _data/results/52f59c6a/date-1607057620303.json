@@ -1,0 +1,46 @@
+{
+  "url": "https://www.kindermorgan.com/",
+  "requestedUrl": "https://www.kindermorgan.com/",
+  "timestamp": 1607058104557,
+  "ranks": {
+    "hundos": 67,
+    "performance": 29,
+    "accessibility": 90,
+    "cumulative": 67
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.55,
+    "accessibility": 0.6,
+    "bestPractices": 0.73,
+    "seo": 0.75,
+    "total": 263
+  },
+  "firstContentfulPaint": 3812.8990000000003,
+  "speedIndex": 6367.857090103213,
+  "largestContentfulPaint": 5615.4349999999995,
+  "totalBlockingTime": 106.5,
+  "cumulativeLayoutShift": 0.0056866455078125,
+  "timeToInteractive": 8481.389000000001,
+  "maxPotentialFirstInputDelay": 110,
+  "timeToFirstByte": 180.70000000000005,
+  "weight": {
+    "summary": "33 requests • 1,676 KiB",
+    "total": 1716678,
+    "image": 341549,
+    "imageCount": 15,
+    "script": 614691,
+    "scriptCount": 7,
+    "document": 47916,
+    "font": 21662,
+    "fontCount": 3,
+    "stylesheet": 214417,
+    "stylesheetCount": 4,
+    "thirdParty": 40126,
+    "thirdPartyCount": 5
+  },
+  "axe": {
+    "passes": 532,
+    "violations": 33
+  }
+}

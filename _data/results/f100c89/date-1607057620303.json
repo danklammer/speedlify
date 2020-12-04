@@ -1,0 +1,46 @@
+{
+  "url": "https://www.afginc.com/",
+  "requestedUrl": "https://www.afginc.com/",
+  "timestamp": 1607086234635,
+  "ranks": {
+    "hundos": 43,
+    "performance": 28,
+    "accessibility": 46,
+    "cumulative": 43
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.61,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "seo": 0.73,
+    "total": 294
+  },
+  "firstContentfulPaint": 2389.5394999999994,
+  "speedIndex": 4826.658242758261,
+  "largestContentfulPaint": 7626.5244999999995,
+  "totalBlockingTime": 128,
+  "cumulativeLayoutShift": 0.064287814034356,
+  "timeToInteractive": 7512.047999999998,
+  "maxPotentialFirstInputDelay": 150,
+  "timeToFirstByte": 397.12199999999996,
+  "weight": {
+    "summary": "37 requests • 1,284 KiB",
+    "total": 1315313,
+    "image": 540213,
+    "imageCount": 9,
+    "script": 322242,
+    "scriptCount": 9,
+    "document": 12627,
+    "font": 348449,
+    "fontCount": 12,
+    "stylesheet": 89364,
+    "stylesheetCount": 3,
+    "thirdParty": 360397,
+    "thirdPartyCount": 21
+  },
+  "axe": {
+    "passes": 727,
+    "violations": 16
+  }
+}

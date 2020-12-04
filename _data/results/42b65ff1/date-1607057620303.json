@@ -1,0 +1,45 @@
+{
+  "url": "https://www.hilton.com/en/",
+  "requestedUrl": "https://www.hilton.com/",
+  "timestamp": 1607087244760,
+  "ranks": {
+    "hundos": 91,
+    "performance": 75,
+    "accessibility": 94,
+    "cumulative": 92
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.23,
+    "accessibility": 0.64,
+    "bestPractices": 0.6,
+    "seo": 0.86,
+    "total": 233
+  },
+  "firstContentfulPaint": 2007.2149999999997,
+  "speedIndex": 8113.056608740108,
+  "largestContentfulPaint": 5466.209999999999,
+  "totalBlockingTime": 3683.367626754767,
+  "cumulativeLayoutShift": 1.7041332121955022,
+  "timeToInteractive": 25039.197873245237,
+  "maxPotentialFirstInputDelay": 602,
+  "timeToFirstByte": 163.387,
+  "weight": {
+    "summary": "293 requests • 4,174 KiB",
+    "total": 4273500,
+    "image": 477604,
+    "imageCount": 99,
+    "script": 2266835,
+    "scriptCount": 94,
+    "document": 85605,
+    "font": 154707,
+    "fontCount": 5,
+    "stylesheet": 53605,
+    "stylesheetCount": 2,
+    "thirdParty": 2950804,
+    "thirdPartyCount": 218
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

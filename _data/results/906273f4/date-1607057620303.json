@@ -1,0 +1,46 @@
+{
+  "url": "https://www.molsoncoors.com/en-US/av?url=https://www.molsoncoors.com/",
+  "requestedUrl": "https://www.molsoncoors.com/",
+  "timestamp": 1607082765712,
+  "ranks": {
+    "hundos": 24,
+    "performance": 41,
+    "accessibility": 18,
+    "cumulative": 23
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.46,
+    "accessibility": 0.94,
+    "bestPractices": 0.8,
+    "seo": 0.9,
+    "total": 310
+  },
+  "firstContentfulPaint": 3824.865,
+  "speedIndex": 5984.3207126797115,
+  "largestContentfulPaint": 8256.1375,
+  "totalBlockingTime": 270,
+  "cumulativeLayoutShift": 0.3025145000881619,
+  "timeToInteractive": 8511.875499999998,
+  "maxPotentialFirstInputDelay": 163.5,
+  "timeToFirstByte": 155.685,
+  "weight": {
+    "summary": "248 requests • 1,572 KiB",
+    "total": 1609234,
+    "image": 791980,
+    "imageCount": 22,
+    "script": 234276,
+    "scriptCount": 115,
+    "document": 31907,
+    "font": 265682,
+    "fontCount": 15,
+    "stylesheet": 68340,
+    "stylesheetCount": 88,
+    "thirdParty": 106934,
+    "thirdPartyCount": 40
+  },
+  "axe": {
+    "passes": 312,
+    "violations": 8
+  }
+}

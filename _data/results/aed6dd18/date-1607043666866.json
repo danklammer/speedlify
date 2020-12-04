@@ -1,0 +1,46 @@
+{
+  "url": "https://www.newyorklife.com/",
+  "requestedUrl": "https://www.newyorklife.com/",
+  "timestamp": 1607048037796,
+  "ranks": {
+    "hundos": 65,
+    "performance": 86,
+    "accessibility": 38,
+    "cumulative": 65
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.11,
+    "accessibility": 0.92,
+    "bestPractices": 0.8,
+    "seo": 0.83,
+    "total": 266
+  },
+  "firstContentfulPaint": 9650.291000000001,
+  "speedIndex": 13031.641981354102,
+  "largestContentfulPaint": 17229.300999999992,
+  "totalBlockingTime": 1106.982,
+  "cumulativeLayoutShift": 0.07058064195844863,
+  "timeToInteractive": 14082.255499999997,
+  "maxPotentialFirstInputDelay": 630.0000000000018,
+  "timeToFirstByte": 93.33700000000002,
+  "weight": {
+    "summary": "231 requests • 2,488 KiB",
+    "total": 2547201,
+    "image": 1239705,
+    "imageCount": 99,
+    "script": 882066,
+    "scriptCount": 60,
+    "document": 46017,
+    "font": 282088,
+    "fontCount": 4,
+    "stylesheet": 66768,
+    "stylesheetCount": 2,
+    "thirdParty": 1026597,
+    "thirdPartyCount": 177
+  },
+  "axe": {
+    "passes": 1393,
+    "violations": 74
+  }
+}

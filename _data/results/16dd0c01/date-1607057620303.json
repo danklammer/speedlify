@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bedbathandbeyond.com/",
+  "requestedUrl": "https://www.bedbathandbeyond.com/",
+  "timestamp": 1607058478327,
+  "ranks": {
+    "hundos": 41,
+    "performance": 61,
+    "accessibility": 15,
+    "cumulative": 41
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.28,
+    "accessibility": 0.96,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 290
+  },
+  "firstContentfulPaint": 2345.9509999999996,
+  "speedIndex": 8551.432567035072,
+  "largestContentfulPaint": 4249.901,
+  "totalBlockingTime": 2895.0000000000027,
+  "cumulativeLayoutShift": 1.0695974956088594,
+  "timeToInteractive": 17976.710680908207,
+  "maxPotentialFirstInputDelay": 900.0000000000009,
+  "timeToFirstByte": 42.33500000000001,
+  "weight": {
+    "summary": "149 requests • 1,735 KiB",
+    "total": 1733175,
+    "image": 187748,
+    "imageCount": 35,
+    "script": 1251898,
+    "scriptCount": 57,
+    "document": 30496,
+    "font": 37991,
+    "fontCount": 3,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1470237,
+    "thirdPartyCount": 123
+  },
+  "axe": {
+    "passes": 1040,
+    "violations": 25
+  }
+}

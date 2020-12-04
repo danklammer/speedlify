@@ -1,0 +1,46 @@
+{
+  "url": "https://www.antheminc.com/",
+  "requestedUrl": "https://www.antheminc.com/",
+  "timestamp": 1607047251957,
+  "ranks": {
+    "hundos": 32,
+    "performance": 4,
+    "accessibility": 67,
+    "cumulative": 30
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.79,
+    "accessibility": 0.81,
+    "bestPractices": 0.6,
+    "seo": 0.75,
+    "total": 295
+  },
+  "firstContentfulPaint": 2028.997,
+  "speedIndex": 3342.6298932763166,
+  "largestContentfulPaint": 4078.3770000000004,
+  "totalBlockingTime": 193.5,
+  "cumulativeLayoutShift": 0.024403487170851546,
+  "timeToInteractive": 5938.388000000001,
+  "maxPotentialFirstInputDelay": 292,
+  "timeToFirstByte": 98.41500000000002,
+  "weight": {
+    "summary": "51 requests • 929 KiB",
+    "total": 951133,
+    "image": 683667,
+    "imageCount": 23,
+    "script": 230782,
+    "scriptCount": 16,
+    "document": 27722,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 7605,
+    "stylesheetCount": 3,
+    "thirdParty": 112549,
+    "thirdPartyCount": 11
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

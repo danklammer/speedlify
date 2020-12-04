@@ -1,0 +1,46 @@
+{
+  "url": "https://www.sanmina.com/",
+  "requestedUrl": "https://www.sanmina.com/",
+  "timestamp": 1607087930128,
+  "ranks": {
+    "hundos": 66,
+    "performance": 92,
+    "accessibility": 50,
+    "cumulative": 68
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.1,
+    "accessibility": 0.87,
+    "bestPractices": 0.87,
+    "seo": 0.91,
+    "total": 275
+  },
+  "firstContentfulPaint": 6699.009999999997,
+  "speedIndex": 16470.98354705903,
+  "largestContentfulPaint": 26144.61691484832,
+  "totalBlockingTime": 847.804000000001,
+  "cumulativeLayoutShift": 0.40472021484375004,
+  "timeToInteractive": 21196.23940663909,
+  "maxPotentialFirstInputDelay": 543,
+  "timeToFirstByte": 39.553,
+  "weight": {
+    "summary": "141 requests • 4,783 KiB",
+    "total": 4897690,
+    "image": 3524693,
+    "imageCount": 42,
+    "script": 910933,
+    "scriptCount": 54,
+    "document": 41128,
+    "font": 162658,
+    "fontCount": 6,
+    "stylesheet": 253620,
+    "stylesheetCount": 28,
+    "thirdParty": 441696,
+    "thirdPartyCount": 45
+  },
+  "axe": {
+    "passes": 1789,
+    "violations": 61
+  }
+}

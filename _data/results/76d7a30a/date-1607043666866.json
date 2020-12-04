@@ -1,0 +1,46 @@
+{
+  "url": "https://www.halliburton.com/en-US/default.html",
+  "requestedUrl": "https://www.halliburton.com/",
+  "timestamp": 1607051558545,
+  "ranks": {
+    "hundos": 56,
+    "performance": 16,
+    "accessibility": 68,
+    "cumulative": 55
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.54,
+    "accessibility": 0.81,
+    "bestPractices": 0.53,
+    "seo": 0.82,
+    "total": 270
+  },
+  "firstContentfulPaint": 3737.1020000000008,
+  "speedIndex": 5465.784456549328,
+  "largestContentfulPaint": 7018.1415,
+  "totalBlockingTime": 294.99999999999955,
+  "cumulativeLayoutShift": 0.24321375458075434,
+  "timeToInteractive": 5654.415000000001,
+  "maxPotentialFirstInputDelay": 449.9999999999991,
+  "timeToFirstByte": 57.101,
+  "weight": {
+    "summary": "72 requests • 980 KiB",
+    "total": 1003230,
+    "image": 635700,
+    "imageCount": 41,
+    "script": 317827,
+    "scriptCount": 13,
+    "document": 15545,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 32228,
+    "stylesheetCount": 14,
+    "thirdParty": 87311,
+    "thirdPartyCount": 1
+  },
+  "axe": {
+    "passes": 1081,
+    "violations": 28
+  }
+}

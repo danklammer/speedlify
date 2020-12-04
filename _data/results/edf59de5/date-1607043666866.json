@@ -1,0 +1,46 @@
+{
+  "url": "https://www.genpt.com/",
+  "requestedUrl": "https://www.genpt.com/",
+  "timestamp": 1607051979310,
+  "ranks": {
+    "hundos": 19,
+    "performance": 3,
+    "accessibility": 77,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.79,
+    "accessibility": 0.74,
+    "bestPractices": 0.67,
+    "seo": 0.83,
+    "total": 303
+  },
+  "firstContentfulPaint": 964.326,
+  "speedIndex": 1735.0830520229576,
+  "largestContentfulPaint": 5218.3634999999995,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0.004068004597981771,
+  "timeToInteractive": 4125.5265,
+  "maxPotentialFirstInputDelay": 141,
+  "timeToFirstByte": 58.287000000000035,
+  "weight": {
+    "summary": "32 requests • 722 KiB",
+    "total": 739556,
+    "image": 599076,
+    "imageCount": 24,
+    "script": 28699,
+    "scriptCount": 2,
+    "document": 3401,
+    "font": 105304,
+    "fontCount": 4,
+    "stylesheet": 3076,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "axe": {
+    "passes": 318,
+    "violations": 30
+  }
+}

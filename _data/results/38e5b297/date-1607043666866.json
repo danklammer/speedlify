@@ -1,0 +1,46 @@
+{
+  "url": "https://hcahealthcare.com/",
+  "requestedUrl": "https://www.hcahealthcare.com/",
+  "timestamp": 1607047881295,
+  "ranks": {
+    "hundos": 16,
+    "performance": 46,
+    "accessibility": 44,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.35,
+    "accessibility": 0.9,
+    "bestPractices": 0.87,
+    "seo": 1,
+    "total": 312
+  },
+  "firstContentfulPaint": 5055.012,
+  "speedIndex": 10826.844860743575,
+  "largestContentfulPaint": 9093.79,
+  "totalBlockingTime": 249,
+  "cumulativeLayoutShift": 0.11270779927571614,
+  "timeToInteractive": 14376.443500000001,
+  "maxPotentialFirstInputDelay": 390,
+  "timeToFirstByte": 1094.5069999999998,
+  "weight": {
+    "summary": "82 requests • 2,170 KiB",
+    "total": 2222275,
+    "image": 1173137,
+    "imageCount": 25,
+    "script": 711083,
+    "scriptCount": 27,
+    "document": 39215,
+    "font": 127723,
+    "fontCount": 3,
+    "stylesheet": 109173,
+    "stylesheetCount": 14,
+    "thirdParty": 1360323,
+    "thirdPartyCount": 67
+  },
+  "axe": {
+    "passes": 945,
+    "violations": 7
+  }
+}

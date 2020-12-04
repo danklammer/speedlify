@@ -1,0 +1,46 @@
+{
+  "url": "https://www.oreillyauto.com/",
+  "requestedUrl": "https://www.oreillyauto.com/",
+  "timestamp": 1607085167443,
+  "ranks": {
+    "hundos": 54,
+    "performance": 83,
+    "accessibility": 1,
+    "cumulative": 54
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.19,
+    "accessibility": 1,
+    "bestPractices": 0.67,
+    "seo": 0.97,
+    "total": 283
+  },
+  "firstContentfulPaint": 3155.4100000000008,
+  "speedIndex": 7164.97761236784,
+  "largestContentfulPaint": 12887.224999999995,
+  "totalBlockingTime": 1347.0000000000018,
+  "cumulativeLayoutShift": 1.0149100494384764,
+  "timeToInteractive": 13619.642000000003,
+  "maxPotentialFirstInputDelay": 420,
+  "timeToFirstByte": 413.928,
+  "weight": {
+    "summary": "144 requests • 2,602 KiB",
+    "total": 2664534,
+    "image": 1471522,
+    "imageCount": 81,
+    "script": 945550,
+    "scriptCount": 33,
+    "document": 62856,
+    "font": 11347,
+    "fontCount": 1,
+    "stylesheet": 77945,
+    "stylesheetCount": 5,
+    "thirdParty": 526143,
+    "thirdPartyCount": 44
+  },
+  "axe": {
+    "passes": 1141,
+    "violations": 7
+  }
+}

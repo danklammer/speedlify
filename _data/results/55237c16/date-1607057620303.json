@@ -1,0 +1,46 @@
+{
+  "url": "https://www.globalp.com/",
+  "requestedUrl": "https://www.globalp.com/",
+  "timestamp": 1607058169502,
+  "ranks": {
+    "hundos": 6,
+    "performance": 9,
+    "accessibility": 42,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.73,
+    "accessibility": 0.87,
+    "bestPractices": 1,
+    "seo": 0.71,
+    "total": 331
+  },
+  "firstContentfulPaint": 3345.764,
+  "speedIndex": 4816.445469182018,
+  "largestContentfulPaint": 3400.3450000000003,
+  "totalBlockingTime": 283.49999999999955,
+  "cumulativeLayoutShift": 0.03630335595872667,
+  "timeToInteractive": 6476.918,
+  "maxPotentialFirstInputDelay": 182,
+  "timeToFirstByte": 94.65500000000003,
+  "weight": {
+    "summary": "79 requests • 5,790 KiB",
+    "total": 5929045,
+    "image": 653848,
+    "imageCount": 7,
+    "script": 370356,
+    "scriptCount": 23,
+    "document": 20151,
+    "font": 182284,
+    "fontCount": 14,
+    "stylesheet": 100539,
+    "stylesheetCount": 13,
+    "thirdParty": 5096146,
+    "thirdPartyCount": 46
+  },
+  "axe": {
+    "passes": 576,
+    "violations": 25
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.fbhs.com/",
+  "requestedUrl": "https://www.fbhs.com/",
+  "timestamp": 1607094834503,
+  "ranks": {
+    "hundos": 29,
+    "performance": 61,
+    "accessibility": 20,
+    "cumulative": 30
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.34,
+    "accessibility": 0.95,
+    "bestPractices": 0.8,
+    "seo": 0.98,
+    "total": 307
+  },
+  "firstContentfulPaint": 3844.7089259643562,
+  "speedIndex": 6284.864543282353,
+  "largestContentfulPaint": 7849.98,
+  "totalBlockingTime": 526,
+  "cumulativeLayoutShift": 0.3288029522365994,
+  "timeToInteractive": 11986.543,
+  "maxPotentialFirstInputDelay": 324,
+  "timeToFirstByte": 79.701,
+  "weight": {
+    "summary": "61 requests • 2,062 KiB",
+    "total": 2111593,
+    "image": 844721,
+    "imageCount": 19,
+    "script": 831563,
+    "scriptCount": 27,
+    "document": 30331,
+    "font": 98990,
+    "fontCount": 2,
+    "stylesheet": 302619,
+    "stylesheetCount": 5,
+    "thirdParty": 784382,
+    "thirdPartyCount": 21
+  },
+  "axe": {
+    "passes": 647,
+    "violations": 14
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ajg.com/",
+  "requestedUrl": "https://www.ajg.com/",
+  "timestamp": 1607093782093,
+  "ranks": {
+    "hundos": 13,
+    "performance": 31,
+    "accessibility": 3,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.53,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.98,
+    "total": 329
+  },
+  "firstContentfulPaint": 2717.5135,
+  "speedIndex": 3634.284310176539,
+  "largestContentfulPaint": 5256.160000000001,
+  "totalBlockingTime": 778.0000000000002,
+  "cumulativeLayoutShift": 0.02544682820638021,
+  "timeToInteractive": 6602.6355,
+  "maxPotentialFirstInputDelay": 325,
+  "timeToFirstByte": 33.535,
+  "weight": {
+    "summary": "28 requests • 827 KiB",
+    "total": 846881,
+    "image": 430656,
+    "imageCount": 11,
+    "script": 310017,
+    "scriptCount": 8,
+    "document": 9696,
+    "font": 29550,
+    "fontCount": 3,
+    "stylesheet": 65940,
+    "stylesheetCount": 2,
+    "thirdParty": 133801,
+    "thirdPartyCount": 10
+  },
+  "axe": {
+    "passes": 222,
+    "violations": 5
+  }
+}

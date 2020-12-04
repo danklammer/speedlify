@@ -1,0 +1,46 @@
+{
+  "url": "https://www.micron.com/",
+  "requestedUrl": "https://www.micron.com/",
+  "timestamp": 1607051471174,
+  "ranks": {
+    "hundos": 18,
+    "performance": 33,
+    "accessibility": 39,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.89,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 303
+  },
+  "firstContentfulPaint": 3118.0610000000015,
+  "speedIndex": 6895.10497635468,
+  "largestContentfulPaint": 8888.751000000006,
+  "totalBlockingTime": 444.5000000000009,
+  "cumulativeLayoutShift": 0.0008372802734375,
+  "timeToInteractive": 11407.929500000011,
+  "maxPotentialFirstInputDelay": 283,
+  "timeToFirstByte": 531.932,
+  "weight": {
+    "summary": "87 requests • 1,924 KiB",
+    "total": 1970655,
+    "image": 1022103,
+    "imageCount": 33,
+    "script": 508074,
+    "scriptCount": 20,
+    "document": 19724,
+    "font": 300979,
+    "fontCount": 6,
+    "stylesheet": 110739,
+    "stylesheetCount": 4,
+    "thirdParty": 288320,
+    "thirdPartyCount": 61
+  },
+  "axe": {
+    "passes": 670,
+    "violations": 37
+  }
+}

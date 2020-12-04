@@ -1,0 +1,46 @@
+{
+  "url": "https://www.pvh.com/",
+  "requestedUrl": "https://www.pvh.com/",
+  "timestamp": 1607085249436,
+  "ranks": {
+    "hundos": 51,
+    "performance": 54,
+    "accessibility": 73,
+    "cumulative": 52
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.39,
+    "accessibility": 0.77,
+    "bestPractices": 0.73,
+    "seo": 0.96,
+    "total": 285
+  },
+  "firstContentfulPaint": 6512.804000000002,
+  "speedIndex": 6512.804000000002,
+  "largestContentfulPaint": 8302.878000000002,
+  "totalBlockingTime": 164,
+  "cumulativeLayoutShift": 0.034941652721828885,
+  "timeToInteractive": 14562.230000000005,
+  "maxPotentialFirstInputDelay": 290,
+  "timeToFirstByte": 153.69,
+  "weight": {
+    "summary": "24 requests • 4,095 KiB",
+    "total": 4193291,
+    "image": 2040091,
+    "imageCount": 12,
+    "script": 896948,
+    "scriptCount": 3,
+    "document": 24954,
+    "font": 99021,
+    "fontCount": 3,
+    "stylesheet": 75444,
+    "stylesheetCount": 2,
+    "thirdParty": 58797,
+    "thirdPartyCount": 4
+  },
+  "axe": {
+    "passes": 484,
+    "violations": 23
+  }
+}

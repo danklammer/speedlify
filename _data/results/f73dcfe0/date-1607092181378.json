@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cerner.com/",
+  "requestedUrl": "https://www.cerner.com/",
+  "timestamp": 1607093386772,
+  "ranks": {
+    "hundos": 67,
+    "performance": 63,
+    "accessibility": 40,
+    "cumulative": 67
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.34,
+    "accessibility": 0.9,
+    "bestPractices": 0.67,
+    "seo": 0.85,
+    "total": 276
+  },
+  "firstContentfulPaint": 3377,
+  "speedIndex": 9756.692346969588,
+  "largestContentfulPaint": 23092.702499999992,
+  "totalBlockingTime": 464.5000000000009,
+  "cumulativeLayoutShift": 0.06732192993164063,
+  "timeToInteractive": 17793.658,
+  "maxPotentialFirstInputDelay": 255,
+  "timeToFirstByte": 262.33299999999997,
+  "weight": {
+    "summary": "79 requests • 9,642 KiB",
+    "total": 9872983,
+    "image": 8652245,
+    "imageCount": 30,
+    "script": 751950,
+    "scriptCount": 25,
+    "document": 34522,
+    "font": 146531,
+    "fontCount": 5,
+    "stylesheet": 250300,
+    "stylesheetCount": 4,
+    "thirdParty": 570990,
+    "thirdPartyCount": 42
+  },
+  "axe": {
+    "passes": 769,
+    "violations": 59
+  }
+}

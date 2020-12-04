@@ -1,0 +1,46 @@
+{
+  "url": "https://www.eastman.com/pages/home.aspx",
+  "requestedUrl": "https://www.eastman.com/",
+  "timestamp": 1607085510912,
+  "ranks": {
+    "hundos": 61,
+    "performance": 36,
+    "accessibility": 60,
+    "cumulative": 61
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.58,
+    "accessibility": 0.83,
+    "bestPractices": 0.67,
+    "seo": 0.71,
+    "total": 279
+  },
+  "firstContentfulPaint": 3158.6619999999994,
+  "speedIndex": 5037.690656085873,
+  "largestContentfulPaint": 10118.772,
+  "totalBlockingTime": 144,
+  "cumulativeLayoutShift": 0.026854470872014147,
+  "timeToInteractive": 6932.262999999999,
+  "maxPotentialFirstInputDelay": 119,
+  "timeToFirstByte": 117.117,
+  "weight": {
+    "summary": "71 requests • 1,806 KiB",
+    "total": 1849194,
+    "image": 1305484,
+    "imageCount": 30,
+    "script": 463110,
+    "scriptCount": 25,
+    "document": 20907,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 57632,
+    "stylesheetCount": 7,
+    "thirdParty": 210821,
+    "thirdPartyCount": 19
+  },
+  "axe": {
+    "passes": 538,
+    "violations": 41
+  }
+}

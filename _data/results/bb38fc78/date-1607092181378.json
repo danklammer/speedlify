@@ -1,0 +1,46 @@
+{
+  "url": "https://www.fortive.com/",
+  "requestedUrl": "https://www.fortive.com/",
+  "timestamp": 1607093721407,
+  "ranks": {
+    "hundos": 10,
+    "performance": 1,
+    "accessibility": 88,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.96,
+    "accessibility": 0.72,
+    "bestPractices": 0.8,
+    "seo": 0.84,
+    "total": 332
+  },
+  "firstContentfulPaint": 1681.7200000000003,
+  "speedIndex": 3171.2501010213873,
+  "largestContentfulPaint": 1681.7200000000003,
+  "totalBlockingTime": 69.5,
+  "cumulativeLayoutShift": 0.07281559732225205,
+  "timeToInteractive": 4133.732,
+  "maxPotentialFirstInputDelay": 124,
+  "timeToFirstByte": 145.80400000000003,
+  "weight": {
+    "summary": "48 requests • 1,968 KiB",
+    "total": 2014759,
+    "image": 1625287,
+    "imageCount": 32,
+    "script": 146714,
+    "scriptCount": 7,
+    "document": 18663,
+    "font": 172317,
+    "fontCount": 4,
+    "stylesheet": 51122,
+    "stylesheetCount": 3,
+    "thirdParty": 65488,
+    "thirdPartyCount": 6
+  },
+  "axe": {
+    "passes": 1014,
+    "violations": 27
+  }
+}

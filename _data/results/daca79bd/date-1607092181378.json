@@ -1,0 +1,46 @@
+{
+  "url": "https://www.apachecorp.com/",
+  "requestedUrl": "https://www.apachecorp.com/",
+  "timestamp": 1607092957522,
+  "ranks": {
+    "hundos": 5,
+    "performance": 9,
+    "accessibility": 15,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.71,
+    "accessibility": 0.96,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 339
+  },
+  "firstContentfulPaint": 1655.0300000000002,
+  "speedIndex": 3120.375741663569,
+  "largestContentfulPaint": 21568.320000000003,
+  "totalBlockingTime": 86,
+  "cumulativeLayoutShift": 0.06458171377558675,
+  "timeToInteractive": 4206.33,
+  "maxPotentialFirstInputDelay": 204,
+  "timeToFirstByte": 69,
+  "weight": {
+    "summary": "29 requests • 7,237 KiB",
+    "total": 7411147,
+    "image": 6996621,
+    "imageCount": 9,
+    "script": 174753,
+    "scriptCount": 10,
+    "document": 13818,
+    "font": 135333,
+    "fontCount": 3,
+    "stylesheet": 90414,
+    "stylesheetCount": 5,
+    "thirdParty": 59087,
+    "thirdPartyCount": 4
+  },
+  "axe": {
+    "passes": 572,
+    "violations": 29
+  }
+}

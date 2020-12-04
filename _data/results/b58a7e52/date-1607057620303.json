@@ -1,0 +1,46 @@
+{
+  "url": "https://www.spartannash.com/",
+  "requestedUrl": "https://www.spartannash.com/",
+  "timestamp": 1607089155276,
+  "ranks": {
+    "hundos": 10,
+    "performance": 17,
+    "accessibility": 30,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.68,
+    "accessibility": 0.9,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 331
+  },
+  "firstContentfulPaint": 2070.5060000000003,
+  "speedIndex": 6532.020959058651,
+  "largestContentfulPaint": 4088.253,
+  "totalBlockingTime": 49,
+  "cumulativeLayoutShift": 0.000142059326171875,
+  "timeToInteractive": 8479.926500000003,
+  "maxPotentialFirstInputDelay": 148,
+  "timeToFirstByte": 363.44800000000004,
+  "weight": {
+    "summary": "32 requests • 3,399 KiB",
+    "total": 3480190,
+    "image": 3284918,
+    "imageCount": 19,
+    "script": 84987,
+    "scriptCount": 3,
+    "document": 12233,
+    "font": 27802,
+    "fontCount": 3,
+    "stylesheet": 70040,
+    "stylesheetCount": 4,
+    "thirdParty": 48756,
+    "thirdPartyCount": 7
+  },
+  "axe": {
+    "passes": 621,
+    "violations": 4
+  }
+}

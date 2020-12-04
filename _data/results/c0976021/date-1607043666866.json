@@ -1,0 +1,46 @@
+{
+  "url": "https://www.albertsonscompanies.com/",
+  "requestedUrl": "https://www.albertsonscompanies.com/",
+  "timestamp": 1607047739011,
+  "ranks": {
+    "hundos": 61,
+    "performance": 47,
+    "accessibility": 55,
+    "cumulative": 61
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.34,
+    "accessibility": 0.85,
+    "bestPractices": 0.67,
+    "seo": 0.85,
+    "total": 271
+  },
+  "firstContentfulPaint": 2033.48,
+  "speedIndex": 5460.970675015091,
+  "largestContentfulPaint": 9921.294999999998,
+  "totalBlockingTime": 961.5000000000009,
+  "cumulativeLayoutShift": 0.03327857844034831,
+  "timeToInteractive": 14917.078000000005,
+  "maxPotentialFirstInputDelay": 477,
+  "timeToFirstByte": 258.239,
+  "weight": {
+    "summary": "74 requests • 3,693 KiB",
+    "total": 3781929,
+    "image": 2824104,
+    "imageCount": 37,
+    "script": 784240,
+    "scriptCount": 19,
+    "document": 31292,
+    "font": 28396,
+    "fontCount": 2,
+    "stylesheet": 105742,
+    "stylesheetCount": 5,
+    "thirdParty": 975359,
+    "thirdPartyCount": 32
+  },
+  "axe": {
+    "passes": 598,
+    "violations": 23
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://m.cdw.com/",
+  "requestedUrl": "https://www.cdw.com/",
+  "timestamp": 1607050362510,
+  "ranks": {
+    "hundos": 80,
+    "performance": 88,
+    "accessibility": 67,
+    "cumulative": 79
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.09,
+    "accessibility": 0.82,
+    "bestPractices": 0.67,
+    "seo": 0.85,
+    "total": 243
+  },
+  "firstContentfulPaint": 5196.9439999999995,
+  "speedIndex": 14341.762497710752,
+  "largestContentfulPaint": 14664.27,
+  "totalBlockingTime": 3705.134499999993,
+  "cumulativeLayoutShift": 0.13108092753092448,
+  "timeToInteractive": 26758.958500000008,
+  "maxPotentialFirstInputDelay": 1564,
+  "timeToFirstByte": 155.14300000000003,
+  "weight": {
+    "summary": "222 requests • 3,343 KiB",
+    "total": 3423182,
+    "image": 509061,
+    "imageCount": 78,
+    "script": 1730301,
+    "scriptCount": 82,
+    "document": 25862,
+    "font": 320470,
+    "fontCount": 10,
+    "stylesheet": 303120,
+    "stylesheetCount": 10,
+    "thirdParty": 1302212,
+    "thirdPartyCount": 153
+  },
+  "axe": {
+    "passes": 2064,
+    "violations": 32
+  }
+}

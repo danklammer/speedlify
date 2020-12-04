@@ -1,0 +1,46 @@
+{
+  "url": "https://www.wayfair.com/v/captcha/show?goto=https%3A%2F%2Fwww.wayfair.com%3F&px=1&captcha_status=0",
+  "requestedUrl": "https://www.wayfair.com/",
+  "timestamp": 1607085592900,
+  "ranks": {
+    "hundos": 5,
+    "performance": 22,
+    "accessibility": 2,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.64,
+    "accessibility": 1,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 344
+  },
+  "firstContentfulPaint": 2798.759,
+  "speedIndex": 2854.5547140186786,
+  "largestContentfulPaint": 3451.122,
+  "totalBlockingTime": 677.2165000000005,
+  "cumulativeLayoutShift": 0.03678279537624783,
+  "timeToInteractive": 8614.927,
+  "maxPotentialFirstInputDelay": 304,
+  "timeToFirstByte": 139.034,
+  "weight": {
+    "summary": "64 requests • 2,399 KiB",
+    "total": 2456639,
+    "image": 13408,
+    "imageCount": 18,
+    "script": 2244516,
+    "scriptCount": 26,
+    "document": 82819,
+    "font": 37845,
+    "fontCount": 3,
+    "stylesheet": 72748,
+    "stylesheetCount": 4,
+    "thirdParty": 2351817,
+    "thirdPartyCount": 53
+  },
+  "axe": {
+    "passes": 323,
+    "violations": 9
+  }
+}

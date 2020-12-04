@@ -1,0 +1,46 @@
+{
+  "url": "https://www.iqvia.com/",
+  "requestedUrl": "https://www.iqvia.com/",
+  "timestamp": 1607058915320,
+  "ranks": {
+    "hundos": 71,
+    "performance": 76,
+    "accessibility": 72,
+    "cumulative": 71
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.77,
+    "bestPractices": 0.87,
+    "seo": 0.77,
+    "total": 258
+  },
+  "firstContentfulPaint": 3004.5480000000002,
+  "speedIndex": 13815.201370135512,
+  "largestContentfulPaint": 18771.656999999996,
+  "totalBlockingTime": 3397.5,
+  "cumulativeLayoutShift": 0.004565016428629558,
+  "timeToInteractive": 23396.387000000002,
+  "maxPotentialFirstInputDelay": 736,
+  "timeToFirstByte": 156.76,
+  "weight": {
+    "summary": "185 requests • 6,425 KiB",
+    "total": 6578791,
+    "image": 3712367,
+    "imageCount": 91,
+    "script": 1708975,
+    "scriptCount": 31,
+    "document": 34204,
+    "font": 823644,
+    "fontCount": 18,
+    "stylesheet": 218652,
+    "stylesheetCount": 19,
+    "thirdParty": 3943334,
+    "thirdPartyCount": 151
+  },
+  "axe": {
+    "passes": 3475,
+    "violations": 128
+  }
+}

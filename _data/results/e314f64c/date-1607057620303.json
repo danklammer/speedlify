@@ -1,0 +1,46 @@
+{
+  "url": "https://www.group1auto.com/",
+  "requestedUrl": "https://www.group1auto.com/",
+  "timestamp": 1607058459876,
+  "ranks": {
+    "hundos": 72,
+    "performance": 34,
+    "accessibility": 94,
+    "cumulative": 72
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.51,
+    "accessibility": 0.52,
+    "bestPractices": 0.8,
+    "seo": 0.73,
+    "total": 256
+  },
+  "firstContentfulPaint": 3697.0910000000003,
+  "speedIndex": 5914.170507142784,
+  "largestContentfulPaint": 7583.104000000003,
+  "totalBlockingTime": 308.99999999999955,
+  "cumulativeLayoutShift": 0.002898335986667209,
+  "timeToInteractive": 7440.022000000003,
+  "maxPotentialFirstInputDelay": 281.9999999999991,
+  "timeToFirstByte": 147.62799999999993,
+  "weight": {
+    "summary": "109 requests • 5,756 KiB",
+    "total": 5894090,
+    "image": 5217948,
+    "imageCount": 65,
+    "script": 327428,
+    "scriptCount": 16,
+    "document": 22129,
+    "font": 225464,
+    "fontCount": 6,
+    "stylesheet": 81644,
+    "stylesheetCount": 12,
+    "thirdParty": 539528,
+    "thirdPartyCount": 38
+  },
+  "axe": {
+    "passes": 1196,
+    "violations": 162
+  }
+}

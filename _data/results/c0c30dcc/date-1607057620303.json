@@ -1,0 +1,46 @@
+{
+  "url": "https://www.coty.com/",
+  "requestedUrl": "https://www.coty.com/",
+  "timestamp": 1607089118777,
+  "ranks": {
+    "hundos": 79,
+    "performance": 72,
+    "accessibility": 24,
+    "cumulative": 79
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.26,
+    "accessibility": 0.92,
+    "bestPractices": 0.53,
+    "seo": 0.86,
+    "total": 257
+  },
+  "firstContentfulPaint": 3156.4005,
+  "speedIndex": 6352.746321328223,
+  "largestContentfulPaint": 7940.934500000002,
+  "totalBlockingTime": 992.9999999999986,
+  "cumulativeLayoutShift": 1.4284999381171333,
+  "timeToInteractive": 10418.0155,
+  "maxPotentialFirstInputDelay": 435,
+  "timeToFirstByte": 30.62299999999999,
+  "weight": {
+    "summary": "184 requests • 2,229 KiB",
+    "total": 2282621,
+    "image": 1459888,
+    "imageCount": 102,
+    "script": 588540,
+    "scriptCount": 28,
+    "document": 25994,
+    "font": 68796,
+    "fontCount": 3,
+    "stylesheet": 92541,
+    "stylesheetCount": 5,
+    "thirdParty": 614675,
+    "thirdPartyCount": 126
+  },
+  "axe": {
+    "passes": 1897,
+    "violations": 6
+  }
+}

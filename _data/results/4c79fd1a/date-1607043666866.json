@@ -1,0 +1,46 @@
+{
+  "url": "https://www.northwesternmutual.com/",
+  "requestedUrl": "https://www.northwesternmutual.com/",
+  "timestamp": 1607052501938,
+  "ranks": {
+    "hundos": 21,
+    "performance": 47,
+    "accessibility": 56,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.34,
+    "accessibility": 0.84,
+    "bestPractices": 0.87,
+    "seo": 0.93,
+    "total": 298
+  },
+  "firstContentfulPaint": 1562.109,
+  "speedIndex": 5454.493632811041,
+  "largestContentfulPaint": 14824.954999999998,
+  "totalBlockingTime": 923,
+  "cumulativeLayoutShift": 0.17217578887939453,
+  "timeToInteractive": 13207.7795,
+  "maxPotentialFirstInputDelay": 335,
+  "timeToFirstByte": 104.58599999999998,
+  "weight": {
+    "summary": "95 requests • 1,613 KiB",
+    "total": 1651626,
+    "image": 362865,
+    "imageCount": 29,
+    "script": 989859,
+    "scriptCount": 33,
+    "document": 38824,
+    "font": 189772,
+    "fontCount": 6,
+    "stylesheet": 58849,
+    "stylesheetCount": 2,
+    "thirdParty": 770923,
+    "thirdPartyCount": 63
+  },
+  "axe": {
+    "passes": 1706,
+    "violations": 38
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.up.com/index.htm",
+  "requestedUrl": "https://www.up.com/",
+  "timestamp": 1607051643857,
+  "ranks": {
+    "hundos": 41,
+    "performance": 36,
+    "accessibility": 35,
+    "cumulative": 41
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.41,
+    "accessibility": 0.9,
+    "bestPractices": 0.67,
+    "seo": 0.85,
+    "total": 283
+  },
+  "firstContentfulPaint": 5881.4555,
+  "speedIndex": 8921.175749587173,
+  "largestContentfulPaint": 10009.484999999997,
+  "totalBlockingTime": 109,
+  "cumulativeLayoutShift": 0.02340882456033594,
+  "timeToInteractive": 8688.984999999997,
+  "maxPotentialFirstInputDelay": 143,
+  "timeToFirstByte": 197.842,
+  "weight": {
+    "summary": "44 requests • 2,395 KiB",
+    "total": 2452956,
+    "image": 1569472,
+    "imageCount": 12,
+    "script": 254659,
+    "scriptCount": 17,
+    "document": 6619,
+    "font": 413385,
+    "fontCount": 7,
+    "stylesheet": 207271,
+    "stylesheetCount": 2,
+    "thirdParty": 21012,
+    "thirdPartyCount": 2
+  },
+  "axe": {
+    "passes": 523,
+    "violations": 28
+  }
+}

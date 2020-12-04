@@ -1,0 +1,46 @@
+{
+  "url": "https://www.keurigdrpepper.com/",
+  "requestedUrl": "https://www.keurigdrpepper.com/",
+  "timestamp": 1607084269947,
+  "ranks": {
+    "hundos": 32,
+    "performance": 30,
+    "accessibility": 31,
+    "cumulative": 32
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.54,
+    "accessibility": 0.91,
+    "bestPractices": 0.6,
+    "seo": 0.92,
+    "total": 297
+  },
+  "firstContentfulPaint": 3307.694,
+  "speedIndex": 6434.061757195752,
+  "largestContentfulPaint": 4367.947999999999,
+  "totalBlockingTime": 379.4999999999991,
+  "cumulativeLayoutShift": 0.21538486480712887,
+  "timeToInteractive": 8744.455095718384,
+  "maxPotentialFirstInputDelay": 337.9999999999982,
+  "timeToFirstByte": 28.440999999999974,
+  "weight": {
+    "summary": "108 requests • 1,821 KiB",
+    "total": 1864418,
+    "image": 1243739,
+    "imageCount": 31,
+    "script": 353628,
+    "scriptCount": 32,
+    "document": 6841,
+    "font": 69907,
+    "fontCount": 15,
+    "stylesheet": 177122,
+    "stylesheetCount": 4,
+    "thirdParty": 1525855,
+    "thirdPartyCount": 84
+  },
+  "axe": {
+    "passes": 434,
+    "violations": 19
+  }
+}

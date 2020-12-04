@@ -1,0 +1,46 @@
+{
+  "url": "https://www.riteaid.com/",
+  "requestedUrl": "https://www.riteaid.com/",
+  "timestamp": 1607049867403,
+  "ranks": {
+    "hundos": 88,
+    "performance": 77,
+    "accessibility": 79,
+    "cumulative": 89
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.18,
+    "accessibility": 0.72,
+    "bestPractices": 0.47,
+    "seo": 0.79,
+    "total": 216
+  },
+  "firstContentfulPaint": 2938.817,
+  "speedIndex": 11487.362452911115,
+  "largestContentfulPaint": 15904.225500000004,
+  "totalBlockingTime": 2675.5,
+  "cumulativeLayoutShift": 0.01055297025044759,
+  "timeToInteractive": 21808.829999999998,
+  "maxPotentialFirstInputDelay": 520,
+  "timeToFirstByte": 76.64800000000002,
+  "weight": {
+    "summary": "264 requests • 2,893 KiB",
+    "total": 2962682,
+    "image": 920294,
+    "imageCount": 111,
+    "script": 1197564,
+    "scriptCount": 49,
+    "document": 67792,
+    "font": 481459,
+    "fontCount": 12,
+    "stylesheet": 203024,
+    "stylesheetCount": 8,
+    "thirdParty": 1032671,
+    "thirdPartyCount": 190
+  },
+  "axe": {
+    "passes": 1782,
+    "violations": 119
+  }
+}

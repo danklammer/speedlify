@@ -1,0 +1,46 @@
+{
+  "url": "https://www.thorindustries.com/",
+  "requestedUrl": "https://www.thorindustries.com/",
+  "timestamp": 1607095036131,
+  "ranks": {
+    "hundos": 34,
+    "performance": 72,
+    "accessibility": 21,
+    "cumulative": 34
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.29,
+    "accessibility": 0.95,
+    "bestPractices": 0.87,
+    "seo": 0.92,
+    "total": 303
+  },
+  "firstContentfulPaint": 2328.693,
+  "speedIndex": 7444.697546002486,
+  "largestContentfulPaint": 12391.560000000001,
+  "totalBlockingTime": 1088.4999999999995,
+  "cumulativeLayoutShift": 0.01072136010064019,
+  "timeToInteractive": 11922.405,
+  "maxPotentialFirstInputDelay": 520,
+  "timeToFirstByte": 372.11600000000004,
+  "weight": {
+    "summary": "95 requests • 1,589 KiB",
+    "total": 1627335,
+    "image": 436407,
+    "imageCount": 19,
+    "script": 946283,
+    "scriptCount": 32,
+    "document": 67726,
+    "font": 106184,
+    "fontCount": 6,
+    "stylesheet": 5888,
+    "stylesheetCount": 1,
+    "thirdParty": 1186261,
+    "thirdPartyCount": 78
+  },
+  "axe": {
+    "passes": 916,
+    "violations": 19
+  }
+}

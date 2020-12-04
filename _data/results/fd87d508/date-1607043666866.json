@@ -1,0 +1,46 @@
+{
+  "url": "https://www.homedepot.com/",
+  "requestedUrl": "https://www.homedepot.com/",
+  "timestamp": 1607044090482,
+  "ranks": {
+    "hundos": 95,
+    "performance": 88,
+    "accessibility": 91,
+    "cumulative": 95
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.1,
+    "accessibility": 0.61,
+    "bestPractices": 0.6,
+    "seo": 0.84,
+    "total": 217
+  },
+  "firstContentfulPaint": 4612.9255,
+  "speedIndex": 12781.638594130345,
+  "largestContentfulPaint": 17772.308499999996,
+  "totalBlockingTime": 3405.500000000001,
+  "cumulativeLayoutShift": 0.2091269344753689,
+  "timeToInteractive": 17735.651,
+  "maxPotentialFirstInputDelay": 898.9999999999991,
+  "timeToFirstByte": 143.38600000000002,
+  "weight": {
+    "summary": "214 requests • 3,987 KiB",
+    "total": 4082448,
+    "image": 2393258,
+    "imageCount": 95,
+    "script": 1376273,
+    "scriptCount": 40,
+    "document": 42835,
+    "font": 71042,
+    "fontCount": 4,
+    "stylesheet": 56878,
+    "stylesheetCount": 2,
+    "thirdParty": 3535971,
+    "thirdPartyCount": 191
+  },
+  "axe": {
+    "passes": 2404,
+    "violations": 169
+  }
+}

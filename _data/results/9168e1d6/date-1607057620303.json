@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cheniere.com/",
+  "requestedUrl": "https://www.cheniere.com/",
+  "timestamp": 1607087129630,
+  "ranks": {
+    "hundos": 1,
+    "performance": 16,
+    "accessibility": 12,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.69,
+    "accessibility": 0.97,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 358
+  },
+  "firstContentfulPaint": 2353.808,
+  "speedIndex": 5518.071287597477,
+  "largestContentfulPaint": 4738.405500000001,
+  "totalBlockingTime": 126,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 6269.696000000001,
+  "maxPotentialFirstInputDelay": 180,
+  "timeToFirstByte": 1267.95,
+  "weight": {
+    "summary": "26 requests • 903 KiB",
+    "total": 924648,
+    "image": 422703,
+    "imageCount": 6,
+    "script": 262757,
+    "scriptCount": 7,
+    "document": 18766,
+    "font": 99439,
+    "fontCount": 3,
+    "stylesheet": 111182,
+    "stylesheetCount": 3,
+    "thirdParty": 305470,
+    "thirdPartyCount": 12
+  },
+  "axe": {
+    "passes": 600,
+    "violations": 10
+  }
+}

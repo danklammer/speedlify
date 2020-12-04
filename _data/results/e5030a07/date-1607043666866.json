@@ -1,0 +1,46 @@
+{
+  "url": "https://www.lockheedmartin.com/",
+  "requestedUrl": "https://www.lockheedmartin.com/",
+  "timestamp": 1607044587180,
+  "ranks": {
+    "hundos": 69,
+    "performance": 43,
+    "accessibility": 81,
+    "cumulative": 68
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.36,
+    "accessibility": 0.74,
+    "bestPractices": 0.67,
+    "seo": 0.83,
+    "total": 260
+  },
+  "firstContentfulPaint": 1608.8010000000002,
+  "speedIndex": 7220.506276078875,
+  "largestContentfulPaint": 8283.553,
+  "totalBlockingTime": 588,
+  "cumulativeLayoutShift": 0.26345970514085554,
+  "timeToInteractive": 15502.748000000003,
+  "maxPotentialFirstInputDelay": 356,
+  "timeToFirstByte": 95.42700000000002,
+  "weight": {
+    "summary": "100 requests • 2,066 KiB",
+    "total": 2115726,
+    "image": 628765,
+    "imageCount": 26,
+    "script": 1092468,
+    "scriptCount": 30,
+    "document": 17731,
+    "font": 278917,
+    "fontCount": 6,
+    "stylesheet": 80275,
+    "stylesheetCount": 2,
+    "thirdParty": 753927,
+    "thirdPartyCount": 77
+  },
+  "axe": {
+    "passes": 762,
+    "violations": 25
+  }
+}

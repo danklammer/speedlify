@@ -1,0 +1,46 @@
+{
+  "url": "https://www.exeloncorp.com/",
+  "requestedUrl": "https://www.exeloncorp.com/",
+  "timestamp": 1607048368085,
+  "ranks": {
+    "hundos": 92,
+    "performance": 79,
+    "accessibility": 90,
+    "cumulative": 93
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.14,
+    "accessibility": 0.63,
+    "bestPractices": 0.67,
+    "seo": 0.86,
+    "total": 230
+  },
+  "firstContentfulPaint": 13834.659,
+  "speedIndex": 14119.056594725163,
+  "largestContentfulPaint": 24597.196999999996,
+  "totalBlockingTime": 570.9999999999964,
+  "cumulativeLayoutShift": 0.771435546875,
+  "timeToInteractive": 24678.48849999999,
+  "maxPotentialFirstInputDelay": 319,
+  "timeToFirstByte": 171.58100000000007,
+  "weight": {
+    "summary": "148 requests • 5,892 KiB",
+    "total": 6033769,
+    "image": 2724053,
+    "imageCount": 24,
+    "script": 1957718,
+    "scriptCount": 21,
+    "document": 44496,
+    "font": 412860,
+    "fontCount": 6,
+    "stylesheet": 720524,
+    "stylesheetCount": 4,
+    "thirdParty": 2332558,
+    "thirdPartyCount": 31
+  },
+  "axe": {
+    "passes": 584,
+    "violations": 45
+  }
+}

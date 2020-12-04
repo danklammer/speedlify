@@ -1,0 +1,46 @@
+{
+  "url": "https://www.colgatepalmolive.com/en-us",
+  "requestedUrl": "https://www.colgatepalmolive.com/",
+  "timestamp": 1607059111507,
+  "ranks": {
+    "hundos": 66,
+    "performance": 74,
+    "accessibility": 57,
+    "cumulative": 66
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "seo": 0.84,
+    "total": 264
+  },
+  "firstContentfulPaint": 5659.8640000000005,
+  "speedIndex": 8617.279424862518,
+  "largestContentfulPaint": 14779.252000000002,
+  "totalBlockingTime": 1000,
+  "cumulativeLayoutShift": 0.0027408854166666666,
+  "timeToInteractive": 15035.077000000003,
+  "maxPotentialFirstInputDelay": 606,
+  "timeToFirstByte": 146.169,
+  "weight": {
+    "summary": "140 requests • 3,581 KiB",
+    "total": 3666524,
+    "image": 1326651,
+    "imageCount": 98,
+    "script": 1497299,
+    "scriptCount": 21,
+    "document": 14350,
+    "font": 30694,
+    "fontCount": 2,
+    "stylesheet": 109910,
+    "stylesheetCount": 6,
+    "thirdParty": 267322,
+    "thirdPartyCount": 30
+  },
+  "axe": {
+    "passes": 586,
+    "violations": 42
+  }
+}

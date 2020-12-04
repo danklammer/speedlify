@@ -1,0 +1,46 @@
+{
+  "url": "https://www.deanfoods.com/",
+  "requestedUrl": "https://www.deanfoods.com/",
+  "timestamp": 1607092429419,
+  "ranks": {
+    "hundos": 60,
+    "performance": 50,
+    "accessibility": 80,
+    "cumulative": 61
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.41,
+    "accessibility": 0.75,
+    "bestPractices": 0.8,
+    "seo": 0.84,
+    "total": 280
+  },
+  "firstContentfulPaint": 2771.043,
+  "speedIndex": 6127.396118496048,
+  "largestContentfulPaint": 6955.075500000003,
+  "totalBlockingTime": 627,
+  "cumulativeLayoutShift": 0.014984792073567708,
+  "timeToInteractive": 10147.055304519654,
+  "maxPotentialFirstInputDelay": 342,
+  "timeToFirstByte": 45.95599999999999,
+  "weight": {
+    "summary": "120 requests • 1,661 KiB",
+    "total": 1700370,
+    "image": 867102,
+    "imageCount": 51,
+    "script": 542001,
+    "scriptCount": 16,
+    "document": 32018,
+    "font": 144593,
+    "fontCount": 6,
+    "stylesheet": 83456,
+    "stylesheetCount": 7,
+    "thirdParty": 537305,
+    "thirdPartyCount": 58
+  },
+  "axe": {
+    "passes": 924,
+    "violations": 59
+  }
+}

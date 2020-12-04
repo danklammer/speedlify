@@ -1,0 +1,46 @@
+{
+  "url": "https://www.itw.com/",
+  "requestedUrl": "https://www.itw.com/",
+  "timestamp": 1607059415736,
+  "ranks": {
+    "hundos": 14,
+    "performance": 12,
+    "accessibility": 23,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.66,
+    "accessibility": 0.93,
+    "bestPractices": 0.8,
+    "seo": 0.82,
+    "total": 321
+  },
+  "firstContentfulPaint": 2435.111,
+  "speedIndex": 3848.942386060776,
+  "largestContentfulPaint": 3481.6510000000007,
+  "totalBlockingTime": 520,
+  "cumulativeLayoutShift": 0.0013981628417968751,
+  "timeToInteractive": 10196.226999999999,
+  "maxPotentialFirstInputDelay": 470,
+  "timeToFirstByte": 109.32900000000001,
+  "weight": {
+    "summary": "88 requests • 1,600 KiB",
+    "total": 1638187,
+    "image": 659741,
+    "imageCount": 18,
+    "script": 647951,
+    "scriptCount": 34,
+    "document": 22712,
+    "font": 139784,
+    "fontCount": 4,
+    "stylesheet": 165305,
+    "stylesheetCount": 20,
+    "thirdParty": 805902,
+    "thirdPartyCount": 42
+  },
+  "axe": {
+    "passes": 428,
+    "violations": 24
+  }
+}

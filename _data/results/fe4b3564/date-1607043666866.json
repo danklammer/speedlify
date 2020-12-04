@@ -1,0 +1,46 @@
+{
+  "url": "https://www.energytransfer.com/",
+  "requestedUrl": "https://www.energytransfer.com/",
+  "timestamp": 1607044616288,
+  "ranks": {
+    "hundos": 35,
+    "performance": 51,
+    "accessibility": 37,
+    "cumulative": 34
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.3,
+    "accessibility": 0.92,
+    "bestPractices": 0.93,
+    "seo": 0.77,
+    "total": 292
+  },
+  "firstContentfulPaint": 8080.5250000000015,
+  "speedIndex": 15645.119969102863,
+  "largestContentfulPaint": 17828.285499999998,
+  "totalBlockingTime": 248.5,
+  "cumulativeLayoutShift": 0.0277999021742079,
+  "timeToInteractive": 19524.962500000005,
+  "maxPotentialFirstInputDelay": 512,
+  "timeToFirstByte": 1219.258,
+  "weight": {
+    "summary": "59 requests • 4,111 KiB",
+    "total": 4209970,
+    "image": 1617389,
+    "imageCount": 28,
+    "script": 764543,
+    "scriptCount": 8,
+    "document": 181762,
+    "font": 1567268,
+    "fontCount": 13,
+    "stylesheet": 43867,
+    "stylesheetCount": 1,
+    "thirdParty": 117070,
+    "thirdPartyCount": 14
+  },
+  "axe": {
+    "passes": 654,
+    "violations": 23
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.statestreet.com/home.html",
+  "requestedUrl": "https://www.statestreet.com/",
+  "timestamp": 1607059608313,
+  "ranks": {
+    "hundos": 63,
+    "performance": 57,
+    "accessibility": 53,
+    "cumulative": 63
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.33,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "seo": 0.85,
+    "total": 269
+  },
+  "firstContentfulPaint": 4596.712500000001,
+  "speedIndex": 9895.709901985374,
+  "largestContentfulPaint": 9220.418,
+  "totalBlockingTime": 479.4999999999991,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9770.410999999996,
+  "maxPotentialFirstInputDelay": 443.9999999999991,
+  "timeToFirstByte": 417.52,
+  "weight": {
+    "summary": "88 requests • 1,389 KiB",
+    "total": 1422508,
+    "image": 713908,
+    "imageCount": 39,
+    "script": 489402,
+    "scriptCount": 13,
+    "document": 31433,
+    "font": 98575,
+    "fontCount": 3,
+    "stylesheet": 76164,
+    "stylesheetCount": 6,
+    "thirdParty": 145602,
+    "thirdPartyCount": 24
+  },
+  "axe": {
+    "passes": 810,
+    "violations": 68
+  }
+}

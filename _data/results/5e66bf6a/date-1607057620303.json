@@ -1,0 +1,46 @@
+{
+  "url": "https://www.kelloggcompany.com/en_US/home.html",
+  "requestedUrl": "https://www.kelloggcompany.com/",
+  "timestamp": 1607083202601,
+  "ranks": {
+    "hundos": 51,
+    "performance": 23,
+    "accessibility": 71,
+    "cumulative": 52
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.57,
+    "accessibility": 0.77,
+    "bestPractices": 0.67,
+    "seo": 0.82,
+    "total": 283
+  },
+  "firstContentfulPaint": 3257.496,
+  "speedIndex": 4104.616486441227,
+  "largestContentfulPaint": 6868.572000000001,
+  "totalBlockingTime": 308.5,
+  "cumulativeLayoutShift": 0.9896293301052518,
+  "timeToInteractive": 5428.531999999999,
+  "maxPotentialFirstInputDelay": 240,
+  "timeToFirstByte": 54.398,
+  "weight": {
+    "summary": "112 requests • 2,200 KiB",
+    "total": 2252785,
+    "image": 1852581,
+    "imageCount": 81,
+    "script": 293798,
+    "scriptCount": 11,
+    "document": 10417,
+    "font": 60904,
+    "fontCount": 2,
+    "stylesheet": 25766,
+    "stylesheetCount": 4,
+    "thirdParty": 277110,
+    "thirdPartyCount": 23
+  },
+  "axe": {
+    "passes": 669,
+    "violations": 109
+  }
+}

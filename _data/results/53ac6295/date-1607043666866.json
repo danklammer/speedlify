@@ -1,0 +1,45 @@
+{
+  "url": "https://www.massmutual.com/",
+  "requestedUrl": "https://www.massmutual.com/",
+  "timestamp": 1607045068545,
+  "ranks": {
+    "hundos": 66,
+    "performance": 89,
+    "accessibility": 27,
+    "cumulative": 66
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.1,
+    "accessibility": 0.95,
+    "bestPractices": 0.67,
+    "seo": 0.93,
+    "total": 265
+  },
+  "firstContentfulPaint": 4731.367,
+  "speedIndex": 17851.15608286488,
+  "largestContentfulPaint": 25728.018500000006,
+  "totalBlockingTime": 5034.500000000002,
+  "cumulativeLayoutShift": 0.066680908203125,
+  "timeToInteractive": 73787.20050000002,
+  "maxPotentialFirstInputDelay": 1893,
+  "timeToFirstByte": 343.85600000000005,
+  "weight": {
+    "summary": "304 requests • 16,737 KiB",
+    "total": 17138920,
+    "image": 11170471,
+    "imageCount": 66,
+    "script": 5037702,
+    "scriptCount": 129,
+    "document": 57388,
+    "font": 627125,
+    "fontCount": 13,
+    "stylesheet": 180823,
+    "stylesheetCount": 6,
+    "thirdParty": 1147291,
+    "thirdPartyCount": 215
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

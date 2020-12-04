@@ -1,0 +1,46 @@
+{
+  "url": "https://abc.xyz/",
+  "requestedUrl": "https://abc.xyz/",
+  "timestamp": 1607045338434,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 66,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 0.81,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 374
+  },
+  "firstContentfulPaint": 823.45,
+  "speedIndex": 823.45,
+  "largestContentfulPaint": 1063.45,
+  "totalBlockingTime": 20,
+  "cumulativeLayoutShift": 0.04223299916585286,
+  "timeToInteractive": 893.45,
+  "maxPotentialFirstInputDelay": 75,
+  "timeToFirstByte": 42.56,
+  "weight": {
+    "summary": "10 requests • 161 KiB",
+    "total": 165199,
+    "image": 82467,
+    "imageCount": 7,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 5015,
+    "font": 75736,
+    "fontCount": 1,
+    "stylesheet": 1981,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "axe": {
+    "passes": 53,
+    "violations": 3
+  }
+}

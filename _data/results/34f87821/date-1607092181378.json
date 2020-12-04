@@ -1,0 +1,46 @@
+{
+  "url": "https://www.tapestry.com/",
+  "requestedUrl": "https://www.tapestry.com/",
+  "timestamp": 1607096154351,
+  "ranks": {
+    "hundos": 19,
+    "performance": 14,
+    "accessibility": 63,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.67,
+    "accessibility": 0.84,
+    "bestPractices": 0.73,
+    "seo": 0.91,
+    "total": 315
+  },
+  "firstContentfulPaint": 2152.362,
+  "speedIndex": 4121.95229685011,
+  "largestContentfulPaint": 6441.798630432129,
+  "totalBlockingTime": 185,
+  "cumulativeLayoutShift": 0.02924964904785156,
+  "timeToInteractive": 6282.645,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 67.18700000000001,
+  "weight": {
+    "summary": "71 requests • 1,727 KiB",
+    "total": 1768480,
+    "image": 1200554,
+    "imageCount": 21,
+    "script": 423840,
+    "scriptCount": 17,
+    "document": 12244,
+    "font": 64265,
+    "fontCount": 3,
+    "stylesheet": 21334,
+    "stylesheetCount": 2,
+    "thirdParty": 516015,
+    "thirdPartyCount": 50
+  },
+  "axe": {
+    "passes": 340,
+    "violations": 15
+  }
+}

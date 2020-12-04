@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bd.com/en-us",
+  "requestedUrl": "https://www.bd.com/",
+  "timestamp": 1607050461498,
+  "ranks": {
+    "hundos": 65,
+    "performance": 67,
+    "accessibility": 62,
+    "cumulative": 65
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.23,
+    "accessibility": 0.83,
+    "bestPractices": 0.73,
+    "seo": 0.83,
+    "total": 262
+  },
+  "firstContentfulPaint": 3949.1099999999997,
+  "speedIndex": 7737.16221285913,
+  "largestContentfulPaint": 13241.452000000003,
+  "totalBlockingTime": 747.8040000000001,
+  "cumulativeLayoutShift": 1.1741831588745117,
+  "timeToInteractive": 11343.283,
+  "maxPotentialFirstInputDelay": 287,
+  "timeToFirstByte": 407.539,
+  "weight": {
+    "summary": "119 requests • 9,863 KiB",
+    "total": 10099893,
+    "image": 2856655,
+    "imageCount": 45,
+    "script": 800635,
+    "scriptCount": 28,
+    "document": 29698,
+    "font": 295294,
+    "fontCount": 12,
+    "stylesheet": 65639,
+    "stylesheetCount": 3,
+    "thirdParty": 789007,
+    "thirdPartyCount": 68
+  },
+  "axe": {
+    "passes": 1369,
+    "violations": 65
+  }
+}

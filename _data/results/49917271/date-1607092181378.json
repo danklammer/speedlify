@@ -1,0 +1,46 @@
+{
+  "url": "https://www.pplweb.com/",
+  "requestedUrl": "https://www.pplweb.com/",
+  "timestamp": 1607093562384,
+  "ranks": {
+    "hundos": 20,
+    "performance": 37,
+    "accessibility": 46,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.49,
+    "accessibility": 0.88,
+    "bestPractices": 0.8,
+    "seo": 0.97,
+    "total": 314
+  },
+  "firstContentfulPaint": 2946.7909999999997,
+  "speedIndex": 7563.222852537976,
+  "largestContentfulPaint": 9802.494499999997,
+  "totalBlockingTime": 87,
+  "cumulativeLayoutShift": 0.037942177666558156,
+  "timeToInteractive": 11033.644999999999,
+  "maxPotentialFirstInputDelay": 172,
+  "timeToFirstByte": 64.416,
+  "weight": {
+    "summary": "75 requests • 3,334 KiB",
+    "total": 3413805,
+    "image": 2694393,
+    "imageCount": 17,
+    "script": 281075,
+    "scriptCount": 18,
+    "document": 172828,
+    "font": 188883,
+    "fontCount": 8,
+    "stylesheet": 61434,
+    "stylesheetCount": 7,
+    "thirdParty": 274447,
+    "thirdPartyCount": 51
+  },
+  "axe": {
+    "passes": 1070,
+    "violations": 61
+  }
+}

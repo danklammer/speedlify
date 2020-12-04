@@ -1,0 +1,46 @@
+{
+  "url": "https://www.spglobal.com/en/",
+  "requestedUrl": "https://www.spglobal.com/",
+  "timestamp": 1607094080092,
+  "ranks": {
+    "hundos": 89,
+    "performance": 92,
+    "accessibility": 84,
+    "cumulative": 89
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.16,
+    "accessibility": 0.74,
+    "bestPractices": 0.8,
+    "seo": 0.78,
+    "total": 248
+  },
+  "firstContentfulPaint": 4387.244,
+  "speedIndex": 11170.535810267964,
+  "largestContentfulPaint": 10647.143999999997,
+  "totalBlockingTime": 1202.5,
+  "cumulativeLayoutShift": 0.0356903100543552,
+  "timeToInteractive": 17229.311999999998,
+  "maxPotentialFirstInputDelay": 683,
+  "timeToFirstByte": 126.953,
+  "weight": {
+    "summary": "112 requests • 2,640 KiB",
+    "total": 2703864,
+    "image": 1195831,
+    "imageCount": 35,
+    "script": 1007587,
+    "scriptCount": 31,
+    "document": 47698,
+    "font": 171538,
+    "fontCount": 3,
+    "stylesheet": 231406,
+    "stylesheetCount": 2,
+    "thirdParty": 927848,
+    "thirdPartyCount": 81
+  },
+  "axe": {
+    "passes": 1570,
+    "violations": 72
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.westerndigital.com/",
+  "requestedUrl": "https://www.westerndigital.com/",
+  "timestamp": 1607050626729,
+  "ranks": {
+    "hundos": 35,
+    "performance": 61,
+    "accessibility": 40,
+    "cumulative": 35
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.26,
+    "accessibility": 0.89,
+    "bestPractices": 0.8,
+    "seo": 0.9,
+    "total": 285
+  },
+  "firstContentfulPaint": 2385.2109999999993,
+  "speedIndex": 10920.923573826749,
+  "largestContentfulPaint": 15984.743999999999,
+  "totalBlockingTime": 804,
+  "cumulativeLayoutShift": 0.2241840277777778,
+  "timeToInteractive": 15855.832,
+  "maxPotentialFirstInputDelay": 397,
+  "timeToFirstByte": 52.408000000000015,
+  "weight": {
+    "summary": "85 requests • 5,414 KiB",
+    "total": 5544235,
+    "image": 4115438,
+    "imageCount": 26,
+    "script": 943207,
+    "scriptCount": 29,
+    "document": 108743,
+    "font": 178121,
+    "fontCount": 11,
+    "stylesheet": 117244,
+    "stylesheetCount": 3,
+    "thirdParty": 1007184,
+    "thirdPartyCount": 56
+  },
+  "axe": {
+    "passes": 1257,
+    "violations": 55
+  }
+}

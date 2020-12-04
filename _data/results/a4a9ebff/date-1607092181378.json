@@ -1,0 +1,46 @@
+{
+  "url": "https://www.huntington.com/",
+  "requestedUrl": "https://www.huntington.com/",
+  "timestamp": 1607096399360,
+  "ranks": {
+    "hundos": 61,
+    "performance": 80,
+    "accessibility": 7,
+    "cumulative": 60
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.23,
+    "accessibility": 0.97,
+    "bestPractices": 0.67,
+    "seo": 0.93,
+    "total": 280
+  },
+  "firstContentfulPaint": 3240.6659999999997,
+  "speedIndex": 9181.163352425703,
+  "largestContentfulPaint": 13933.350000000002,
+  "totalBlockingTime": 1058.9999999999995,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 15827.992499999997,
+  "maxPotentialFirstInputDelay": 240,
+  "timeToFirstByte": 341.6909999999999,
+  "weight": {
+    "summary": "129 requests • 2,348 KiB",
+    "total": 2404787,
+    "image": 771650,
+    "imageCount": 38,
+    "script": 915830,
+    "scriptCount": 39,
+    "document": 58126,
+    "font": 133305,
+    "fontCount": 7,
+    "stylesheet": 71518,
+    "stylesheetCount": 2,
+    "thirdParty": 1028463,
+    "thirdPartyCount": 75
+  },
+  "axe": {
+    "passes": 1407,
+    "violations": 2
+  }
+}

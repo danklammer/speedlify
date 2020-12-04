@@ -1,0 +1,46 @@
+{
+  "url": "https://www.leidos.com/",
+  "requestedUrl": "https://www.leidos.com/",
+  "timestamp": 1607058899204,
+  "ranks": {
+    "hundos": 58,
+    "performance": 55,
+    "accessibility": 52,
+    "cumulative": 57
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.35,
+    "accessibility": 0.84,
+    "bestPractices": 0.8,
+    "seo": 0.75,
+    "total": 274
+  },
+  "firstContentfulPaint": 3338.433,
+  "speedIndex": 6240.488436795708,
+  "largestContentfulPaint": 7014.099999999999,
+  "totalBlockingTime": 678.0000000000009,
+  "cumulativeLayoutShift": 0.0016284179687500002,
+  "timeToInteractive": 13213.454500000003,
+  "maxPotentialFirstInputDelay": 258.0000000000009,
+  "timeToFirstByte": 134.267,
+  "weight": {
+    "summary": "250 requests • 4,441 KiB",
+    "total": 4547428,
+    "image": 3098014,
+    "imageCount": 77,
+    "script": 833388,
+    "scriptCount": 70,
+    "document": 29386,
+    "font": 127861,
+    "fontCount": 5,
+    "stylesheet": 139426,
+    "stylesheetCount": 67,
+    "thirdParty": 770253,
+    "thirdPartyCount": 73
+  },
+  "axe": {
+    "passes": 1741,
+    "violations": 35
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.owenscorning.com/en-us",
+  "requestedUrl": "https://www.owenscorning.com/",
+  "timestamp": 1607092519928,
+  "ranks": {
+    "hundos": 69,
+    "performance": 83,
+    "accessibility": 72,
+    "cumulative": 69
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.21,
+    "accessibility": 0.79,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 273
+  },
+  "firstContentfulPaint": 4778.6625,
+  "speedIndex": 9229.561185397652,
+  "largestContentfulPaint": 11474.085500000001,
+  "totalBlockingTime": 794.0000000000018,
+  "cumulativeLayoutShift": 0.0864351823594835,
+  "timeToInteractive": 14040.211000000001,
+  "maxPotentialFirstInputDelay": 581,
+  "timeToFirstByte": 203.666,
+  "weight": {
+    "summary": "108 requests • 1,503 KiB",
+    "total": 1539348,
+    "image": 296579,
+    "imageCount": 28,
+    "script": 1011368,
+    "scriptCount": 41,
+    "document": 28429,
+    "font": 107632,
+    "fontCount": 5,
+    "stylesheet": 83178,
+    "stylesheetCount": 10,
+    "thirdParty": 1449768,
+    "thirdPartyCount": 105
+  },
+  "axe": {
+    "passes": 465,
+    "violations": 21
+  }
+}

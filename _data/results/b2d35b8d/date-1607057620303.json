@@ -1,0 +1,46 @@
+{
+  "url": "https://www.nordstrom.com/",
+  "requestedUrl": "https://www.nordstrom.com/",
+  "timestamp": 1607059136484,
+  "ranks": {
+    "hundos": 60,
+    "performance": 69,
+    "accessibility": 63,
+    "cumulative": 60
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.2,
+    "accessibility": 0.8,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 271
+  },
+  "firstContentfulPaint": 2996.2490000000007,
+  "speedIndex": 8773.355779773083,
+  "largestContentfulPaint": 10473.865,
+  "totalBlockingTime": 2595.000000000002,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 15032.3855,
+  "maxPotentialFirstInputDelay": 741.0000000000036,
+  "timeToFirstByte": 779.721,
+  "weight": {
+    "summary": "129 requests • 1,699 KiB",
+    "total": 1739075,
+    "image": 332001,
+    "imageCount": 19,
+    "script": 1096899,
+    "scriptCount": 56,
+    "document": 85602,
+    "font": 71296,
+    "fontCount": 2,
+    "stylesheet": 26974,
+    "stylesheetCount": 11,
+    "thirdParty": 783932,
+    "thirdPartyCount": 65
+  },
+  "axe": {
+    "passes": 1,
+    "violations": 4
+  }
+}

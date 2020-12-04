@@ -1,0 +1,46 @@
+{
+  "url": "https://ir.yumchina.com/",
+  "requestedUrl": "https://ir.yumchina.com/",
+  "timestamp": 1607085740770,
+  "ranks": {
+    "hundos": 49,
+    "performance": 53,
+    "accessibility": 66,
+    "cumulative": 49
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.41,
+    "accessibility": 0.81,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 288
+  },
+  "firstContentfulPaint": 2027.3200000000002,
+  "speedIndex": 19499.439193101243,
+  "largestContentfulPaint": 47715.860000000015,
+  "totalBlockingTime": 88.5,
+  "cumulativeLayoutShift": 0.32596899414062497,
+  "timeToInteractive": 27712.900000000012,
+  "maxPotentialFirstInputDelay": 127,
+  "timeToFirstByte": 75.96699999999998,
+  "weight": {
+    "summary": "57 requests • 51,384 KiB",
+    "total": 52617706,
+    "image": 51963835,
+    "imageCount": 29,
+    "script": 350688,
+    "scriptCount": 15,
+    "document": 13569,
+    "font": 197492,
+    "fontCount": 3,
+    "stylesheet": 87912,
+    "stylesheetCount": 6,
+    "thirdParty": 40849,
+    "thirdPartyCount": 7
+  },
+  "axe": {
+    "passes": 465,
+    "violations": 29
+  }
+}

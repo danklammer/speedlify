@@ -1,0 +1,46 @@
+{
+  "url": "https://www.expeditors.com/",
+  "requestedUrl": "https://www.expeditors.com/",
+  "timestamp": 1607086416960,
+  "ranks": {
+    "hundos": 33,
+    "performance": 3,
+    "accessibility": 93,
+    "cumulative": 33
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.79,
+    "accessibility": 0.64,
+    "bestPractices": 0.8,
+    "seo": 0.79,
+    "total": 302
+  },
+  "firstContentfulPaint": 2391.73,
+  "speedIndex": 5146.494210092142,
+  "largestContentfulPaint": 3688.5235000000002,
+  "totalBlockingTime": 92,
+  "cumulativeLayoutShift": 0.02594998338487413,
+  "timeToInteractive": 5042.466,
+  "maxPotentialFirstInputDelay": 107,
+  "timeToFirstByte": 166.811,
+  "weight": {
+    "summary": "45 requests • 10,068 KiB",
+    "total": 10309763,
+    "image": 9925352,
+    "imageCount": 30,
+    "script": 229988,
+    "scriptCount": 6,
+    "document": 28902,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 125115,
+    "stylesheetCount": 3,
+    "thirdParty": 196386,
+    "thirdPartyCount": 9
+  },
+  "axe": {
+    "passes": 738,
+    "violations": 17
+  }
+}

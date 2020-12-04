@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ball.com/region-selection",
+  "requestedUrl": "https://www.ball.com/",
+  "timestamp": 1607084168771,
+  "ranks": {
+    "hundos": 11,
+    "performance": 26,
+    "accessibility": 13,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.55,
+    "accessibility": 0.96,
+    "bestPractices": 0.8,
+    "seo": 0.92,
+    "total": 323
+  },
+  "firstContentfulPaint": 4096.987,
+  "speedIndex": 4115.170900759246,
+  "largestContentfulPaint": 8492.365891815183,
+  "totalBlockingTime": 16,
+  "cumulativeLayoutShift": 0.01615549193488227,
+  "timeToInteractive": 8994.114445907591,
+  "maxPotentialFirstInputDelay": 72,
+  "timeToFirstByte": 238.437,
+  "weight": {
+    "summary": "82 requests • 756 KiB",
+    "total": 773878,
+    "image": 12177,
+    "imageCount": 16,
+    "script": 405235,
+    "scriptCount": 44,
+    "document": 203319,
+    "font": 130634,
+    "fontCount": 13,
+    "stylesheet": 22123,
+    "stylesheetCount": 6,
+    "thirdParty": 280657,
+    "thirdPartyCount": 18
+  },
+  "axe": {
+    "passes": 508,
+    "violations": 2
+  }
+}

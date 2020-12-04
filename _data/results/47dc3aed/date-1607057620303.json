@@ -1,0 +1,46 @@
+{
+  "url": "https://www.hormelfoods.com/",
+  "requestedUrl": "https://www.hormelfoods.com/",
+  "timestamp": 1607088726288,
+  "ranks": {
+    "hundos": 14,
+    "performance": 38,
+    "accessibility": 22,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.54,
+    "accessibility": 0.93,
+    "bestPractices": 0.8,
+    "seo": 0.97,
+    "total": 324
+  },
+  "firstContentfulPaint": 2906.3484999999996,
+  "speedIndex": 3026.6319919071857,
+  "largestContentfulPaint": 7613.574499999999,
+  "totalBlockingTime": 441.5,
+  "cumulativeLayoutShift": 0.8136474609375001,
+  "timeToInteractive": 6211.914499999999,
+  "maxPotentialFirstInputDelay": 160,
+  "timeToFirstByte": 48.762,
+  "weight": {
+    "summary": "36 requests • 1,841 KiB",
+    "total": 1885659,
+    "image": 667265,
+    "imageCount": 14,
+    "script": 302444,
+    "scriptCount": 7,
+    "document": 25289,
+    "font": 537525,
+    "fontCount": 8,
+    "stylesheet": 352394,
+    "stylesheetCount": 3,
+    "thirdParty": 153803,
+    "thirdPartyCount": 10
+  },
+  "axe": {
+    "passes": 854,
+    "violations": 20
+  }
+}

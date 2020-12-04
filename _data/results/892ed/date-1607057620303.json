@@ -1,0 +1,46 @@
+{
+  "url": "https://www.alcoa.com/global/en/home/",
+  "requestedUrl": "https://www.alcoa.com/",
+  "timestamp": 1607088260417,
+  "ranks": {
+    "hundos": 90,
+    "performance": 67,
+    "accessibility": 90,
+    "cumulative": 89
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.3,
+    "accessibility": 0.65,
+    "bestPractices": 0.67,
+    "seo": 0.72,
+    "total": 234
+  },
+  "firstContentfulPaint": 4621.609999999999,
+  "speedIndex": 9506.543283081253,
+  "largestContentfulPaint": 5122.892499999999,
+  "totalBlockingTime": 585,
+  "cumulativeLayoutShift": 0.36385782877604167,
+  "timeToInteractive": 13401.829,
+  "maxPotentialFirstInputDelay": 343,
+  "timeToFirstByte": 614.66,
+  "weight": {
+    "summary": "67 requests • 2,051 KiB",
+    "total": 2100574,
+    "image": 875589,
+    "imageCount": 26,
+    "script": 1022255,
+    "scriptCount": 24,
+    "document": 61184,
+    "font": 14719,
+    "fontCount": 1,
+    "stylesheet": 123777,
+    "stylesheetCount": 8,
+    "thirdParty": 1023418,
+    "thirdPartyCount": 29
+  },
+  "axe": {
+    "passes": 866,
+    "violations": 33
+  }
+}

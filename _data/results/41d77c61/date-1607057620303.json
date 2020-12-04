@@ -1,0 +1,46 @@
+{
+  "url": "https://www.53.com/content/fifth-third/en.html",
+  "requestedUrl": "https://www.53.com/",
+  "timestamp": 1607088579378,
+  "ranks": {
+    "hundos": 34,
+    "performance": 62,
+    "accessibility": 7,
+    "cumulative": 34
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.32,
+    "accessibility": 0.98,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 302
+  },
+  "firstContentfulPaint": 3798.4155,
+  "speedIndex": 6046.665869499644,
+  "largestContentfulPaint": 13859.752500000002,
+  "totalBlockingTime": 674,
+  "cumulativeLayoutShift": 0.0020976457595825197,
+  "timeToInteractive": 13397.212500000001,
+  "maxPotentialFirstInputDelay": 542,
+  "timeToFirstByte": 72.169,
+  "weight": {
+    "summary": "120 requests • 1,427 KiB",
+    "total": 1461272,
+    "image": 239355,
+    "imageCount": 29,
+    "script": 933739,
+    "scriptCount": 50,
+    "document": 34419,
+    "font": 56436,
+    "fontCount": 5,
+    "stylesheet": 156846,
+    "stylesheetCount": 5,
+    "thirdParty": 811976,
+    "thirdPartyCount": 89
+  },
+  "axe": {
+    "passes": 103,
+    "violations": 2
+  }
+}

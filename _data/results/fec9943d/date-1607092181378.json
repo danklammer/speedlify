@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ameren.com/",
+  "requestedUrl": "https://www.ameren.com/",
+  "timestamp": 1607096185260,
+  "ranks": {
+    "hundos": 15,
+    "performance": 15,
+    "accessibility": 64,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.66,
+    "accessibility": 0.84,
+    "bestPractices": 0.8,
+    "seo": 0.89,
+    "total": 319
+  },
+  "firstContentfulPaint": 1889.8370000000002,
+  "speedIndex": 2517.2600313524845,
+  "largestContentfulPaint": 4506.6410000000005,
+  "totalBlockingTime": 541.0000000000005,
+  "cumulativeLayoutShift": 0.00011274252997504341,
+  "timeToInteractive": 6650.933000000002,
+  "maxPotentialFirstInputDelay": 301.00000000000045,
+  "timeToFirstByte": 174.10800000000003,
+  "weight": {
+    "summary": "38 requests • 926 KiB",
+    "total": 948246,
+    "image": 241252,
+    "imageCount": 9,
+    "script": 546989,
+    "scriptCount": 13,
+    "document": 16913,
+    "font": 48060,
+    "fontCount": 3,
+    "stylesheet": 88386,
+    "stylesheetCount": 3,
+    "thirdParty": 154493,
+    "thirdPartyCount": 13
+  },
+  "axe": {
+    "passes": 568,
+    "violations": 17
+  }
+}

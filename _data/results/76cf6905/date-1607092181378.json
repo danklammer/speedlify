@@ -1,0 +1,46 @@
+{
+  "url": "https://www3.mtb.com/",
+  "requestedUrl": "https://www.mtb.com/",
+  "timestamp": 1607095393439,
+  "ranks": {
+    "hundos": 33,
+    "performance": 78,
+    "accessibility": 2,
+    "cumulative": 33
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.25,
+    "accessibility": 1,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 305
+  },
+  "firstContentfulPaint": 3657.3049999999994,
+  "speedIndex": 12403.070714153964,
+  "largestContentfulPaint": 8266.472499999998,
+  "totalBlockingTime": 857.4999999999995,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 11235.5565,
+  "maxPotentialFirstInputDelay": 548.9999999999995,
+  "timeToFirstByte": 37.42999999999998,
+  "weight": {
+    "summary": "81 requests • 1,586 KiB",
+    "total": 1624475,
+    "image": 807724,
+    "imageCount": 18,
+    "script": 470653,
+    "scriptCount": 43,
+    "document": 36745,
+    "font": 256025,
+    "fontCount": 4,
+    "stylesheet": 45226,
+    "stylesheetCount": 1,
+    "thirdParty": 358338,
+    "thirdPartyCount": 63
+  },
+  "axe": {
+    "passes": 772,
+    "violations": 4
+  }
+}

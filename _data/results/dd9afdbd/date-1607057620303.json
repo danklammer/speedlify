@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ielp.com/",
+  "requestedUrl": "https://www.ielp.com/",
+  "timestamp": 1607088923245,
+  "ranks": {
+    "hundos": 30,
+    "performance": 7,
+    "accessibility": 51,
+    "cumulative": 30
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.76,
+    "accessibility": 0.86,
+    "bestPractices": 0.67,
+    "seo": 0.79,
+    "total": 308
+  },
+  "firstContentfulPaint": 1477.5079999999998,
+  "speedIndex": 2882.6007709859196,
+  "largestContentfulPaint": 5647.1720000000005,
+  "totalBlockingTime": 36,
+  "cumulativeLayoutShift": 0.03636470596652561,
+  "timeToInteractive": 4628.527499999999,
+  "maxPotentialFirstInputDelay": 116,
+  "timeToFirstByte": 123.10099999999997,
+  "weight": {
+    "summary": "21 requests • 608 KiB",
+    "total": 622849,
+    "image": 307651,
+    "imageCount": 9,
+    "script": 245678,
+    "scriptCount": 5,
+    "document": 11090,
+    "font": 25071,
+    "fontCount": 1,
+    "stylesheet": 31186,
+    "stylesheetCount": 3,
+    "thirdParty": 37038,
+    "thirdPartyCount": 6
+  },
+  "axe": {
+    "passes": 283,
+    "violations": 22
+  }
+}

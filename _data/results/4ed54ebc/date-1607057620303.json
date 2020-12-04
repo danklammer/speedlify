@@ -1,0 +1,46 @@
+{
+  "url": "https://www.alticeusa.com/",
+  "requestedUrl": "https://www.alticeusa.com/",
+  "timestamp": 1607085294690,
+  "ranks": {
+    "hundos": 25,
+    "performance": 25,
+    "accessibility": 40,
+    "cumulative": 25
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.62,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "seo": 0.75,
+    "total": 312
+  },
+  "firstContentfulPaint": 2868.6939999999995,
+  "speedIndex": 3538.4276798819737,
+  "largestContentfulPaint": 7138.4439999999995,
+  "totalBlockingTime": 205,
+  "cumulativeLayoutShift": 0.6495976486206054,
+  "timeToInteractive": 5636.955,
+  "maxPotentialFirstInputDelay": 214,
+  "timeToFirstByte": 149.375,
+  "weight": {
+    "summary": "62 requests • 5,436 KiB",
+    "total": 5566593,
+    "image": 5049057,
+    "imageCount": 25,
+    "script": 427159,
+    "scriptCount": 14,
+    "document": 8833,
+    "font": 41310,
+    "fontCount": 3,
+    "stylesheet": 31840,
+    "stylesheetCount": 5,
+    "thirdParty": 521113,
+    "thirdPartyCount": 35
+  },
+  "axe": {
+    "passes": 669,
+    "violations": 7
+  }
+}

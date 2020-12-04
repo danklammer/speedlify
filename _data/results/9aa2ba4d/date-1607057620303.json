@@ -1,0 +1,46 @@
+{
+  "url": "https://www.navistar.com/navistar/mobile/",
+  "requestedUrl": "https://www.navistar.com/",
+  "timestamp": 1607058832961,
+  "ranks": {
+    "hundos": 47,
+    "performance": 17,
+    "accessibility": 92,
+    "cumulative": 47
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.62,
+    "accessibility": 0.52,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 286
+  },
+  "firstContentfulPaint": 3656.6974999999993,
+  "speedIndex": 4527.716463276127,
+  "largestContentfulPaint": 5245.463499999998,
+  "totalBlockingTime": 43,
+  "cumulativeLayoutShift": 0.2870022633870443,
+  "timeToInteractive": 6127.413499999997,
+  "maxPotentialFirstInputDelay": 90,
+  "timeToFirstByte": 31.017,
+  "weight": {
+    "summary": "49 requests • 343 KiB",
+    "total": 351433,
+    "image": 107235,
+    "imageCount": 16,
+    "script": 214341,
+    "scriptCount": 19,
+    "document": 5201,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 22487,
+    "stylesheetCount": 7,
+    "thirdParty": 84570,
+    "thirdPartyCount": 12
+  },
+  "axe": {
+    "passes": 254,
+    "violations": 10
+  }
+}

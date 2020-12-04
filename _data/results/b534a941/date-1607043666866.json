@@ -1,0 +1,46 @@
+{
+  "url": "https://www.jabil.com/",
+  "requestedUrl": "https://www.jabil.com/",
+  "timestamp": 1607049448502,
+  "ranks": {
+    "hundos": 3,
+    "performance": 8,
+    "accessibility": 22,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.64,
+    "accessibility": 0.94,
+    "bestPractices": 0.87,
+    "seo": 1,
+    "total": 345
+  },
+  "firstContentfulPaint": 2046.0299999999997,
+  "speedIndex": 5267.481072715369,
+  "largestContentfulPaint": 5599.1465,
+  "totalBlockingTime": 162.00000000000023,
+  "cumulativeLayoutShift": 0.01269472418891059,
+  "timeToInteractive": 7787.283999999999,
+  "maxPotentialFirstInputDelay": 129,
+  "timeToFirstByte": 57.795000000000016,
+  "weight": {
+    "summary": "50 requests • 1,078 KiB",
+    "total": 1104129,
+    "image": 484608,
+    "imageCount": 20,
+    "script": 353843,
+    "scriptCount": 16,
+    "document": 25872,
+    "font": 83836,
+    "fontCount": 3,
+    "stylesheet": 28701,
+    "stylesheetCount": 2,
+    "thirdParty": 381695,
+    "thirdPartyCount": 27
+  },
+  "axe": {
+    "passes": 853,
+    "violations": 12
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.marriott.com/default.mi",
+  "requestedUrl": "https://www.marriott.com/",
+  "timestamp": 1607050008883,
+  "ranks": {
+    "hundos": 84,
+    "performance": 95,
+    "accessibility": 43,
+    "cumulative": 84
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.02,
+    "accessibility": 0.88,
+    "bestPractices": 0.53,
+    "seo": 0.91,
+    "total": 234
+  },
+  "firstContentfulPaint": 11087.7385,
+  "speedIndex": 22873.210011089926,
+  "largestContentfulPaint": 19885.139000000003,
+  "totalBlockingTime": 13996.802499999987,
+  "cumulativeLayoutShift": 0.331155340830485,
+  "timeToInteractive": 39348.020000000004,
+  "maxPotentialFirstInputDelay": 5686,
+  "timeToFirstByte": 796.846,
+  "weight": {
+    "summary": "369 requests • 4,078 KiB",
+    "total": 4175846,
+    "image": 1031837,
+    "imageCount": 84,
+    "script": 2292999,
+    "scriptCount": 138,
+    "document": 73156,
+    "font": 562602,
+    "fontCount": 8,
+    "stylesheet": 83102,
+    "stylesheetCount": 28,
+    "thirdParty": 1774271,
+    "thirdPartyCount": 272
+  },
+  "axe": {
+    "passes": 1326,
+    "violations": 29
+  }
+}

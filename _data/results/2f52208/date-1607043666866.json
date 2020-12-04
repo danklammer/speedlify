@@ -1,0 +1,45 @@
+{
+  "url": "https://www.synchrony.com/",
+  "requestedUrl": "https://www.synchronyfinancial.com/",
+  "timestamp": 1607050187022,
+  "ranks": {
+    "hundos": 5,
+    "performance": 17,
+    "accessibility": 10,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.54,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 323
+  },
+  "firstContentfulPaint": 2909.6890000000003,
+  "speedIndex": 7835.724142203333,
+  "largestContentfulPaint": 2909.6890000000003,
+  "totalBlockingTime": 693.9999999999986,
+  "cumulativeLayoutShift": 0.0346142578125,
+  "timeToInteractive": 11277.723999999998,
+  "maxPotentialFirstInputDelay": 641.9999999999982,
+  "timeToFirstByte": 209.68899999999996,
+  "weight": {
+    "summary": "85 requests • 1,383 KiB",
+    "total": 1416354,
+    "image": 706945,
+    "imageCount": 34,
+    "script": 523342,
+    "scriptCount": 27,
+    "document": 24990,
+    "font": 74443,
+    "fontCount": 3,
+    "stylesheet": 77678,
+    "stylesheetCount": 2,
+    "thirdParty": 233968,
+    "thirdPartyCount": 42
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

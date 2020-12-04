@@ -1,0 +1,46 @@
+{
+  "url": "https://www.darden.com/",
+  "requestedUrl": "https://www.darden.com/",
+  "timestamp": 1607087664972,
+  "ranks": {
+    "hundos": 47,
+    "performance": 57,
+    "accessibility": 61,
+    "cumulative": 47
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.36,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 290
+  },
+  "firstContentfulPaint": 7321.49,
+  "speedIndex": 8277.711754491496,
+  "largestContentfulPaint": 9307.712,
+  "totalBlockingTime": 38.5,
+  "cumulativeLayoutShift": 0.0006338659922281902,
+  "timeToInteractive": 13169.203000000005,
+  "maxPotentialFirstInputDelay": 82,
+  "timeToFirstByte": 137.95100000000002,
+  "weight": {
+    "summary": "73 requests • 3,163 KiB",
+    "total": 3239264,
+    "image": 1794547,
+    "imageCount": 23,
+    "script": 675560,
+    "scriptCount": 19,
+    "document": 45960,
+    "font": 192885,
+    "fontCount": 11,
+    "stylesheet": 522920,
+    "stylesheetCount": 8,
+    "thirdParty": 468417,
+    "thirdPartyCount": 42
+  },
+  "axe": {
+    "passes": 464,
+    "violations": 46
+  }
+}

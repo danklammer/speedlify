@@ -1,0 +1,46 @@
+{
+  "url": "https://www.chsinc.com/",
+  "requestedUrl": "https://www.chsinc.com/",
+  "timestamp": 1607050834007,
+  "ranks": {
+    "hundos": 63,
+    "performance": 50,
+    "accessibility": 48,
+    "cumulative": 63
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.34,
+    "accessibility": 0.86,
+    "bestPractices": 0.73,
+    "seo": 0.71,
+    "total": 264
+  },
+  "firstContentfulPaint": 5886.598,
+  "speedIndex": 26789.375783483778,
+  "largestContentfulPaint": 9599.531000000003,
+  "totalBlockingTime": 265.0000000000009,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10614.711,
+  "maxPotentialFirstInputDelay": 158,
+  "timeToFirstByte": 4656.943,
+  "weight": {
+    "summary": "82 requests • 9,304 KiB",
+    "total": 9527319,
+    "image": 5082889,
+    "imageCount": 23,
+    "script": 497650,
+    "scriptCount": 25,
+    "document": 21048,
+    "font": 225113,
+    "fontCount": 5,
+    "stylesheet": 250633,
+    "stylesheetCount": 10,
+    "thirdParty": 3879304,
+    "thirdPartyCount": 38
+  },
+  "axe": {
+    "passes": 714,
+    "violations": 21
+  }
+}

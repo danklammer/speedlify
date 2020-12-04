@@ -1,0 +1,46 @@
+{
+  "url": "https://www.dana.com/",
+  "requestedUrl": "https://www.dana.com/",
+  "timestamp": 1607085821843,
+  "ranks": {
+    "hundos": 15,
+    "performance": 8,
+    "accessibility": 53,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.75,
+    "accessibility": 0.85,
+    "bestPractices": 0.87,
+    "seo": 0.77,
+    "total": 324
+  },
+  "firstContentfulPaint": 2641.2599999999993,
+  "speedIndex": 4168.717907518487,
+  "largestContentfulPaint": 3743.024999999999,
+  "totalBlockingTime": 248.5,
+  "cumulativeLayoutShift": 0.0011145019531249999,
+  "timeToInteractive": 6831.962999999999,
+  "maxPotentialFirstInputDelay": 187,
+  "timeToFirstByte": 553.247,
+  "weight": {
+    "summary": "41 requests • 1,138 KiB",
+    "total": 1165063,
+    "image": 243689,
+    "imageCount": 15,
+    "script": 305515,
+    "scriptCount": 9,
+    "document": 14300,
+    "font": 347853,
+    "fontCount": 7,
+    "stylesheet": 155237,
+    "stylesheetCount": 2,
+    "thirdParty": 154733,
+    "thirdPartyCount": 11
+  },
+  "axe": {
+    "passes": 722,
+    "violations": 15
+  }
+}

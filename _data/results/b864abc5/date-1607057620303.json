@@ -1,0 +1,46 @@
+{
+  "url": "https://www.biogen.com/",
+  "requestedUrl": "https://www.biogen.com/",
+  "timestamp": 1607083046686,
+  "ranks": {
+    "hundos": 95,
+    "performance": 77,
+    "accessibility": 93,
+    "cumulative": 95
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.16,
+    "accessibility": 0.52,
+    "bestPractices": 0.67,
+    "seo": 0.66,
+    "total": 201
+  },
+  "firstContentfulPaint": 5287.419,
+  "speedIndex": 6683.049125932541,
+  "largestContentfulPaint": 7950.7885,
+  "totalBlockingTime": 1785.892239196778,
+  "cumulativeLayoutShift": 0.013447731865776908,
+  "timeToInteractive": 18323.988239196784,
+  "maxPotentialFirstInputDelay": 828.9999999999991,
+  "timeToFirstByte": 95.685,
+  "weight": {
+    "summary": "131 requests • 2,862 KiB",
+    "total": 2930245,
+    "image": 1388005,
+    "imageCount": 24,
+    "script": 1031220,
+    "scriptCount": 53,
+    "document": 102830,
+    "font": 231857,
+    "fontCount": 11,
+    "stylesheet": 164548,
+    "stylesheetCount": 16,
+    "thirdParty": 1247508,
+    "thirdPartyCount": 72
+  },
+  "axe": {
+    "passes": 736,
+    "violations": 82
+  }
+}

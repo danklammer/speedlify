@@ -1,0 +1,46 @@
+{
+  "url": "https://www.burlingtoninvestors.com/",
+  "requestedUrl": "https://www.burlingtoninvestors.com/",
+  "timestamp": 1607093734952,
+  "ranks": {
+    "hundos": 50,
+    "performance": 35,
+    "accessibility": 59,
+    "cumulative": 51
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.52,
+    "accessibility": 0.85,
+    "bestPractices": 0.67,
+    "seo": 0.82,
+    "total": 286
+  },
+  "firstContentfulPaint": 2235.125,
+  "speedIndex": 6086.140639438064,
+  "largestContentfulPaint": 6443.887000000002,
+  "totalBlockingTime": 91,
+  "cumulativeLayoutShift": 0.788889634874132,
+  "timeToInteractive": 9961.972500000003,
+  "maxPotentialFirstInputDelay": 133,
+  "timeToFirstByte": 159.02800000000002,
+  "weight": {
+    "summary": "36 requests • 2,129 KiB",
+    "total": 2180255,
+    "image": 1629061,
+    "imageCount": 5,
+    "script": 336588,
+    "scriptCount": 12,
+    "document": 15232,
+    "font": 120273,
+    "fontCount": 4,
+    "stylesheet": 76380,
+    "stylesheetCount": 10,
+    "thirdParty": 85082,
+    "thirdPartyCount": 16
+  },
+  "axe": {
+    "passes": 624,
+    "violations": 34
+  }
+}

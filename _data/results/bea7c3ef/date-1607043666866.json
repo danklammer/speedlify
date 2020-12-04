@@ -1,0 +1,46 @@
+{
+  "url": "https://www.us.jll.com/",
+  "requestedUrl": "https://www.jll.com/",
+  "timestamp": 1607052190313,
+  "ranks": {
+    "hundos": 64,
+    "performance": 90,
+    "accessibility": 26,
+    "cumulative": 64
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.07,
+    "accessibility": 0.92,
+    "bestPractices": 0.8,
+    "seo": 0.84,
+    "total": 263
+  },
+  "firstContentfulPaint": 8210.5145,
+  "speedIndex": 13981.699939360451,
+  "largestContentfulPaint": 23598.347500000007,
+  "totalBlockingTime": 1763.4999999999995,
+  "cumulativeLayoutShift": 0.036640607198079427,
+  "timeToInteractive": 22631.457,
+  "maxPotentialFirstInputDelay": 618,
+  "timeToFirstByte": 87.13900000000001,
+  "weight": {
+    "summary": "144 requests • 2,946 KiB",
+    "total": 3016791,
+    "image": 681573,
+    "imageCount": 35,
+    "script": 2100312,
+    "scriptCount": 67,
+    "document": 56903,
+    "font": 68540,
+    "fontCount": 6,
+    "stylesheet": 43018,
+    "stylesheetCount": 3,
+    "thirdParty": 1842957,
+    "thirdPartyCount": 125
+  },
+  "axe": {
+    "passes": 1502,
+    "violations": 52
+  }
+}

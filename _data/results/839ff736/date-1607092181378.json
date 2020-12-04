@@ -1,0 +1,46 @@
+{
+  "url": "https://www.thecloroxcompany.com/",
+  "requestedUrl": "https://www.thecloroxcompany.com/",
+  "timestamp": 1607096035085,
+  "ranks": {
+    "hundos": 4,
+    "performance": 11,
+    "accessibility": 6,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.69,
+    "accessibility": 0.98,
+    "bestPractices": 0.87,
+    "seo": 0.84,
+    "total": 340
+  },
+  "firstContentfulPaint": 2370.6079999999997,
+  "speedIndex": 4174.492118545721,
+  "largestContentfulPaint": 5476.0915,
+  "totalBlockingTime": 170.49600000000032,
+  "cumulativeLayoutShift": 0.13197635904947919,
+  "timeToInteractive": 5923.724999999999,
+  "maxPotentialFirstInputDelay": 182.00000000000045,
+  "timeToFirstByte": 27.138000000000005,
+  "weight": {
+    "summary": "50 requests • 1,297 KiB",
+    "total": 1328367,
+    "image": 913991,
+    "imageCount": 21,
+    "script": 291422,
+    "scriptCount": 14,
+    "document": 13815,
+    "font": 51366,
+    "fontCount": 4,
+    "stylesheet": 49752,
+    "stylesheetCount": 6,
+    "thirdParty": 218383,
+    "thirdPartyCount": 20
+  },
+  "axe": {
+    "passes": 1038,
+    "violations": 16
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.conedison.com/en",
+  "requestedUrl": "https://www.conedison.com/",
+  "timestamp": 1607058354802,
+  "ranks": {
+    "hundos": 19,
+    "performance": 46,
+    "accessibility": 21,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.93,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 315
+  },
+  "firstContentfulPaint": 2303.1930000000007,
+  "speedIndex": 7166.200381985977,
+  "largestContentfulPaint": 11662.844500000001,
+  "totalBlockingTime": 496,
+  "cumulativeLayoutShift": 0.005833399992021867,
+  "timeToInteractive": 11751.593499999999,
+  "maxPotentialFirstInputDelay": 538,
+  "timeToFirstByte": 79.51899999999999,
+  "weight": {
+    "summary": "35 requests • 1,749 KiB",
+    "total": 1791411,
+    "image": 294856,
+    "imageCount": 7,
+    "script": 1220555,
+    "scriptCount": 14,
+    "document": 7558,
+    "font": 116445,
+    "fontCount": 7,
+    "stylesheet": 151343,
+    "stylesheetCount": 4,
+    "thirdParty": 445081,
+    "thirdPartyCount": 19
+  },
+  "axe": {
+    "passes": 297,
+    "violations": 6
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ulta.com/",
+  "requestedUrl": "https://www.ulta.com/",
+  "timestamp": 1607092396256,
+  "ranks": {
+    "hundos": 77,
+    "performance": 89,
+    "accessibility": 35,
+    "cumulative": 78
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.18,
+    "accessibility": 0.91,
+    "bestPractices": 0.73,
+    "seo": 0.85,
+    "total": 267
+  },
+  "firstContentfulPaint": 1635.047,
+  "speedIndex": 10519.489792192224,
+  "largestContentfulPaint": 9633.739500000001,
+  "totalBlockingTime": 5140.4999999999945,
+  "cumulativeLayoutShift": 0.4081917572021485,
+  "timeToInteractive": 27272.974499999993,
+  "maxPotentialFirstInputDelay": 683,
+  "timeToFirstByte": 364.602,
+  "weight": {
+    "summary": "241 requests • 3,656 KiB",
+    "total": 3743611,
+    "image": 1100125,
+    "imageCount": 88,
+    "script": 2305875,
+    "scriptCount": 80,
+    "document": 65784,
+    "font": 95043,
+    "fontCount": 1,
+    "stylesheet": 112166,
+    "stylesheetCount": 8,
+    "thirdParty": 1998020,
+    "thirdPartyCount": 167
+  },
+  "axe": {
+    "passes": 4260,
+    "violations": 255
+  }
+}

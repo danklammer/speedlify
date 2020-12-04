@@ -1,0 +1,46 @@
+{
+  "url": "https://www.netapp.com/",
+  "requestedUrl": "https://www.netapp.com/",
+  "timestamp": 1607096087772,
+  "ranks": {
+    "hundos": 63,
+    "performance": 74,
+    "accessibility": 30,
+    "cumulative": 63
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.92,
+    "bestPractices": 0.8,
+    "seo": 0.79,
+    "total": 278
+  },
+  "firstContentfulPaint": 2818.523,
+  "speedIndex": 6909.322024945983,
+  "largestContentfulPaint": 6725.151000000001,
+  "totalBlockingTime": 1242,
+  "cumulativeLayoutShift": 0.0012359619140625,
+  "timeToInteractive": 19193.10918385315,
+  "maxPotentialFirstInputDelay": 550,
+  "timeToFirstByte": 56.67999999999998,
+  "weight": {
+    "summary": "247 requests • 2,066 KiB",
+    "total": 2115522,
+    "image": 480069,
+    "imageCount": 42,
+    "script": 1375996,
+    "scriptCount": 113,
+    "document": 41583,
+    "font": 38021,
+    "fontCount": 2,
+    "stylesheet": 101096,
+    "stylesheetCount": 16,
+    "thirdParty": 1495738,
+    "thirdPartyCount": 211
+  },
+  "axe": {
+    "passes": 1376,
+    "violations": 26
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.activisionblizzard.com/",
+  "requestedUrl": "https://www.activisionblizzard.com/",
+  "timestamp": 1607092923309,
+  "ranks": {
+    "hundos": 81,
+    "performance": 62,
+    "accessibility": 86,
+    "cumulative": 81
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.34,
+    "accessibility": 0.73,
+    "bestPractices": 0.73,
+    "seo": 0.77,
+    "total": 257
+  },
+  "firstContentfulPaint": 9606.86,
+  "speedIndex": 9606.86,
+  "largestContentfulPaint": 13336.644,
+  "totalBlockingTime": 84.5,
+  "cumulativeLayoutShift": 0.004489788479275173,
+  "timeToInteractive": 12208.060499999998,
+  "maxPotentialFirstInputDelay": 199.5,
+  "timeToFirstByte": 207.69799999999998,
+  "weight": {
+    "summary": "114 requests • 6,303 KiB",
+    "total": 6454616,
+    "image": 551541,
+    "imageCount": 41,
+    "script": 289751,
+    "scriptCount": 15,
+    "document": 11306,
+    "font": 13675,
+    "fontCount": 1,
+    "stylesheet": 1399794,
+    "stylesheetCount": 12,
+    "thirdParty": 4411028,
+    "thirdPartyCount": 68
+  },
+  "axe": {
+    "passes": 577,
+    "violations": 36
+  }
+}

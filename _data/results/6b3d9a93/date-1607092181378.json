@@ -1,0 +1,46 @@
+{
+  "url": "https://www.zoetis.com/",
+  "requestedUrl": "https://www.zoetis.com/",
+  "timestamp": 1607096004626,
+  "ranks": {
+    "hundos": 68,
+    "performance": 54,
+    "accessibility": 73,
+    "cumulative": 68
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.39,
+    "accessibility": 0.79,
+    "bestPractices": 0.67,
+    "seo": 0.9,
+    "total": 275
+  },
+  "firstContentfulPaint": 4281.659,
+  "speedIndex": 8639.710079503211,
+  "largestContentfulPaint": 5373.007999999998,
+  "totalBlockingTime": 357.5,
+  "cumulativeLayoutShift": 0.7954904476801554,
+  "timeToInteractive": 9821.029499999997,
+  "maxPotentialFirstInputDelay": 244,
+  "timeToFirstByte": 97.89100000000002,
+  "weight": {
+    "summary": "80 requests • 1,964 KiB",
+    "total": 2011485,
+    "image": 877245,
+    "imageCount": 23,
+    "script": 434450,
+    "scriptCount": 22,
+    "document": 47581,
+    "font": 569234,
+    "fontCount": 18,
+    "stylesheet": 55369,
+    "stylesheetCount": 9,
+    "thirdParty": 869781,
+    "thirdPartyCount": 36
+  },
+  "axe": {
+    "passes": 696,
+    "violations": 36
+  }
+}

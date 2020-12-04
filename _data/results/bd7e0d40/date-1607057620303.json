@@ -1,0 +1,46 @@
+{
+  "url": "https://www.wesco.com/",
+  "requestedUrl": "https://www.wesco.com/",
+  "timestamp": 1607086115058,
+  "ranks": {
+    "hundos": 19,
+    "performance": 11,
+    "accessibility": 81,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.72,
+    "accessibility": 0.74,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 319
+  },
+  "firstContentfulPaint": 3124.0895,
+  "speedIndex": 3748.2794682981094,
+  "largestContentfulPaint": 4747.0195,
+  "totalBlockingTime": 153.99999999999977,
+  "cumulativeLayoutShift": 0.10774620056152345,
+  "timeToInteractive": 5300.321999999998,
+  "maxPotentialFirstInputDelay": 153,
+  "timeToFirstByte": 162.166,
+  "weight": {
+    "summary": "55 requests • 1,194 KiB",
+    "total": 1222445,
+    "image": 499600,
+    "imageCount": 20,
+    "script": 323677,
+    "scriptCount": 15,
+    "document": 11884,
+    "font": 133152,
+    "fontCount": 5,
+    "stylesheet": 37671,
+    "stylesheetCount": 7,
+    "thirdParty": 433491,
+    "thirdPartyCount": 23
+  },
+  "axe": {
+    "passes": 484,
+    "violations": 38
+  }
+}

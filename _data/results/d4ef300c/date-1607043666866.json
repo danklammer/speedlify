@@ -1,0 +1,46 @@
+{
+  "url": "http://www.freddiemac.com/",
+  "requestedUrl": "http://www.freddiemac.com/",
+  "timestamp": 1607044404189,
+  "ranks": {
+    "hundos": 15,
+    "performance": 30,
+    "accessibility": 26,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.41,
+    "accessibility": 0.95,
+    "bestPractices": 0.87,
+    "seo": 0.89,
+    "total": 312
+  },
+  "firstContentfulPaint": 3629.7659999999996,
+  "speedIndex": 7647.302736373052,
+  "largestContentfulPaint": 9474.546,
+  "totalBlockingTime": 73.5,
+  "cumulativeLayoutShift": 0.45568538665771485,
+  "timeToInteractive": 13680.064999999999,
+  "maxPotentialFirstInputDelay": 185,
+  "timeToFirstByte": 58.90100000000001,
+  "weight": {
+    "summary": "87 requests • 8,884 KiB",
+    "total": 9096955,
+    "image": 7875506,
+    "imageCount": 13,
+    "script": 729460,
+    "scriptCount": 27,
+    "document": 57247,
+    "font": 56089,
+    "fontCount": 5,
+    "stylesheet": 364137,
+    "stylesheetCount": 4,
+    "thirdParty": 7132100,
+    "thirdPartyCount": 74
+  },
+  "axe": {
+    "passes": 618,
+    "violations": 54
+  }
+}

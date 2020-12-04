@@ -1,0 +1,46 @@
+{
+  "url": "https://www.marathonpetroleum.com/",
+  "requestedUrl": "https://www.marathonpetroleum.com/",
+  "timestamp": 1607045571163,
+  "ranks": {
+    "hundos": 11,
+    "performance": 7,
+    "accessibility": 35,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.7,
+    "accessibility": 0.92,
+    "bestPractices": 0.73,
+    "seo": 0.86,
+    "total": 321
+  },
+  "firstContentfulPaint": 2478.932,
+  "speedIndex": 2478.932,
+  "largestContentfulPaint": 7261.7519999999995,
+  "totalBlockingTime": 20,
+  "cumulativeLayoutShift": 0.042511367797851564,
+  "timeToInteractive": 5384.332999999999,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 56.76099999999997,
+  "weight": {
+    "summary": "38 requests • 1,117 KiB",
+    "total": 1143596,
+    "image": 667302,
+    "imageCount": 11,
+    "script": 234774,
+    "scriptCount": 11,
+    "document": 156472,
+    "font": 60243,
+    "fontCount": 4,
+    "stylesheet": 20406,
+    "stylesheetCount": 2,
+    "thirdParty": 204916,
+    "thirdPartyCount": 15
+  },
+  "axe": {
+    "passes": 1177,
+    "violations": 7
+  }
+}

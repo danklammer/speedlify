@@ -1,0 +1,46 @@
+{
+  "url": "https://www.steeldynamics.com/",
+  "requestedUrl": "https://www.steeldynamics.com/",
+  "timestamp": 1607059060394,
+  "ranks": {
+    "hundos": 40,
+    "performance": 6,
+    "accessibility": 43,
+    "cumulative": 40
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.77,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "seo": 0.54,
+    "total": 291
+  },
+  "firstContentfulPaint": 2454.38,
+  "speedIndex": 3834.0589784866734,
+  "largestContentfulPaint": 4327.886999999999,
+  "totalBlockingTime": 77,
+  "cumulativeLayoutShift": 0.02234964256582069,
+  "timeToInteractive": 5275.519000000001,
+  "maxPotentialFirstInputDelay": 184,
+  "timeToFirstByte": 98.719,
+  "weight": {
+    "summary": "50 requests • 1,668 KiB",
+    "total": 1708434,
+    "image": 1220376,
+    "imageCount": 21,
+    "script": 340741,
+    "scriptCount": 15,
+    "document": 24772,
+    "font": 89079,
+    "fontCount": 5,
+    "stylesheet": 31948,
+    "stylesheetCount": 3,
+    "thirdParty": 457130,
+    "thirdPartyCount": 20
+  },
+  "axe": {
+    "passes": 567,
+    "violations": 42
+  }
+}

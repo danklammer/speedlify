@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cinfin.com/",
+  "requestedUrl": "https://www.cinfin.com/",
+  "timestamp": 1607086731438,
+  "ranks": {
+    "hundos": 45,
+    "performance": 6,
+    "accessibility": 36,
+    "cumulative": 45
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.77,
+    "accessibility": 0.89,
+    "bestPractices": 0.6,
+    "seo": 0.66,
+    "total": 292
+  },
+  "firstContentfulPaint": 2694.674,
+  "speedIndex": 4535.348667573575,
+  "largestContentfulPaint": 3228.7334999999994,
+  "totalBlockingTime": 163,
+  "cumulativeLayoutShift": 0.000005004882812499999,
+  "timeToInteractive": 8361.8085,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 383.226,
+  "weight": {
+    "summary": "69 requests • 2,252 KiB",
+    "total": 2306065,
+    "image": 1523895,
+    "imageCount": 28,
+    "script": 591023,
+    "scriptCount": 26,
+    "document": 26289,
+    "font": 72046,
+    "fontCount": 2,
+    "stylesheet": 91359,
+    "stylesheetCount": 4,
+    "thirdParty": 491030,
+    "thirdPartyCount": 32
+  },
+  "axe": {
+    "passes": 676,
+    "violations": 31
+  }
+}

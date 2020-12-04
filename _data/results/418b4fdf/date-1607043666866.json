@@ -1,0 +1,46 @@
+{
+  "url": "https://www.pfizer.com/",
+  "requestedUrl": "https://www.pfizer.com/",
+  "timestamp": 1607046239911,
+  "ranks": {
+    "hundos": 87,
+    "performance": 45,
+    "accessibility": 89,
+    "cumulative": 87
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.35,
+    "accessibility": 0.66,
+    "bestPractices": 0.67,
+    "seo": 0.7,
+    "total": 238
+  },
+  "firstContentfulPaint": 2507.8989999999994,
+  "speedIndex": 8130.838211268862,
+  "largestContentfulPaint": 8421.105500000001,
+  "totalBlockingTime": 515.5000000000018,
+  "cumulativeLayoutShift": 1.7185703587002223,
+  "timeToInteractive": 11458.612000000001,
+  "maxPotentialFirstInputDelay": 248.00000000000182,
+  "timeToFirstByte": 177.996,
+  "weight": {
+    "summary": "126 requests • 1,998 KiB",
+    "total": 2045918,
+    "image": 1022442,
+    "imageCount": 45,
+    "script": 802370,
+    "scriptCount": 48,
+    "document": 29172,
+    "font": 75455,
+    "fontCount": 4,
+    "stylesheet": 89503,
+    "stylesheetCount": 9,
+    "thirdParty": 1433161,
+    "thirdPartyCount": 105
+  },
+  "axe": {
+    "passes": 616,
+    "violations": 26
+  }
+}

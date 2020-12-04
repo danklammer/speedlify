@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bldr.com/",
+  "requestedUrl": "https://www.bldr.com/",
+  "timestamp": 1607095266372,
+  "ranks": {
+    "hundos": 95,
+    "performance": 94,
+    "accessibility": 95,
+    "cumulative": 95
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.13,
+    "accessibility": 0.62,
+    "bestPractices": 0.8,
+    "seo": 0.69,
+    "total": 224
+  },
+  "firstContentfulPaint": 6512.2075,
+  "speedIndex": 8744.49628482584,
+  "largestContentfulPaint": 11060.639999999998,
+  "totalBlockingTime": 973,
+  "cumulativeLayoutShift": 1.2230301074981687,
+  "timeToInteractive": 10560.643999999997,
+  "maxPotentialFirstInputDelay": 655,
+  "timeToFirstByte": 44.87700000000001,
+  "weight": {
+    "summary": "37 requests • 1,439 KiB",
+    "total": 1473970,
+    "image": 183516,
+    "imageCount": 3,
+    "script": 958512,
+    "scriptCount": 17,
+    "document": 1768,
+    "font": 174515,
+    "fontCount": 6,
+    "stylesheet": 83088,
+    "stylesheetCount": 3,
+    "thirdParty": 775004,
+    "thirdPartyCount": 33
+  },
+  "axe": {
+    "passes": 570,
+    "violations": 47
+  }
+}

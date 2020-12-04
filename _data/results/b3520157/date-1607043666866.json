@@ -1,0 +1,46 @@
+{
+  "url": "https://www.whirlpoolcorp.com/",
+  "requestedUrl": "https://www.whirlpoolcorp.com/",
+  "timestamp": 1607050070139,
+  "ranks": {
+    "hundos": 33,
+    "performance": 23,
+    "accessibility": 49,
+    "cumulative": 34
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.5,
+    "accessibility": 0.86,
+    "bestPractices": 0.73,
+    "seo": 0.77,
+    "total": 286
+  },
+  "firstContentfulPaint": 3549.9120000000003,
+  "speedIndex": 11484.71322310781,
+  "largestContentfulPaint": 4291.244999999999,
+  "totalBlockingTime": 371.5,
+  "cumulativeLayoutShift": 0.02775785997178819,
+  "timeToInteractive": 9458.4195,
+  "maxPotentialFirstInputDelay": 460,
+  "timeToFirstByte": 1961.4759999999999,
+  "weight": {
+    "summary": "66 requests • 4,960 KiB",
+    "total": 5078656,
+    "image": 4431731,
+    "imageCount": 27,
+    "script": 368617,
+    "scriptCount": 16,
+    "document": 15475,
+    "font": 99301,
+    "fontCount": 7,
+    "stylesheet": 139334,
+    "stylesheetCount": 8,
+    "thirdParty": 227918,
+    "thirdPartyCount": 24
+  },
+  "axe": {
+    "passes": 604,
+    "violations": 54
+  }
+}

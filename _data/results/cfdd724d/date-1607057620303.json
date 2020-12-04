@@ -1,0 +1,46 @@
+{
+  "url": "https://www.chk.com/",
+  "requestedUrl": "https://www.chk.com/",
+  "timestamp": 1607085878168,
+  "ranks": {
+    "hundos": 26,
+    "performance": 4,
+    "accessibility": 55,
+    "cumulative": 26
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.78,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "seo": 0.83,
+    "total": 312
+  },
+  "firstContentfulPaint": 3114.05,
+  "speedIndex": 3114.05,
+  "largestContentfulPaint": 3114.05,
+  "totalBlockingTime": 46.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9707.05,
+  "maxPotentialFirstInputDelay": 128,
+  "timeToFirstByte": 279.36199999999997,
+  "weight": {
+    "summary": "40 requests • 2,526 KiB",
+    "total": 2586546,
+    "image": 2424451,
+    "imageCount": 12,
+    "script": 93747,
+    "scriptCount": 22,
+    "document": 9487,
+    "font": 7426,
+    "fontCount": 1,
+    "stylesheet": 51435,
+    "stylesheetCount": 4,
+    "thirdParty": 67507,
+    "thirdPartyCount": 8
+  },
+  "axe": {
+    "passes": 297,
+    "violations": 26
+  }
+}

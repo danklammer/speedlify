@@ -1,0 +1,46 @@
+{
+  "url": "https://www.berkley.com/",
+  "requestedUrl": "https://www.berkley.com/",
+  "timestamp": 1607093492781,
+  "ranks": {
+    "hundos": 84,
+    "performance": 79,
+    "accessibility": 71,
+    "cumulative": 85
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.24,
+    "accessibility": 0.8,
+    "bestPractices": 0.73,
+    "seo": 0.77,
+    "total": 254
+  },
+  "firstContentfulPaint": 3122.8689999999997,
+  "speedIndex": 7477.98785350354,
+  "largestContentfulPaint": 9428.436000000002,
+  "totalBlockingTime": 2136.7699999999995,
+  "cumulativeLayoutShift": 0.0009591102600097657,
+  "timeToInteractive": 10832.997499999998,
+  "maxPotentialFirstInputDelay": 2257.999999999998,
+  "timeToFirstByte": 686.637,
+  "weight": {
+    "summary": "151 requests • 4,077 KiB",
+    "total": 4175005,
+    "image": 2483527,
+    "imageCount": 96,
+    "script": 453706,
+    "scriptCount": 19,
+    "document": 219958,
+    "font": 116095,
+    "fontCount": 3,
+    "stylesheet": 26341,
+    "stylesheetCount": 4,
+    "thirdParty": 3836835,
+    "thirdPartyCount": 134
+  },
+  "axe": {
+    "passes": 783,
+    "violations": 74
+  }
+}

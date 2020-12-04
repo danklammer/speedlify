@@ -1,0 +1,46 @@
+{
+  "url": "https://www.rtx.com/",
+  "requestedUrl": "https://www.rtx.com/",
+  "timestamp": 1607049224133,
+  "ranks": {
+    "hundos": 8,
+    "performance": 19,
+    "accessibility": 13,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.51,
+    "accessibility": 0.97,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 320
+  },
+  "firstContentfulPaint": 1994.1459999999988,
+  "speedIndex": 5501.827212529909,
+  "largestContentfulPaint": 6672.997999999994,
+  "totalBlockingTime": 363.5,
+  "cumulativeLayoutShift": 0.3121572774251302,
+  "timeToInteractive": 9615.605999999994,
+  "maxPotentialFirstInputDelay": 373,
+  "timeToFirstByte": 385.42800000000005,
+  "weight": {
+    "summary": "85 requests • 2,962 KiB",
+    "total": 3032583,
+    "image": 1779596,
+    "imageCount": 35,
+    "script": 631622,
+    "scriptCount": 24,
+    "document": 16627,
+    "font": 70481,
+    "fontCount": 4,
+    "stylesheet": 180475,
+    "stylesheetCount": 7,
+    "thirdParty": 581743,
+    "thirdPartyCount": 29
+  },
+  "axe": {
+    "passes": 476,
+    "violations": 7
+  }
+}

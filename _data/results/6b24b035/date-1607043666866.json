@@ -1,0 +1,45 @@
+{
+  "url": "https://www.delta.com/",
+  "requestedUrl": "https://www.delta.com/",
+  "timestamp": 1607046291550,
+  "ranks": {
+    "hundos": 72,
+    "performance": 95,
+    "accessibility": 47,
+    "cumulative": 79
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.01,
+    "accessibility": 0.9,
+    "bestPractices": 0.67,
+    "seo": 0.93,
+    "total": 259
+  },
+  "firstContentfulPaint": 8679.079000000002,
+  "speedIndex": 13646.16079239583,
+  "largestContentfulPaint": 17500.862,
+  "totalBlockingTime": 2400.9999999999964,
+  "cumulativeLayoutShift": 1.796962282922533,
+  "timeToInteractive": 18555.579000000005,
+  "maxPotentialFirstInputDelay": 964,
+  "timeToFirstByte": 138.62899999999996,
+  "weight": {
+    "summary": "164 requests • 2,295 KiB",
+    "total": 2349942,
+    "image": 718508,
+    "imageCount": 59,
+    "script": 1312135,
+    "scriptCount": 40,
+    "document": 13118,
+    "font": 85759,
+    "fontCount": 7,
+    "stylesheet": 101703,
+    "stylesheetCount": 4,
+    "thirdParty": 363955,
+    "thirdPartyCount": 74
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

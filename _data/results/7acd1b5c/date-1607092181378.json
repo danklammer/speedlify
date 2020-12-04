@@ -1,0 +1,46 @@
+{
+  "url": "https://www.packagingcorp.com/",
+  "requestedUrl": "https://www.packagingcorp.com/",
+  "timestamp": 1607092573288,
+  "ranks": {
+    "hundos": 37,
+    "performance": 22,
+    "accessibility": 87,
+    "cumulative": 37
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.63,
+    "accessibility": 0.72,
+    "bestPractices": 0.8,
+    "seo": 0.85,
+    "total": 300
+  },
+  "firstContentfulPaint": 1757.8975000000003,
+  "speedIndex": 4628.502277290252,
+  "largestContentfulPaint": 1910.0985,
+  "totalBlockingTime": 1146.5,
+  "cumulativeLayoutShift": 0.23762925211588543,
+  "timeToInteractive": 7176.320000000001,
+  "maxPotentialFirstInputDelay": 864,
+  "timeToFirstByte": 124.86499999999998,
+  "weight": {
+    "summary": "47 requests • 3,049 KiB",
+    "total": 3122668,
+    "image": 2466918,
+    "imageCount": 23,
+    "script": 370870,
+    "scriptCount": 10,
+    "document": 26816,
+    "font": 189145,
+    "fontCount": 7,
+    "stylesheet": 68034,
+    "stylesheetCount": 3,
+    "thirdParty": 360678,
+    "thirdPartyCount": 23
+  },
+  "axe": {
+    "passes": 393,
+    "violations": 26
+  }
+}

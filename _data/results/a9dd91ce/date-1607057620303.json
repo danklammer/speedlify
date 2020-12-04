@@ -1,0 +1,46 @@
+{
+  "url": "https://www.grainger.com/",
+  "requestedUrl": "https://www.grainger.com/",
+  "timestamp": 1607058771573,
+  "ranks": {
+    "hundos": 53,
+    "performance": 63,
+    "accessibility": 73,
+    "cumulative": 53
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.76,
+    "bestPractices": 0.87,
+    "seo": 0.91,
+    "total": 281
+  },
+  "firstContentfulPaint": 4623.866000000001,
+  "speedIndex": 4971.593233870912,
+  "largestContentfulPaint": 12255.309000000001,
+  "totalBlockingTime": 963.8529999999987,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 14140.465,
+  "maxPotentialFirstInputDelay": 547.9999999999982,
+  "timeToFirstByte": 62.079999999999984,
+  "weight": {
+    "summary": "88 requests • 2,718 KiB",
+    "total": 2782744,
+    "image": 209218,
+    "imageCount": 26,
+    "script": 1304619,
+    "scriptCount": 30,
+    "document": 68947,
+    "font": 32514,
+    "fontCount": 3,
+    "stylesheet": 52890,
+    "stylesheetCount": 3,
+    "thirdParty": 327493,
+    "thirdPartyCount": 35
+  },
+  "axe": {
+    "passes": 48,
+    "violations": 8
+  }
+}

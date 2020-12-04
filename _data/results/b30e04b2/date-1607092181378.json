@@ -1,0 +1,46 @@
+{
+  "url": "https://www.roberthalf.com/",
+  "requestedUrl": "https://www.roberthalf.com/",
+  "timestamp": 1607094589678,
+  "ranks": {
+    "hundos": 96,
+    "performance": 84,
+    "accessibility": 96,
+    "cumulative": 96
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.2,
+    "accessibility": 0.61,
+    "bestPractices": 0.6,
+    "seo": 0.79,
+    "total": 220
+  },
+  "firstContentfulPaint": 6497.409,
+  "speedIndex": 7201.44340409981,
+  "largestContentfulPaint": 10741.393999999997,
+  "totalBlockingTime": 644.4999999999982,
+  "cumulativeLayoutShift": 0.3074813947677612,
+  "timeToInteractive": 17286.458,
+  "maxPotentialFirstInputDelay": 262,
+  "timeToFirstByte": 51.86800000000002,
+  "weight": {
+    "summary": "161 requests • 2,437 KiB",
+    "total": 2495004,
+    "image": 765227,
+    "imageCount": 44,
+    "script": 1026255,
+    "scriptCount": 76,
+    "document": 48685,
+    "font": 454554,
+    "fontCount": 7,
+    "stylesheet": 173918,
+    "stylesheetCount": 8,
+    "thirdParty": 1109066,
+    "thirdPartyCount": 112
+  },
+  "axe": {
+    "passes": 1237,
+    "violations": 24
+  }
+}

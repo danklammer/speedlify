@@ -1,0 +1,46 @@
+{
+  "url": "https://www.adm.com/",
+  "requestedUrl": "https://www.adm.com/",
+  "timestamp": 1607047728778,
+  "ranks": {
+    "hundos": 25,
+    "performance": 14,
+    "accessibility": 79,
+    "cumulative": 25
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.55,
+    "accessibility": 0.76,
+    "bestPractices": 0.87,
+    "seo": 0.79,
+    "total": 297
+  },
+  "firstContentfulPaint": 2441.018,
+  "speedIndex": 4214.471397561556,
+  "largestContentfulPaint": 11684.612000000001,
+  "totalBlockingTime": 235.5000000000009,
+  "cumulativeLayoutShift": 0.7594932174682617,
+  "timeToInteractive": 8386.552000000001,
+  "maxPotentialFirstInputDelay": 401.0000000000018,
+  "timeToFirstByte": 381.838,
+  "weight": {
+    "summary": "57 requests • 4,150 KiB",
+    "total": 4249330,
+    "image": 1950221,
+    "imageCount": 19,
+    "script": 191266,
+    "scriptCount": 8,
+    "document": 17199,
+    "font": 2003306,
+    "fontCount": 8,
+    "stylesheet": 14094,
+    "stylesheetCount": 3,
+    "thirdParty": 2093539,
+    "thirdPartyCount": 34
+  },
+  "axe": {
+    "passes": 554,
+    "violations": 13
+  }
+}

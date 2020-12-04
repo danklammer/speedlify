@@ -1,0 +1,45 @@
+{
+  "url": "https://www.amtd.com/home/default.aspx",
+  "requestedUrl": "https://www.amtd.com/",
+  "timestamp": 1607094632070,
+  "ranks": {
+    "hundos": 62,
+    "performance": 48,
+    "accessibility": 24,
+    "cumulative": 62
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.95,
+    "bestPractices": 0.6,
+    "seo": 0.82,
+    "total": 279
+  },
+  "firstContentfulPaint": 3587.4745,
+  "speedIndex": 8212.104009759785,
+  "largestContentfulPaint": 10662.764499999997,
+  "totalBlockingTime": 223.5,
+  "cumulativeLayoutShift": 0.7029393675062391,
+  "timeToInteractive": 8723.493000000002,
+  "maxPotentialFirstInputDelay": 116,
+  "timeToFirstByte": 98.675,
+  "weight": {
+    "summary": "142 requests • 1,597 KiB",
+    "total": 1635798,
+    "image": 675210,
+    "imageCount": 42,
+    "script": 326832,
+    "scriptCount": 19,
+    "document": 25709,
+    "font": 471733,
+    "fontCount": 8,
+    "stylesheet": 48942,
+    "stylesheetCount": 3,
+    "thirdParty": 1553915,
+    "thirdPartyCount": 132
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

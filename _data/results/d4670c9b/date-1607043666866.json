@@ -1,0 +1,46 @@
+{
+  "url": "https://www.plainsallamerican.com/",
+  "requestedUrl": "https://www.plainsallamerican.com/",
+  "timestamp": 1607045183013,
+  "ranks": {
+    "hundos": 43,
+    "performance": 24,
+    "accessibility": 87,
+    "cumulative": 43
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.44,
+    "accessibility": 0.69,
+    "bestPractices": 0.8,
+    "seo": 0.92,
+    "total": 285
+  },
+  "firstContentfulPaint": 4700.654,
+  "speedIndex": 9720.632235575722,
+  "largestContentfulPaint": 8672.369,
+  "totalBlockingTime": 105.5,
+  "cumulativeLayoutShift": 0.02932035795847575,
+  "timeToInteractive": 8124.1759999999995,
+  "maxPotentialFirstInputDelay": 142.5,
+  "timeToFirstByte": 1539.457,
+  "weight": {
+    "summary": "38 requests • 2,140 KiB",
+    "total": 2190988,
+    "image": 1759821,
+    "imageCount": 13,
+    "script": 256901,
+    "scriptCount": 15,
+    "document": 14011,
+    "font": 106205,
+    "fontCount": 3,
+    "stylesheet": 53384,
+    "stylesheetCount": 4,
+    "thirdParty": 2007776,
+    "thirdPartyCount": 24
+  },
+  "axe": {
+    "passes": 529,
+    "violations": 27
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://corporate.discovery.com/",
+  "requestedUrl": "https://corporate.discovery.com/",
+  "timestamp": 1607058871559,
+  "ranks": {
+    "hundos": 42,
+    "performance": 20,
+    "accessibility": 61,
+    "cumulative": 45
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.58,
+    "accessibility": 0.81,
+    "bestPractices": 0.73,
+    "seo": 0.76,
+    "total": 290
+  },
+  "firstContentfulPaint": 2925.295,
+  "speedIndex": 4552.996705813829,
+  "largestContentfulPaint": 8081.055,
+  "totalBlockingTime": 242.5,
+  "cumulativeLayoutShift": 0.15989527479807536,
+  "timeToInteractive": 7260.095,
+  "maxPotentialFirstInputDelay": 365,
+  "timeToFirstByte": 109.26399999999998,
+  "weight": {
+    "summary": "162 requests • 1,604 KiB",
+    "total": 1642605,
+    "image": 1128885,
+    "imageCount": 109,
+    "script": 273485,
+    "scriptCount": 26,
+    "document": 17834,
+    "font": 123576,
+    "fontCount": 6,
+    "stylesheet": 96730,
+    "stylesheetCount": 16,
+    "thirdParty": 171631,
+    "thirdPartyCount": 26
+  },
+  "axe": {
+    "passes": 1479,
+    "violations": 85
+  }
+}

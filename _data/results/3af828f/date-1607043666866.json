@@ -1,0 +1,46 @@
+{
+  "url": "https://www.gilead.com/",
+  "requestedUrl": "https://www.gilead.com/",
+  "timestamp": 1607053304875,
+  "ranks": {
+    "hundos": 6,
+    "performance": 26,
+    "accessibility": 14,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.47,
+    "accessibility": 0.97,
+    "bestPractices": 0.87,
+    "seo": 0.92,
+    "total": 323
+  },
+  "firstContentfulPaint": 2835.72,
+  "speedIndex": 8201.53920220527,
+  "largestContentfulPaint": 9302.295000000002,
+  "totalBlockingTime": 141,
+  "cumulativeLayoutShift": 0.4368370180130005,
+  "timeToInteractive": 8512.590499999998,
+  "maxPotentialFirstInputDelay": 133,
+  "timeToFirstByte": 896.7420000000001,
+  "weight": {
+    "summary": "53 requests • 2,646 KiB",
+    "total": 2709577,
+    "image": 1699534,
+    "imageCount": 17,
+    "script": 313194,
+    "scriptCount": 18,
+    "document": 22118,
+    "font": 601328,
+    "fontCount": 8,
+    "stylesheet": 58364,
+    "stylesheetCount": 4,
+    "thirdParty": 910248,
+    "thirdPartyCount": 32
+  },
+  "axe": {
+    "passes": 1572,
+    "violations": 9
+  }
+}

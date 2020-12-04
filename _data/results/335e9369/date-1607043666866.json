@@ -1,0 +1,46 @@
+{
+  "url": "https://www.americanexpress.com/",
+  "requestedUrl": "https://www.americanexpress.com/",
+  "timestamp": 1607046278206,
+  "ranks": {
+    "hundos": 53,
+    "performance": 23,
+    "accessibility": 59,
+    "cumulative": 53
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.44,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "seo": 0.81,
+    "total": 276
+  },
+  "firstContentfulPaint": 2379.348,
+  "speedIndex": 5433.728741669715,
+  "largestContentfulPaint": 4667.664,
+  "totalBlockingTime": 711.5,
+  "cumulativeLayoutShift": 0.6907621955871582,
+  "timeToInteractive": 10460.102397338864,
+  "maxPotentialFirstInputDelay": 237,
+  "timeToFirstByte": 32.22900000000001,
+  "weight": {
+    "summary": "128 requests • 1,455 KiB",
+    "total": 1489556,
+    "image": 661948,
+    "imageCount": 64,
+    "script": 487270,
+    "scriptCount": 31,
+    "document": 60289,
+    "font": 198147,
+    "fontCount": 4,
+    "stylesheet": 64736,
+    "stylesheetCount": 4,
+    "thirdParty": 593649,
+    "thirdPartyCount": 65
+  },
+  "axe": {
+    "passes": 1116,
+    "violations": 38
+  }
+}

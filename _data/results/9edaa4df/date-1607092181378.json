@@ -1,0 +1,46 @@
+{
+  "url": "https://www.boozallen.com/",
+  "requestedUrl": "https://www.boozallen.com/",
+  "timestamp": 1607094040089,
+  "ranks": {
+    "hundos": 75,
+    "performance": 85,
+    "accessibility": 32,
+    "cumulative": 75
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.2,
+    "accessibility": 0.91,
+    "bestPractices": 0.73,
+    "seo": 0.84,
+    "total": 268
+  },
+  "firstContentfulPaint": 3346.382,
+  "speedIndex": 9055.374343048126,
+  "largestContentfulPaint": 7001.506000000001,
+  "totalBlockingTime": 6396.958000000002,
+  "cumulativeLayoutShift": 0.0047552083333333335,
+  "timeToInteractive": 14798.393000000002,
+  "maxPotentialFirstInputDelay": 4700.0000000000055,
+  "timeToFirstByte": 42.638000000000005,
+  "weight": {
+    "summary": "105 requests • 1,218 KiB",
+    "total": 1247201,
+    "image": 540562,
+    "imageCount": 28,
+    "script": 518426,
+    "scriptCount": 38,
+    "document": 27249,
+    "font": 85540,
+    "fontCount": 4,
+    "stylesheet": 56715,
+    "stylesheetCount": 8,
+    "thirdParty": 364189,
+    "thirdPartyCount": 68
+  },
+  "axe": {
+    "passes": 733,
+    "violations": 20
+  }
+}

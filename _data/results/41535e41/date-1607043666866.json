@@ -1,0 +1,46 @@
+{
+  "url": "https://www.nationwide.com/",
+  "requestedUrl": "https://www.nationwide.com/",
+  "timestamp": 1607048050572,
+  "ranks": {
+    "hundos": 48,
+    "performance": 77,
+    "accessibility": 11,
+    "cumulative": 48
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.14,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "seo": 0.97,
+    "total": 282
+  },
+  "firstContentfulPaint": 7207.806999999999,
+  "speedIndex": 11297.0431556339,
+  "largestContentfulPaint": 20278.590999999993,
+  "totalBlockingTime": 711.5,
+  "cumulativeLayoutShift": 0.2851253293355306,
+  "timeToInteractive": 23746.219999999994,
+  "maxPotentialFirstInputDelay": 306,
+  "timeToFirstByte": 30.966000000000008,
+  "weight": {
+    "summary": "130 requests • 3,258 KiB",
+    "total": 3335706,
+    "image": 746895,
+    "imageCount": 30,
+    "script": 1454165,
+    "scriptCount": 46,
+    "document": 184290,
+    "font": 69943,
+    "fontCount": 1,
+    "stylesheet": 846488,
+    "stylesheetCount": 3,
+    "thirdParty": 888947,
+    "thirdPartyCount": 106
+  },
+  "axe": {
+    "passes": 1048,
+    "violations": 3
+  }
+}

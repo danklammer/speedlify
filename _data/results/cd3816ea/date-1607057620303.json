@@ -1,0 +1,46 @@
+{
+  "url": "https://www.footlocker-inc.com/",
+  "requestedUrl": "https://www.footlocker-inc.com/",
+  "timestamp": 1607089726847,
+  "ranks": {
+    "hundos": 4,
+    "performance": 1,
+    "accessibility": 20,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.84,
+    "accessibility": 0.93,
+    "bestPractices": 0.87,
+    "seo": 0.82,
+    "total": 346
+  },
+  "firstContentfulPaint": 1247.906,
+  "speedIndex": 1347.0445240170598,
+  "largestContentfulPaint": 4287.406,
+  "totalBlockingTime": 14,
+  "cumulativeLayoutShift": 0.055987250434027774,
+  "timeToInteractive": 3716.906,
+  "maxPotentialFirstInputDelay": 69,
+  "timeToFirstByte": 69.97999999999999,
+  "weight": {
+    "summary": "35 requests • 999 KiB",
+    "total": 1022889,
+    "image": 592507,
+    "imageCount": 26,
+    "script": 117546,
+    "scriptCount": 2,
+    "document": 7300,
+    "font": 260104,
+    "fontCount": 4,
+    "stylesheet": 45432,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "axe": {
+    "passes": 831,
+    "violations": 1
+  }
+}

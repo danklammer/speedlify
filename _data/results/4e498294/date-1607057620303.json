@@ -1,0 +1,46 @@
+{
+  "url": "https://www.lamresearch.com/",
+  "requestedUrl": "https://www.lamresearch.com/",
+  "timestamp": 1607087153823,
+  "ranks": {
+    "hundos": 17,
+    "performance": 18,
+    "accessibility": 63,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.67,
+    "accessibility": 0.82,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 321
+  },
+  "firstContentfulPaint": 2089.494,
+  "speedIndex": 5302.259155911996,
+  "largestContentfulPaint": 5878.343999999999,
+  "totalBlockingTime": 84.5,
+  "cumulativeLayoutShift": 0.042941080729166664,
+  "timeToInteractive": 5649.518999999998,
+  "maxPotentialFirstInputDelay": 135,
+  "timeToFirstByte": 691.8810000000001,
+  "weight": {
+    "summary": "43 requests • 1,193 KiB",
+    "total": 1221582,
+    "image": 539454,
+    "imageCount": 11,
+    "script": 251606,
+    "scriptCount": 15,
+    "document": 24791,
+    "font": 131639,
+    "fontCount": 4,
+    "stylesheet": 43631,
+    "stylesheetCount": 9,
+    "thirdParty": 150882,
+    "thirdPartyCount": 9
+  },
+  "axe": {
+    "passes": 718,
+    "violations": 8
+  }
+}

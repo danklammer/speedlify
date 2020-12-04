@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ecolab.com/",
+  "requestedUrl": "https://www.ecolab.com/",
+  "timestamp": 1607057777328,
+  "ranks": {
+    "hundos": 91,
+    "performance": 89,
+    "accessibility": 88,
+    "cumulative": 91
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.1,
+    "accessibility": 0.63,
+    "bestPractices": 0.6,
+    "seo": 0.88,
+    "total": 221
+  },
+  "firstContentfulPaint": 4251.562,
+  "speedIndex": 26282.662083316623,
+  "largestContentfulPaint": 25270.932075012213,
+  "totalBlockingTime": 4391.500000000007,
+  "cumulativeLayoutShift": 0.14957420857747394,
+  "timeToInteractive": 36180.40803750611,
+  "maxPotentialFirstInputDelay": 1278.0000000000073,
+  "timeToFirstByte": 2233.002,
+  "weight": {
+    "summary": "201 requests • 6,463 KiB",
+    "total": 6617892,
+    "image": 2714676,
+    "imageCount": 73,
+    "script": 2591547,
+    "scriptCount": 60,
+    "document": 78341,
+    "font": 85740,
+    "fontCount": 4,
+    "stylesheet": 996930,
+    "stylesheetCount": 9,
+    "thirdParty": 896853,
+    "thirdPartyCount": 102
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

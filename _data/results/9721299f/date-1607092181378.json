@@ -1,0 +1,46 @@
+{
+  "url": "https://www.avantorsciences.com/site/",
+  "requestedUrl": "https://www.avantorsciences.com/",
+  "timestamp": 1607093223275,
+  "ranks": {
+    "hundos": 42,
+    "performance": 33,
+    "accessibility": 25,
+    "cumulative": 42
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.52,
+    "accessibility": 0.94,
+    "bestPractices": 0.67,
+    "seo": 0.85,
+    "total": 298
+  },
+  "firstContentfulPaint": 2904.211,
+  "speedIndex": 4008.270596257389,
+  "largestContentfulPaint": 9536.685,
+  "totalBlockingTime": 281,
+  "cumulativeLayoutShift": 0.7306675499810114,
+  "timeToInteractive": 8879.312000000002,
+  "maxPotentialFirstInputDelay": 414,
+  "timeToFirstByte": 98.569,
+  "weight": {
+    "summary": "62 requests • 2,012 KiB",
+    "total": 2060115,
+    "image": 1200216,
+    "imageCount": 24,
+    "script": 320186,
+    "scriptCount": 13,
+    "document": 34952,
+    "font": 292631,
+    "fontCount": 3,
+    "stylesheet": 86766,
+    "stylesheetCount": 4,
+    "thirdParty": 308315,
+    "thirdPartyCount": 25
+  },
+  "axe": {
+    "passes": 717,
+    "violations": 13
+  }
+}

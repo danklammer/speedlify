@@ -1,0 +1,46 @@
+{
+  "url": "https://www.berkshirehathaway.com/",
+  "requestedUrl": "https://www.berkshirehathaway.com/",
+  "timestamp": 1607043724095,
+  "ranks": {
+    "hundos": 7,
+    "performance": 2,
+    "accessibility": 62,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 0.83,
+    "bestPractices": 0.87,
+    "seo": 0.67,
+    "total": 337
+  },
+  "firstContentfulPaint": 867.6529999999998,
+  "speedIndex": 867.6529999999998,
+  "largestContentfulPaint": 867.6529999999998,
+  "totalBlockingTime": 6.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2803.9719999999998,
+  "maxPotentialFirstInputDelay": 63,
+  "timeToFirstByte": 27.073000000000008,
+  "weight": {
+    "summary": "5 requests • 64 KiB",
+    "total": 65967,
+    "image": 1403,
+    "imageCount": 1,
+    "script": 58435,
+    "scriptCount": 2,
+    "document": 5916,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 58648,
+    "thirdPartyCount": 3
+  },
+  "axe": {
+    "passes": 267,
+    "violations": 11
+  }
+}

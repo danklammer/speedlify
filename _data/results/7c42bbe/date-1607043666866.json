@@ -1,0 +1,46 @@
+{
+  "url": "https://www.paypal.com/us/home",
+  "requestedUrl": "https://www.paypal.com/",
+  "timestamp": 1607053968622,
+  "ranks": {
+    "hundos": 61,
+    "performance": 2,
+    "accessibility": 97,
+    "cumulative": 61
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.85,
+    "accessibility": null,
+    "bestPractices": 0.87,
+    "seo": 0.93,
+    "total": 265
+  },
+  "firstContentfulPaint": 2246.645,
+  "speedIndex": 3483.808917380067,
+  "largestContentfulPaint": 3031.645,
+  "totalBlockingTime": 149.5,
+  "cumulativeLayoutShift": 0.21765809377034506,
+  "timeToInteractive": 5469.7905,
+  "maxPotentialFirstInputDelay": 237,
+  "timeToFirstByte": 429.169,
+  "weight": {
+    "summary": "28 requests • 558 KiB",
+    "total": 570949,
+    "image": 66474,
+    "imageCount": 7,
+    "script": 362831,
+    "scriptCount": 10,
+    "document": 48688,
+    "font": 37732,
+    "fontCount": 4,
+    "stylesheet": 50612,
+    "stylesheetCount": 1,
+    "thirdParty": 518942,
+    "thirdPartyCount": 21
+  },
+  "axe": {
+    "passes": 467,
+    "violations": 15
+  }
+}

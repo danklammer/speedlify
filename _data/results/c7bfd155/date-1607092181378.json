@@ -1,0 +1,46 @@
+{
+  "url": "https://www.regions.com/personal-banking",
+  "requestedUrl": "https://www.regions.com/",
+  "timestamp": 1607092723993,
+  "ranks": {
+    "hundos": 79,
+    "performance": 77,
+    "accessibility": 38,
+    "cumulative": 79
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.25,
+    "accessibility": 0.9,
+    "bestPractices": 0.67,
+    "seo": 0.83,
+    "total": 265
+  },
+  "firstContentfulPaint": 3460.4700000000003,
+  "speedIndex": 8756.091349685117,
+  "largestContentfulPaint": 6795.384500000002,
+  "totalBlockingTime": 989.4999999999991,
+  "cumulativeLayoutShift": 0.007179163614908854,
+  "timeToInteractive": 14644.278999999995,
+  "maxPotentialFirstInputDelay": 283,
+  "timeToFirstByte": 195.68900000000002,
+  "weight": {
+    "summary": "122 requests • 1,164 KiB",
+    "total": 1191889,
+    "image": 137611,
+    "imageCount": 34,
+    "script": 731798,
+    "scriptCount": 28,
+    "document": 36664,
+    "font": 104965,
+    "fontCount": 6,
+    "stylesheet": 154472,
+    "stylesheetCount": 4,
+    "thirdParty": 442980,
+    "thirdPartyCount": 95
+  },
+  "axe": {
+    "passes": 1140,
+    "violations": 15
+  }
+}

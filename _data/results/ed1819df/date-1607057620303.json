@@ -1,0 +1,46 @@
+{
+  "url": "https://www.raymondjames.com/",
+  "requestedUrl": "https://www.raymondjames.com/",
+  "timestamp": 1607086686306,
+  "ranks": {
+    "hundos": 68,
+    "performance": 27,
+    "accessibility": 95,
+    "cumulative": 66
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.62,
+    "accessibility": 0.58,
+    "bestPractices": 0.8,
+    "seo": 0.75,
+    "total": 275
+  },
+  "firstContentfulPaint": 3693.944,
+  "speedIndex": 6103.820270756174,
+  "largestContentfulPaint": 4383.9835,
+  "totalBlockingTime": 228,
+  "cumulativeLayoutShift": 0.03370137532552084,
+  "timeToInteractive": 7240.682000000001,
+  "maxPotentialFirstInputDelay": 212,
+  "timeToFirstByte": 218.57199999999995,
+  "weight": {
+    "summary": "68 requests • 822 KiB",
+    "total": 842013,
+    "image": 251610,
+    "imageCount": 25,
+    "script": 448204,
+    "scriptCount": 21,
+    "document": 32396,
+    "font": 23121,
+    "fontCount": 2,
+    "stylesheet": 79696,
+    "stylesheetCount": 4,
+    "thirdParty": 303167,
+    "thirdPartyCount": 39
+  },
+  "axe": {
+    "passes": 496,
+    "violations": 20
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.wm.com/",
+  "requestedUrl": "https://www.wm.com/",
+  "timestamp": 1607057695439,
+  "ranks": {
+    "hundos": 84,
+    "performance": 87,
+    "accessibility": 46,
+    "cumulative": 82
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.12,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "seo": 0.7,
+    "total": 240
+  },
+  "firstContentfulPaint": 3759.16,
+  "speedIndex": 17544.800517558364,
+  "largestContentfulPaint": 24324.42950000002,
+  "totalBlockingTime": 2773.4130000000005,
+  "cumulativeLayoutShift": 0.19640709092881944,
+  "timeToInteractive": 25267.895500000013,
+  "maxPotentialFirstInputDelay": 715,
+  "timeToFirstByte": 181.33199999999997,
+  "weight": {
+    "summary": "192 requests • 3,173 KiB",
+    "total": 3249365,
+    "image": 196311,
+    "imageCount": 41,
+    "script": 2288506,
+    "scriptCount": 59,
+    "document": 16516,
+    "font": 423717,
+    "fontCount": 8,
+    "stylesheet": 60909,
+    "stylesheetCount": 18,
+    "thirdParty": 1423793,
+    "thirdPartyCount": 75
+  },
+  "axe": {
+    "passes": 1532,
+    "violations": 12
+  }
+}

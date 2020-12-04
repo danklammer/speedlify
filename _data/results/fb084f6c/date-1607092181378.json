@@ -1,0 +1,46 @@
+{
+  "url": "https://www.asburyauto.com/",
+  "requestedUrl": "https://www.asburyauto.com/",
+  "timestamp": 1607093770741,
+  "ranks": {
+    "hundos": 28,
+    "performance": 21,
+    "accessibility": 89,
+    "cumulative": 28
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.63,
+    "accessibility": 0.72,
+    "bestPractices": 0.87,
+    "seo": 0.86,
+    "total": 308
+  },
+  "firstContentfulPaint": 1950.277,
+  "speedIndex": 4495.953787208853,
+  "largestContentfulPaint": 9552.848999999998,
+  "totalBlockingTime": 89.5,
+  "cumulativeLayoutShift": 0.0007098871866861979,
+  "timeToInteractive": 7508.125,
+  "maxPotentialFirstInputDelay": 138,
+  "timeToFirstByte": 268.869,
+  "weight": {
+    "summary": "34 requests • 1,969 KiB",
+    "total": 2015926,
+    "image": 1591840,
+    "imageCount": 17,
+    "script": 281565,
+    "scriptCount": 6,
+    "document": 4865,
+    "font": 99607,
+    "fontCount": 5,
+    "stylesheet": 37394,
+    "stylesheetCount": 2,
+    "thirdParty": 250208,
+    "thirdPartyCount": 18
+  },
+  "axe": {
+    "passes": 744,
+    "violations": 32
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.fluor.com/",
+  "requestedUrl": "https://www.fluor.com/",
+  "timestamp": 1607050399588,
+  "ranks": {
+    "hundos": 11,
+    "performance": 29,
+    "accessibility": 32,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.45,
+    "accessibility": 0.9,
+    "bestPractices": 0.87,
+    "seo": 0.92,
+    "total": 314
+  },
+  "firstContentfulPaint": 3784.6719999999996,
+  "speedIndex": 6652.1773136918055,
+  "largestContentfulPaint": 13496.118499999997,
+  "totalBlockingTime": 36.5,
+  "cumulativeLayoutShift": 0.3233802265116541,
+  "timeToInteractive": 9574.324999999997,
+  "maxPotentialFirstInputDelay": 161.5,
+  "timeToFirstByte": 746.0319999999999,
+  "weight": {
+    "summary": "87 requests • 2,236 KiB",
+    "total": 2289880,
+    "image": 1916906,
+    "imageCount": 47,
+    "script": 201433,
+    "scriptCount": 19,
+    "document": 13514,
+    "font": 123441,
+    "fontCount": 5,
+    "stylesheet": 14892,
+    "stylesheetCount": 6,
+    "thirdParty": 209498,
+    "thirdPartyCount": 13
+  },
+  "axe": {
+    "passes": 1143,
+    "violations": 3
+  }
+}

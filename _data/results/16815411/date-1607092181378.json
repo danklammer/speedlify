@@ -1,0 +1,46 @@
+{
+  "url": "https://www.spiritaero.com/",
+  "requestedUrl": "https://www.spiritaero.com/",
+  "timestamp": 1607092263302,
+  "ranks": {
+    "hundos": 55,
+    "performance": 55,
+    "accessibility": 16,
+    "cumulative": 55
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.38,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "seo": 0.81,
+    "total": 282
+  },
+  "firstContentfulPaint": 3534.5,
+  "speedIndex": 11673.523145795129,
+  "largestContentfulPaint": 16030.390999999998,
+  "totalBlockingTime": 294.5,
+  "cumulativeLayoutShift": 0.13683325788709852,
+  "timeToInteractive": 13875.822999999997,
+  "maxPotentialFirstInputDelay": 344,
+  "timeToFirstByte": 1154.971,
+  "weight": {
+    "summary": "54 requests • 6,210 KiB",
+    "total": 6358675,
+    "image": 5128642,
+    "imageCount": 17,
+    "script": 650095,
+    "scriptCount": 9,
+    "document": 19990,
+    "font": 298726,
+    "fontCount": 11,
+    "stylesheet": 259097,
+    "stylesheetCount": 10,
+    "thirdParty": 210707,
+    "thirdPartyCount": 20
+  },
+  "axe": {
+    "passes": 421,
+    "violations": 29
+  }
+}

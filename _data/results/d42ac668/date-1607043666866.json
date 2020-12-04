@@ -1,0 +1,46 @@
+{
+  "url": "https://www.coca-colacompany.com/",
+  "requestedUrl": "https://www.coca-colacompany.com/",
+  "timestamp": 1607048252346,
+  "ranks": {
+    "hundos": 51,
+    "performance": 55,
+    "accessibility": 51,
+    "cumulative": 51
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.28,
+    "accessibility": 0.88,
+    "bestPractices": 0.8,
+    "seo": 0.83,
+    "total": 279
+  },
+  "firstContentfulPaint": 6993.704,
+  "speedIndex": 10284.846278703022,
+  "largestContentfulPaint": 13574.332000000002,
+  "totalBlockingTime": 418,
+  "cumulativeLayoutShift": 0.09296302625868055,
+  "timeToInteractive": 13375.237000000001,
+  "maxPotentialFirstInputDelay": 282,
+  "timeToFirstByte": 44.458,
+  "weight": {
+    "summary": "79 requests • 3,563 KiB",
+    "total": 3648680,
+    "image": 2329085,
+    "imageCount": 28,
+    "script": 890324,
+    "scriptCount": 20,
+    "document": 16949,
+    "font": 131675,
+    "fontCount": 3,
+    "stylesheet": 172784,
+    "stylesheetCount": 6,
+    "thirdParty": 1294515,
+    "thirdPartyCount": 60
+  },
+  "axe": {
+    "passes": 504,
+    "violations": 20
+  }
+}

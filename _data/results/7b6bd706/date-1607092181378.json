@@ -1,0 +1,46 @@
+{
+  "url": "https://www.enlink.com/",
+  "requestedUrl": "https://www.enlink.com/",
+  "timestamp": 1607093213419,
+  "ranks": {
+    "hundos": 16,
+    "performance": 49,
+    "accessibility": 10,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.41,
+    "accessibility": 0.97,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 318
+  },
+  "firstContentfulPaint": 2075.361,
+  "speedIndex": 5989.598467856245,
+  "largestContentfulPaint": 5080.835,
+  "totalBlockingTime": 862.9999999999991,
+  "cumulativeLayoutShift": 0.21568069458007816,
+  "timeToInteractive": 10014.956499999998,
+  "maxPotentialFirstInputDelay": 323,
+  "timeToFirstByte": 1135.045,
+  "weight": {
+    "summary": "83 requests • 1,777 KiB",
+    "total": 1819639,
+    "image": 873760,
+    "imageCount": 27,
+    "script": 715911,
+    "scriptCount": 26,
+    "document": 114426,
+    "font": 49735,
+    "fontCount": 6,
+    "stylesheet": 61543,
+    "stylesheetCount": 5,
+    "thirdParty": 1705043,
+    "thirdPartyCount": 69
+  },
+  "axe": {
+    "passes": 646,
+    "violations": 15
+  }
+}

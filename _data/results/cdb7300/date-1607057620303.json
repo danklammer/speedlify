@@ -1,0 +1,46 @@
+{
+  "url": "https://www.adobe.com/",
+  "requestedUrl": "https://www.adobe.com/",
+  "timestamp": 1607082591336,
+  "ranks": {
+    "hundos": 20,
+    "performance": 51,
+    "accessibility": 8,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.39,
+    "accessibility": 0.97,
+    "bestPractices": 0.87,
+    "seo": 0.91,
+    "total": 314
+  },
+  "firstContentfulPaint": 2271.4809999999998,
+  "speedIndex": 4494.187211919319,
+  "largestContentfulPaint": 5426.785934158324,
+  "totalBlockingTime": 1298.000000000001,
+  "cumulativeLayoutShift": 0.09869839986165364,
+  "timeToInteractive": 11536.495368316653,
+  "maxPotentialFirstInputDelay": 433,
+  "timeToFirstByte": 104.51499999999999,
+  "weight": {
+    "summary": "127 requests • 1,452 KiB",
+    "total": 1486769,
+    "image": 221470,
+    "imageCount": 27,
+    "script": 880330,
+    "scriptCount": 48,
+    "document": 41248,
+    "font": 166764,
+    "fontCount": 3,
+    "stylesheet": 79593,
+    "stylesheetCount": 4,
+    "thirdParty": 1123388,
+    "thirdPartyCount": 105
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

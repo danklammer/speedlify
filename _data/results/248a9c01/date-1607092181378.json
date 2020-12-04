@@ -1,0 +1,46 @@
+{
+  "url": "https://www.wecenergygroup.com/",
+  "requestedUrl": "https://www.wecenergygroup.com/",
+  "timestamp": 1607095171525,
+  "ranks": {
+    "hundos": 6,
+    "performance": 17,
+    "accessibility": 11,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.65,
+    "accessibility": 0.97,
+    "bestPractices": 0.87,
+    "seo": 0.9,
+    "total": 339
+  },
+  "firstContentfulPaint": 3216.0919999999996,
+  "speedIndex": 3459.005354225547,
+  "largestContentfulPaint": 7160.2119999999995,
+  "totalBlockingTime": 63,
+  "cumulativeLayoutShift": 0.1247003739674886,
+  "timeToInteractive": 5733.1975,
+  "maxPotentialFirstInputDelay": 118,
+  "timeToFirstByte": 37.616000000000014,
+  "weight": {
+    "summary": "32 requests • 1,410 KiB",
+    "total": 1443861,
+    "image": 515750,
+    "imageCount": 8,
+    "script": 222894,
+    "scriptCount": 5,
+    "document": 41222,
+    "font": 304006,
+    "fontCount": 8,
+    "stylesheet": 354426,
+    "stylesheetCount": 7,
+    "thirdParty": 568588,
+    "thirdPartyCount": 20
+  },
+  "axe": {
+    "passes": 439,
+    "violations": 20
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.fmglobal.com/",
+  "requestedUrl": "https://www.fmglobal.com/",
+  "timestamp": 1607092735332,
+  "ranks": {
+    "hundos": 86,
+    "performance": 64,
+    "accessibility": 98,
+    "cumulative": 86
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.34,
+    "accessibility": 0.6,
+    "bestPractices": 0.73,
+    "seo": 0.85,
+    "total": 252
+  },
+  "firstContentfulPaint": 2509.0420000000004,
+  "speedIndex": 22829.744955706632,
+  "largestContentfulPaint": 4883.563999999999,
+  "totalBlockingTime": 587.9999999999995,
+  "cumulativeLayoutShift": 0.49224300384521485,
+  "timeToInteractive": 33262.72800000002,
+  "maxPotentialFirstInputDelay": 290.99999999999955,
+  "timeToFirstByte": 632.081,
+  "weight": {
+    "summary": "120 requests • 9,163 KiB",
+    "total": 9383201,
+    "image": 8107848,
+    "imageCount": 26,
+    "script": 1019114,
+    "scriptCount": 32,
+    "document": 52843,
+    "font": 125382,
+    "fontCount": 5,
+    "stylesheet": 57635,
+    "stylesheetCount": 4,
+    "thirdParty": 639334,
+    "thirdPartyCount": 91
+  },
+  "axe": {
+    "passes": 542,
+    "violations": 44
+  }
+}

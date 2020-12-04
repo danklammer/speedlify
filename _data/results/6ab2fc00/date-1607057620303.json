@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ussteel.com/",
+  "requestedUrl": "https://www.ussteel.com/",
+  "timestamp": 1607083329366,
+  "ranks": {
+    "hundos": 37,
+    "performance": 64,
+    "accessibility": 17,
+    "cumulative": 38
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.95,
+    "bestPractices": 0.87,
+    "seo": 0.84,
+    "total": 293
+  },
+  "firstContentfulPaint": 13900.14,
+  "speedIndex": 13900.14,
+  "largestContentfulPaint": 31725.315,
+  "totalBlockingTime": 285,
+  "cumulativeLayoutShift": 0.15323828125000002,
+  "timeToInteractive": 27851.315,
+  "maxPotentialFirstInputDelay": 251,
+  "timeToFirstByte": 254.413,
+  "weight": {
+    "summary": "52 requests • 7,683 KiB",
+    "total": 7867212,
+    "image": 4310321,
+    "imageCount": 15,
+    "script": 1851425,
+    "scriptCount": 22,
+    "document": 155314,
+    "font": 187523,
+    "fontCount": 3,
+    "stylesheet": 1036765,
+    "stylesheetCount": 8,
+    "thirdParty": 212979,
+    "thirdPartyCount": 7
+  },
+  "axe": {
+    "passes": 610,
+    "violations": 62
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.northerntrust.com/united-states/home",
+  "requestedUrl": "https://www.northerntrust.com/",
+  "timestamp": 1607095419738,
+  "ranks": {
+    "hundos": 18,
+    "performance": 46,
+    "accessibility": 43,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.88,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 315
+  },
+  "firstContentfulPaint": 1189.1480000000001,
+  "speedIndex": 6062.0579262517385,
+  "largestContentfulPaint": 7383.628000000001,
+  "totalBlockingTime": 697.5,
+  "cumulativeLayoutShift": 0.07259887695312499,
+  "timeToInteractive": 10168.478000000003,
+  "maxPotentialFirstInputDelay": 623,
+  "timeToFirstByte": 65.809,
+  "weight": {
+    "summary": "51 requests • 1,863 KiB",
+    "total": 1907695,
+    "image": 1058267,
+    "imageCount": 13,
+    "script": 721897,
+    "scriptCount": 21,
+    "document": 17035,
+    "font": 96592,
+    "fontCount": 2,
+    "stylesheet": 6212,
+    "stylesheetCount": 1,
+    "thirdParty": 347242,
+    "thirdPartyCount": 32
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.dominionenergy.com/",
+  "requestedUrl": "https://www.dominionenergy.com/",
+  "timestamp": 1607054188286,
+  "ranks": {
+    "hundos": 7,
+    "performance": 22,
+    "accessibility": 5,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.5,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 322
+  },
+  "firstContentfulPaint": 4266.525,
+  "speedIndex": 6232.755256772822,
+  "largestContentfulPaint": 4567.649,
+  "totalBlockingTime": 427.78099999999995,
+  "cumulativeLayoutShift": 0.0027444458007812498,
+  "timeToInteractive": 9547.319,
+  "maxPotentialFirstInputDelay": 347,
+  "timeToFirstByte": 158.09,
+  "weight": {
+    "summary": "60 requests • 1,165 KiB",
+    "total": 1193105,
+    "image": 23450,
+    "imageCount": 22,
+    "script": 419641,
+    "scriptCount": 21,
+    "document": 23479,
+    "font": 601158,
+    "fontCount": 8,
+    "stylesheet": 124535,
+    "stylesheetCount": 6,
+    "thirdParty": 1114962,
+    "thirdPartyCount": 57
+  },
+  "axe": {
+    "passes": 437,
+    "violations": 21
+  }
+}

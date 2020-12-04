@@ -1,0 +1,46 @@
+{
+  "url": "https://ryder.com/",
+  "requestedUrl": "https://www.ryder.com/",
+  "timestamp": 1607087443370,
+  "ranks": {
+    "hundos": 80,
+    "performance": 61,
+    "accessibility": 78,
+    "cumulative": 81
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.33,
+    "accessibility": 0.76,
+    "bestPractices": 0.67,
+    "seo": 0.77,
+    "total": 255
+  },
+  "firstContentfulPaint": 2922.138,
+  "speedIndex": 8371.967734027021,
+  "largestContentfulPaint": 8324.096,
+  "totalBlockingTime": 517.5,
+  "cumulativeLayoutShift": 0.38008310890197755,
+  "timeToInteractive": 13469.951,
+  "maxPotentialFirstInputDelay": 355,
+  "timeToFirstByte": 183.82600000000002,
+  "weight": {
+    "summary": "124 requests • 1,722 KiB",
+    "total": 1763611,
+    "image": 834042,
+    "imageCount": 43,
+    "script": 707979,
+    "scriptCount": 46,
+    "document": 24233,
+    "font": 71487,
+    "fontCount": 4,
+    "stylesheet": 39121,
+    "stylesheetCount": 4,
+    "thirdParty": 819750,
+    "thirdPartyCount": 94
+  },
+  "axe": {
+    "passes": 2660,
+    "violations": 67
+  }
+}

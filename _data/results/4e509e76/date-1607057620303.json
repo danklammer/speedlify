@@ -1,0 +1,46 @@
+{
+  "url": "https://www.omnicomgroup.com/",
+  "requestedUrl": "https://www.omnicomgroup.com/",
+  "timestamp": 1607057735746,
+  "ranks": {
+    "hundos": 55,
+    "performance": 45,
+    "accessibility": 89,
+    "cumulative": 54
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.43,
+    "accessibility": 0.61,
+    "bestPractices": 0.93,
+    "seo": 0.81,
+    "total": 278
+  },
+  "firstContentfulPaint": 2720.408,
+  "speedIndex": 11683.230705676428,
+  "largestContentfulPaint": 11113.405999999997,
+  "totalBlockingTime": 119.5,
+  "cumulativeLayoutShift": 0.1582534450954861,
+  "timeToInteractive": 14724.976000000002,
+  "maxPotentialFirstInputDelay": 109,
+  "timeToFirstByte": 356.7969999999999,
+  "weight": {
+    "summary": "47 requests • 4,023 KiB",
+    "total": 4119307,
+    "image": 3610883,
+    "imageCount": 15,
+    "script": 315609,
+    "scriptCount": 20,
+    "document": 17596,
+    "font": 44907,
+    "fontCount": 4,
+    "stylesheet": 103407,
+    "stylesheetCount": 4,
+    "thirdParty": 180411,
+    "thirdPartyCount": 13
+  },
+  "axe": {
+    "passes": 404,
+    "violations": 17
+  }
+}

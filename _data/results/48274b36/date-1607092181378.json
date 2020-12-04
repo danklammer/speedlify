@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ingredion.com/",
+  "requestedUrl": "https://www.ingredion.com/",
+  "timestamp": 1607096043608,
+  "ranks": {
+    "hundos": 73,
+    "performance": 56,
+    "accessibility": 56,
+    "cumulative": 72
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.85,
+    "bestPractices": 0.73,
+    "seo": 0.76,
+    "total": 271
+  },
+  "firstContentfulPaint": 2464.1530000000002,
+  "speedIndex": 5896.565254814557,
+  "largestContentfulPaint": 9634.322999999997,
+  "totalBlockingTime": 681,
+  "cumulativeLayoutShift": 0.254570497724745,
+  "timeToInteractive": 10310.039999999997,
+  "maxPotentialFirstInputDelay": 544,
+  "timeToFirstByte": 78.714,
+  "weight": {
+    "summary": "66 requests • 997 KiB",
+    "total": 1021314,
+    "image": 29188,
+    "imageCount": 13,
+    "script": 815684,
+    "scriptCount": 24,
+    "document": 24149,
+    "font": 67538,
+    "fontCount": 2,
+    "stylesheet": 67501,
+    "stylesheetCount": 3,
+    "thirdParty": 580514,
+    "thirdPartyCount": 47
+  },
+  "axe": {
+    "passes": 762,
+    "violations": 23
+  }
+}

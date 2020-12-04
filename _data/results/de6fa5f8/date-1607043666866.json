@@ -1,0 +1,46 @@
+{
+  "url": "https://www.danaher.com/",
+  "requestedUrl": "https://www.danaher.com/",
+  "timestamp": 1607053617212,
+  "ranks": {
+    "hundos": 28,
+    "performance": 42,
+    "accessibility": 71,
+    "cumulative": 28
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.8,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 290
+  },
+  "firstContentfulPaint": 6884.900000000001,
+  "speedIndex": 6884.900000000001,
+  "largestContentfulPaint": 10896.094,
+  "totalBlockingTime": 3,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 23877.075,
+  "maxPotentialFirstInputDelay": 56,
+  "timeToFirstByte": 94.51099999999997,
+  "weight": {
+    "summary": "59 requests • 6,121 KiB",
+    "total": 6267747,
+    "image": 4127524,
+    "imageCount": 13,
+    "script": 225741,
+    "scriptCount": 11,
+    "document": 67426,
+    "font": 105028,
+    "fontCount": 4,
+    "stylesheet": 646185,
+    "stylesheetCount": 28,
+    "thirdParty": 1257574,
+    "thirdPartyCount": 10
+  },
+  "axe": {
+    "passes": 267,
+    "violations": 22
+  }
+}

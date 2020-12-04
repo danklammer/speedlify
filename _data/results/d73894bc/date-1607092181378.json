@@ -1,0 +1,46 @@
+{
+  "url": "https://www.oldrepublic.com/",
+  "requestedUrl": "https://www.oldrepublic.com/",
+  "timestamp": 1607092481242,
+  "ranks": {
+    "hundos": 1,
+    "performance": 2,
+    "accessibility": 55,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.95,
+    "accessibility": 0.85,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 373
+  },
+  "firstContentfulPaint": 2043.6209999999994,
+  "speedIndex": 2093.864833124022,
+  "largestContentfulPaint": 2329.5609999999992,
+  "totalBlockingTime": 116,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4375.8775000000005,
+  "maxPotentialFirstInputDelay": 133,
+  "timeToFirstByte": 82.01100000000002,
+  "weight": {
+    "summary": "23 requests • 293 KiB",
+    "total": 300504,
+    "image": 127119,
+    "imageCount": 6,
+    "script": 133658,
+    "scriptCount": 11,
+    "document": 7851,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 31014,
+    "stylesheetCount": 3,
+    "thirdParty": 87472,
+    "thirdPartyCount": 12
+  },
+  "axe": {
+    "passes": 371,
+    "violations": 13
+  }
+}

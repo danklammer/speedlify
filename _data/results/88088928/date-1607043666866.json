@@ -1,0 +1,45 @@
+{
+  "url": "https://www.honeywell.com/us/en",
+  "requestedUrl": "https://www.honeywell.com/",
+  "timestamp": 1607048321983,
+  "ranks": {
+    "hundos": 90,
+    "performance": 92,
+    "accessibility": 53,
+    "cumulative": 90
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.08,
+    "accessibility": 0.88,
+    "bestPractices": 0.47,
+    "seo": 0.91,
+    "total": 234
+  },
+  "firstContentfulPaint": 4353.928,
+  "speedIndex": 13561.070688078687,
+  "largestContentfulPaint": 15380.967500000004,
+  "totalBlockingTime": 3161.500000000005,
+  "cumulativeLayoutShift": 0.5395536295572917,
+  "timeToInteractive": 19143.998500000005,
+  "maxPotentialFirstInputDelay": 1136.000000000001,
+  "timeToFirstByte": 201.60600000000002,
+  "weight": {
+    "summary": "161 requests • 2,534 KiB",
+    "total": 2594770,
+    "image": 35034,
+    "imageCount": 35,
+    "script": 1412885,
+    "scriptCount": 75,
+    "document": 19911,
+    "font": 206319,
+    "fontCount": 7,
+    "stylesheet": 83168,
+    "stylesheetCount": 6,
+    "thirdParty": 1179050,
+    "thirdPartyCount": 93
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

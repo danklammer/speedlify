@@ -1,0 +1,46 @@
+{
+  "url": "https://www.generalmills.com/",
+  "requestedUrl": "https://www.generalmills.com/",
+  "timestamp": 1607050530880,
+  "ranks": {
+    "hundos": 94,
+    "performance": 80,
+    "accessibility": 84,
+    "cumulative": 94
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.69,
+    "bestPractices": 0.53,
+    "seo": 0.66,
+    "total": 205
+  },
+  "firstContentfulPaint": 3409.0299999999997,
+  "speedIndex": 12524.416451163572,
+  "largestContentfulPaint": 23592.15499999999,
+  "totalBlockingTime": 1007.9999999999982,
+  "cumulativeLayoutShift": 0.2857196248372396,
+  "timeToInteractive": 20063.479499999998,
+  "maxPotentialFirstInputDelay": 561.9999999999964,
+  "timeToFirstByte": 134.536,
+  "weight": {
+    "summary": "87 requests • 6,862 KiB",
+    "total": 7026601,
+    "image": 5788540,
+    "imageCount": 29,
+    "script": 945280,
+    "scriptCount": 37,
+    "document": 103725,
+    "font": 62756,
+    "fontCount": 6,
+    "stylesheet": 119787,
+    "stylesheetCount": 6,
+    "thirdParty": 1326529,
+    "thirdPartyCount": 60
+  },
+  "axe": {
+    "passes": 967,
+    "violations": 63
+  }
+}

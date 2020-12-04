@@ -1,0 +1,46 @@
+{
+  "url": "https://www.lkqcorp.com/",
+  "requestedUrl": "https://www.lkqcorp.com/",
+  "timestamp": 1607083489686,
+  "ranks": {
+    "hundos": 23,
+    "performance": 37,
+    "accessibility": 14,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.5,
+    "accessibility": 0.96,
+    "bestPractices": 0.8,
+    "seo": 0.84,
+    "total": 310
+  },
+  "firstContentfulPaint": 2688.4399999999996,
+  "speedIndex": 5600.7896023791,
+  "largestContentfulPaint": 8752.506999999998,
+  "totalBlockingTime": 360.0000000000009,
+  "cumulativeLayoutShift": 0.10529585266113282,
+  "timeToInteractive": 10223.609,
+  "maxPotentialFirstInputDelay": 622.0000000000018,
+  "timeToFirstByte": 105.46300000000002,
+  "weight": {
+    "summary": "78 requests • 10,015 KiB",
+    "total": 10255193,
+    "image": 9201964,
+    "imageCount": 10,
+    "script": 311999,
+    "scriptCount": 34,
+    "document": 19923,
+    "font": 564491,
+    "fontCount": 8,
+    "stylesheet": 155764,
+    "stylesheetCount": 21,
+    "thirdParty": 316323,
+    "thirdPartyCount": 12
+  },
+  "axe": {
+    "passes": 840,
+    "violations": 13
+  }
+}

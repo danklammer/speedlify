@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bankofamerica.com/",
+  "requestedUrl": "https://www.bankofamerica.com/",
+  "timestamp": 1607044070983,
+  "ranks": {
+    "hundos": 45,
+    "performance": 56,
+    "accessibility": 31,
+    "cumulative": 44
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.93,
+    "bestPractices": 0.73,
+    "seo": 0.91,
+    "total": 284
+  },
+  "firstContentfulPaint": 2664.78,
+  "speedIndex": 5912.390291877449,
+  "largestContentfulPaint": 10847.910499999998,
+  "totalBlockingTime": 1286.0155000000036,
+  "cumulativeLayoutShift": 0.30842278386155764,
+  "timeToInteractive": 11517.588499999998,
+  "maxPotentialFirstInputDelay": 374,
+  "timeToFirstByte": 119.82100000000003,
+  "weight": {
+    "summary": "124 requests • 1,490 KiB",
+    "total": 1526074,
+    "image": 460388,
+    "imageCount": 42,
+    "script": 798674,
+    "scriptCount": 47,
+    "document": 124286,
+    "font": 35727,
+    "fontCount": 3,
+    "stylesheet": 57463,
+    "stylesheetCount": 1,
+    "thirdParty": 1201034,
+    "thirdPartyCount": 94
+  },
+  "axe": {
+    "passes": 1430,
+    "violations": 26
+  }
+}

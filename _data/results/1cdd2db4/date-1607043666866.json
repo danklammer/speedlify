@@ -1,0 +1,46 @@
+{
+  "url": "https://www.aa.com/homePage.do",
+  "requestedUrl": "https://www.aa.com/",
+  "timestamp": 1607046325762,
+  "ranks": {
+    "hundos": 62,
+    "performance": 91,
+    "accessibility": 13,
+    "cumulative": 62
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.08,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "seo": 0.89,
+    "total": 268
+  },
+  "firstContentfulPaint": 5779.196999999998,
+  "speedIndex": 13052.308562614027,
+  "largestContentfulPaint": 16781.111999999994,
+  "totalBlockingTime": 3010.557499999997,
+  "cumulativeLayoutShift": 0.1129886383480496,
+  "timeToInteractive": 20200.268499999995,
+  "maxPotentialFirstInputDelay": 681,
+  "timeToFirstByte": 146.01399999999998,
+  "weight": {
+    "summary": "148 requests • 2,275 KiB",
+    "total": 2329201,
+    "image": 1005148,
+    "imageCount": 24,
+    "script": 861831,
+    "scriptCount": 72,
+    "document": 33906,
+    "font": 157419,
+    "fontCount": 5,
+    "stylesheet": 247696,
+    "stylesheetCount": 9,
+    "thirdParty": 496127,
+    "thirdPartyCount": 67
+  },
+  "axe": {
+    "passes": 1211,
+    "violations": 7
+  }
+}

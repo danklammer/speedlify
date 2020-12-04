@@ -1,0 +1,46 @@
+{
+  "url": "https://frontier.com/",
+  "requestedUrl": "https://www.frontier.com/",
+  "timestamp": 1607089539076,
+  "ranks": {
+    "hundos": 94,
+    "performance": 95,
+    "accessibility": 88,
+    "cumulative": 94
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0,
+    "accessibility": 0.67,
+    "bestPractices": 0.67,
+    "seo": 0.93,
+    "total": 227
+  },
+  "firstContentfulPaint": 16285.955999999996,
+  "speedIndex": 21759.53709841535,
+  "largestContentfulPaint": 29522.07449999998,
+  "totalBlockingTime": 2948.0000000000146,
+  "cumulativeLayoutShift": 0.9723177422417533,
+  "timeToInteractive": 39025.186,
+  "maxPotentialFirstInputDelay": 1151.0000000000073,
+  "timeToFirstByte": 412.69500000000005,
+  "weight": {
+    "summary": "349 requests • 4,692 KiB",
+    "total": 4805030,
+    "image": 321831,
+    "imageCount": 86,
+    "script": 3208065,
+    "scriptCount": 84,
+    "document": 48633,
+    "font": 316094,
+    "fontCount": 13,
+    "stylesheet": 564211,
+    "stylesheetCount": 16,
+    "thirdParty": 4507969,
+    "thirdPartyCount": 307
+  },
+  "axe": {
+    "passes": 909,
+    "violations": 90
+  }
+}

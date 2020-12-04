@@ -1,0 +1,46 @@
+{
+  "url": "https://www.qualcomm.com/",
+  "requestedUrl": "https://www.qualcomm.com/",
+  "timestamp": 1607053086338,
+  "ranks": {
+    "hundos": 44,
+    "performance": 41,
+    "accessibility": 59,
+    "cumulative": 44
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "seo": 0.93,
+    "total": 281
+  },
+  "firstContentfulPaint": 1529.6200000000001,
+  "speedIndex": 6264.622790667561,
+  "largestContentfulPaint": 6521.890000000001,
+  "totalBlockingTime": 817.5,
+  "cumulativeLayoutShift": 0.14158927249908448,
+  "timeToInteractive": 13138.449999999999,
+  "maxPotentialFirstInputDelay": 1327,
+  "timeToFirstByte": 46.882000000000005,
+  "weight": {
+    "summary": "42 requests • 2,730 KiB",
+    "total": 2795669,
+    "image": 1331277,
+    "imageCount": 11,
+    "script": 1160583,
+    "scriptCount": 23,
+    "document": 120293,
+    "font": 171098,
+    "fontCount": 2,
+    "stylesheet": 5406,
+    "stylesheetCount": 1,
+    "thirdParty": 160061,
+    "thirdPartyCount": 23
+  },
+  "axe": {
+    "passes": 603,
+    "violations": 66
+  }
+}

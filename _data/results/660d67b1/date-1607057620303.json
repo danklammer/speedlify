@@ -1,0 +1,46 @@
+{
+  "url": "https://www.autoliv.com/",
+  "requestedUrl": "https://www.autoliv.com/",
+  "timestamp": 1607085840854,
+  "ranks": {
+    "hundos": 85,
+    "performance": 71,
+    "accessibility": 91,
+    "cumulative": 84
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.65,
+    "bestPractices": 0.73,
+    "seo": 0.82,
+    "total": 247
+  },
+  "firstContentfulPaint": 6135.672500000001,
+  "speedIndex": 7017.680987754087,
+  "largestContentfulPaint": 16951.4555,
+  "totalBlockingTime": 724,
+  "cumulativeLayoutShift": 0.0007513576083713108,
+  "timeToInteractive": 8314.135,
+  "maxPotentialFirstInputDelay": 705,
+  "timeToFirstByte": 246.22800000000007,
+  "weight": {
+    "summary": "104 requests • 4,424 KiB",
+    "total": 4530317,
+    "image": 3550309,
+    "imageCount": 36,
+    "script": 469477,
+    "scriptCount": 35,
+    "document": 18006,
+    "font": 419487,
+    "fontCount": 11,
+    "stylesheet": 69932,
+    "stylesheetCount": 13,
+    "thirdParty": 371565,
+    "thirdPartyCount": 53
+  },
+  "axe": {
+    "passes": 944,
+    "violations": 59
+  }
+}

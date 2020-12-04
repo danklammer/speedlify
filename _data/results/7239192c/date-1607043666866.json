@@ -1,0 +1,46 @@
+{
+  "url": "https://www.avnet.com/wps/portal/us/",
+  "requestedUrl": "https://www.avnet.com/",
+  "timestamp": 1607053739283,
+  "ranks": {
+    "hundos": 83,
+    "performance": 91,
+    "accessibility": 51,
+    "cumulative": 82
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.06,
+    "accessibility": 0.85,
+    "bestPractices": 0.6,
+    "seo": 0.84,
+    "total": 235
+  },
+  "firstContentfulPaint": 5257.236000000001,
+  "speedIndex": 14570.365396259553,
+  "largestContentfulPaint": 7024.0830000000005,
+  "totalBlockingTime": 5008.0000000000055,
+  "cumulativeLayoutShift": 1.3001161575317381,
+  "timeToInteractive": 28915.6705,
+  "maxPotentialFirstInputDelay": 1527.0000000000036,
+  "timeToFirstByte": 1176.596,
+  "weight": {
+    "summary": "204 requests • 3,652 KiB",
+    "total": 3739887,
+    "image": 843205,
+    "imageCount": 53,
+    "script": 2389991,
+    "scriptCount": 51,
+    "document": 52501,
+    "font": 151876,
+    "fontCount": 2,
+    "stylesheet": 165338,
+    "stylesheetCount": 6,
+    "thirdParty": 1140317,
+    "thirdPartyCount": 138
+  },
+  "axe": {
+    "passes": 23,
+    "violations": 6
+  }
+}

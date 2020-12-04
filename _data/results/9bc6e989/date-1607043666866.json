@@ -1,0 +1,46 @@
+{
+  "url": "https://mobile.usaa.com/?fromwww=true",
+  "requestedUrl": "https://www.usaa.com/",
+  "timestamp": 1607046709295,
+  "ranks": {
+    "hundos": 13,
+    "performance": 25,
+    "accessibility": 1,
+    "cumulative": 13
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.43,
+    "accessibility": 1,
+    "bestPractices": 0.8,
+    "seo": 0.92,
+    "total": 315
+  },
+  "firstContentfulPaint": 2044.868,
+  "speedIndex": 3539.786107996052,
+  "largestContentfulPaint": 5828.468500000001,
+  "totalBlockingTime": 832,
+  "cumulativeLayoutShift": 0.1765736198425293,
+  "timeToInteractive": 14604.080499999996,
+  "maxPotentialFirstInputDelay": 322,
+  "timeToFirstByte": 48.20100000000002,
+  "weight": {
+    "summary": "133 requests • 1,017 KiB",
+    "total": 1041314,
+    "image": 109200,
+    "imageCount": 29,
+    "script": 702918,
+    "scriptCount": 24,
+    "document": 17803,
+    "font": 143420,
+    "fontCount": 6,
+    "stylesheet": 25856,
+    "stylesheetCount": 1,
+    "thirdParty": 277174,
+    "thirdPartyCount": 89
+  },
+  "axe": {
+    "passes": 101,
+    "violations": 0
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.quantaservices.com/",
+  "requestedUrl": "https://www.quantaservices.com/",
+  "timestamp": 1607082230906,
+  "ranks": {
+    "hundos": 9,
+    "performance": 28,
+    "accessibility": 11,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.55,
+    "accessibility": 0.97,
+    "bestPractices": 0.87,
+    "seo": 0.86,
+    "total": 325
+  },
+  "firstContentfulPaint": 3018.5684999999994,
+  "speedIndex": 5683.359684563244,
+  "largestContentfulPaint": 3764.9549999999995,
+  "totalBlockingTime": 523.9999999999998,
+  "cumulativeLayoutShift": 0.38568359374999994,
+  "timeToInteractive": 8366.402999999997,
+  "maxPotentialFirstInputDelay": 285.9999999999998,
+  "timeToFirstByte": 121.095,
+  "weight": {
+    "summary": "93 requests • 1,689 KiB",
+    "total": 1729157,
+    "image": 976474,
+    "imageCount": 15,
+    "script": 428232,
+    "scriptCount": 47,
+    "document": 40999,
+    "font": 133532,
+    "fontCount": 4,
+    "stylesheet": 99996,
+    "stylesheetCount": 17,
+    "thirdParty": 788220,
+    "thirdPartyCount": 45
+  },
+  "axe": {
+    "passes": 774,
+    "violations": 28
+  }
+}

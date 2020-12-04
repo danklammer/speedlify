@@ -1,0 +1,46 @@
+{
+  "url": "https://www.abm.com/",
+  "requestedUrl": "https://www.abm.com/",
+  "timestamp": 1607092911495,
+  "ranks": {
+    "hundos": 72,
+    "performance": 44,
+    "accessibility": 68,
+    "cumulative": 74
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.45,
+    "accessibility": 0.82,
+    "bestPractices": 0.6,
+    "seo": 0.84,
+    "total": 271
+  },
+  "firstContentfulPaint": 2981.1460000000006,
+  "speedIndex": 8711.269747377706,
+  "largestContentfulPaint": 5738.886500000002,
+  "totalBlockingTime": 220,
+  "cumulativeLayoutShift": 0.467609224849277,
+  "timeToInteractive": 12693.184500000001,
+  "maxPotentialFirstInputDelay": 176,
+  "timeToFirstByte": 165.389,
+  "weight": {
+    "summary": "185 requests • 3,029 KiB",
+    "total": 3102174,
+    "image": 1983134,
+    "imageCount": 58,
+    "script": 609518,
+    "scriptCount": 46,
+    "document": 19625,
+    "font": 142906,
+    "fontCount": 7,
+    "stylesheet": 107584,
+    "stylesheetCount": 16,
+    "thirdParty": 583078,
+    "thirdPartyCount": 124
+  },
+  "axe": {
+    "passes": 960,
+    "violations": 110
+  }
+}

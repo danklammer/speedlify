@@ -1,0 +1,46 @@
+{
+  "url": "https://www.edwardjones.com/index.html",
+  "requestedUrl": "https://www.edwardjones.com/",
+  "timestamp": 1607087219364,
+  "ranks": {
+    "hundos": 65,
+    "performance": 73,
+    "accessibility": 48,
+    "cumulative": 65
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.26,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "seo": 0.9,
+    "total": 276
+  },
+  "firstContentfulPaint": 5566.7774999999965,
+  "speedIndex": 8624.881544353602,
+  "largestContentfulPaint": 11216.939499999993,
+  "totalBlockingTime": 465.5270000000057,
+  "cumulativeLayoutShift": 0.48854297807481556,
+  "timeToInteractive": 11966.669500000002,
+  "maxPotentialFirstInputDelay": 232.00000000000068,
+  "timeToFirstByte": 189.064,
+  "weight": {
+    "summary": "249 requests • 1,794 KiB",
+    "total": 1836629,
+    "image": 815477,
+    "imageCount": 69,
+    "script": 733051,
+    "scriptCount": 48,
+    "document": 25612,
+    "font": 90664,
+    "fontCount": 2,
+    "stylesheet": 109389,
+    "stylesheetCount": 32,
+    "thirdParty": 541520,
+    "thirdPartyCount": 187
+  },
+  "axe": {
+    "passes": 895,
+    "violations": 34
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ebay.com/",
+  "requestedUrl": "https://www.ebay.com/",
+  "timestamp": 1607084366046,
+  "ranks": {
+    "hundos": 2,
+    "performance": 13,
+    "accessibility": 4,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.65,
+    "accessibility": 1,
+    "bestPractices": 0.88,
+    "seo": 0.98,
+    "total": 351
+  },
+  "firstContentfulPaint": 2256.337,
+  "speedIndex": 4519.268253601352,
+  "largestContentfulPaint": 2517.58,
+  "totalBlockingTime": 694.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 11196.779499999997,
+  "maxPotentialFirstInputDelay": 369,
+  "timeToFirstByte": 104.03700000000003,
+  "weight": {
+    "summary": "91 requests • 1,211 KiB",
+    "total": 1240050,
+    "image": 585443,
+    "imageCount": 47,
+    "script": 400785,
+    "scriptCount": 25,
+    "document": 81069,
+    "font": 45409,
+    "fontCount": 2,
+    "stylesheet": 28166,
+    "stylesheetCount": 3,
+    "thirdParty": 1096361,
+    "thirdPartyCount": 82
+  },
+  "axe": {
+    "passes": 1211,
+    "violations": 8
+  }
+}

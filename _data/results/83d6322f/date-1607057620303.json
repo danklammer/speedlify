@@ -1,0 +1,46 @@
+{
+  "url": "https://www.airproducts.com/",
+  "requestedUrl": "https://www.airproducts.com/",
+  "timestamp": 1607085663132,
+  "ranks": {
+    "hundos": 73,
+    "performance": 55,
+    "accessibility": 82,
+    "cumulative": 73
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.74,
+    "bestPractices": 0.73,
+    "seo": 0.82,
+    "total": 266
+  },
+  "firstContentfulPaint": 3092.7659999999996,
+  "speedIndex": 3603.686804015127,
+  "largestContentfulPaint": 28485.43399999998,
+  "totalBlockingTime": 870.5035,
+  "cumulativeLayoutShift": 0.012713495890299478,
+  "timeToInteractive": 12937.848999999997,
+  "maxPotentialFirstInputDelay": 606,
+  "timeToFirstByte": 439.51800000000003,
+  "weight": {
+    "summary": "100 requests • 6,387 KiB",
+    "total": 6539959,
+    "image": 5339748,
+    "imageCount": 41,
+    "script": 420623,
+    "scriptCount": 34,
+    "document": 499823,
+    "font": 72143,
+    "fontCount": 6,
+    "stylesheet": 35507,
+    "stylesheetCount": 4,
+    "thirdParty": 143684,
+    "thirdPartyCount": 49
+  },
+  "axe": {
+    "passes": 4051,
+    "violations": 565
+  }
+}

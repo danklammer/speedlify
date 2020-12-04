@@ -1,0 +1,46 @@
+{
+  "url": "https://www.gapinc.com/en-us/",
+  "requestedUrl": "https://www.gapinc.com/",
+  "timestamp": 1607050644080,
+  "ranks": {
+    "hundos": 36,
+    "performance": 49,
+    "accessibility": 24,
+    "cumulative": 36
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.34,
+    "accessibility": 0.93,
+    "bestPractices": 0.67,
+    "seo": 0.9,
+    "total": 284
+  },
+  "firstContentfulPaint": 5382.421,
+  "speedIndex": 12042.96320370329,
+  "largestContentfulPaint": 42007.65299999999,
+  "totalBlockingTime": 329.5,
+  "cumulativeLayoutShift": 0.0003385416666666666,
+  "timeToInteractive": 10325.334999999997,
+  "maxPotentialFirstInputDelay": 311,
+  "timeToFirstByte": 84.788,
+  "weight": {
+    "summary": "121 requests • 12,959 KiB",
+    "total": 13269944,
+    "image": 12351347,
+    "imageCount": 60,
+    "script": 642611,
+    "scriptCount": 28,
+    "document": 47955,
+    "font": 177174,
+    "fontCount": 7,
+    "stylesheet": 31709,
+    "stylesheetCount": 3,
+    "thirdParty": 12721445,
+    "thirdPartyCount": 90
+  },
+  "axe": {
+    "passes": 633,
+    "violations": 3
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.corteva.com/",
+  "requestedUrl": "https://www.corteva.com/",
+  "timestamp": 1607059484188,
+  "ranks": {
+    "hundos": 61,
+    "performance": 71,
+    "accessibility": 44,
+    "cumulative": 61
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.19,
+    "accessibility": 0.86,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 271
+  },
+  "firstContentfulPaint": 5490.12,
+  "speedIndex": 8905.598865172968,
+  "largestContentfulPaint": 10692.4245,
+  "totalBlockingTime": 875.4799999999959,
+  "cumulativeLayoutShift": 0.00046562258402506513,
+  "timeToInteractive": 13626.124000000003,
+  "maxPotentialFirstInputDelay": 636.9999999999982,
+  "timeToFirstByte": 20.727000000000004,
+  "weight": {
+    "summary": "76 requests • 1,547 KiB",
+    "total": 1584619,
+    "image": 123275,
+    "imageCount": 22,
+    "script": 924956,
+    "scriptCount": 26,
+    "document": 12157,
+    "font": 46129,
+    "fontCount": 3,
+    "stylesheet": 469005,
+    "stylesheetCount": 4,
+    "thirdParty": 847617,
+    "thirdPartyCount": 55
+  },
+  "axe": {
+    "passes": 1025,
+    "violations": 9
+  }
+}

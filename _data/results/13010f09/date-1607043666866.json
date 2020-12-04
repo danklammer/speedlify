@@ -1,0 +1,46 @@
+{
+  "url": "https://www.unitedhealthgroup.com/",
+  "requestedUrl": "https://www.unitedhealthgroup.com/",
+  "timestamp": 1607046855751,
+  "ranks": {
+    "hundos": 59,
+    "performance": 61,
+    "accessibility": 70,
+    "cumulative": 60
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.25,
+    "accessibility": 0.81,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 272
+  },
+  "firstContentfulPaint": 3573.6699999999996,
+  "speedIndex": 7643.027982158976,
+  "largestContentfulPaint": 29703.71450000001,
+  "totalBlockingTime": 757.6469999999986,
+  "cumulativeLayoutShift": 0.2400812581380208,
+  "timeToInteractive": 16975.565499999997,
+  "maxPotentialFirstInputDelay": 313,
+  "timeToFirstByte": 69.43199999999996,
+  "weight": {
+    "summary": "78 requests • 5,072 KiB",
+    "total": 5193328,
+    "image": 3669630,
+    "imageCount": 15,
+    "script": 1209882,
+    "scriptCount": 28,
+    "document": 20070,
+    "font": 221516,
+    "fontCount": 4,
+    "stylesheet": 49641,
+    "stylesheetCount": 2,
+    "thirdParty": 325251,
+    "thirdPartyCount": 51
+  },
+  "axe": {
+    "passes": 761,
+    "violations": 57
+  }
+}

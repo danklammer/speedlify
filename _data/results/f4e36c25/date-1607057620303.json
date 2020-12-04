@@ -1,0 +1,46 @@
+{
+  "url": "https://www.csx.com/",
+  "requestedUrl": "https://www.csx.com/",
+  "timestamp": 1607082311019,
+  "ranks": {
+    "hundos": 54,
+    "performance": 18,
+    "accessibility": 83,
+    "cumulative": 58
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.62,
+    "accessibility": 0.71,
+    "bestPractices": 0.6,
+    "seo": 0.81,
+    "total": 280
+  },
+  "firstContentfulPaint": 2503.821,
+  "speedIndex": 4872.580130727811,
+  "largestContentfulPaint": 8385.3645,
+  "totalBlockingTime": 35.500000000000455,
+  "cumulativeLayoutShift": 0.7271908001369898,
+  "timeToInteractive": 3882.9215,
+  "maxPotentialFirstInputDelay": 107,
+  "timeToFirstByte": 820.1700000000001,
+  "weight": {
+    "summary": "84 requests • 2,315 KiB",
+    "total": 2370496,
+    "image": 2066336,
+    "imageCount": 51,
+    "script": 265034,
+    "scriptCount": 14,
+    "document": 12351,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 20255,
+    "stylesheetCount": 4,
+    "thirdParty": 189708,
+    "thirdPartyCount": 28
+  },
+  "axe": {
+    "passes": 510,
+    "violations": 76
+  }
+}

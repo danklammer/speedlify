@@ -1,0 +1,46 @@
+{
+  "url": "https://www.markel.com/",
+  "requestedUrl": "https://www.markelcorp.com/",
+  "timestamp": 1607085403325,
+  "ranks": {
+    "hundos": 46,
+    "performance": 50,
+    "accessibility": 56,
+    "cumulative": 46
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.43,
+    "accessibility": 0.84,
+    "bestPractices": 0.8,
+    "seo": 0.84,
+    "total": 291
+  },
+  "firstContentfulPaint": 4290.834,
+  "speedIndex": 7108.367282921949,
+  "largestContentfulPaint": 5499.168,
+  "totalBlockingTime": 369,
+  "cumulativeLayoutShift": 0.006180922190348308,
+  "timeToInteractive": 12720.969000000001,
+  "maxPotentialFirstInputDelay": 289,
+  "timeToFirstByte": 351.137,
+  "weight": {
+    "summary": "50 requests • 1,734 KiB",
+    "total": 1775162,
+    "image": 558329,
+    "imageCount": 23,
+    "script": 881116,
+    "scriptCount": 12,
+    "document": 37673,
+    "font": 182997,
+    "fontCount": 6,
+    "stylesheet": 112223,
+    "stylesheetCount": 3,
+    "thirdParty": 1307858,
+    "thirdPartyCount": 35
+  },
+  "axe": {
+    "passes": 619,
+    "violations": 35
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.westernsouthern.com/",
+  "requestedUrl": "https://www.westernsouthern.com/",
+  "timestamp": 1607092195463,
+  "ranks": {
+    "hundos": 2,
+    "performance": 3,
+    "accessibility": 4,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.9,
+    "accessibility": 0.98,
+    "bestPractices": 0.88,
+    "seo": 0.93,
+    "total": 369
+  },
+  "firstContentfulPaint": 1126.6559999999997,
+  "speedIndex": 2529.084386492886,
+  "largestContentfulPaint": 1737.6159999999995,
+  "totalBlockingTime": 357.5,
+  "cumulativeLayoutShift": 0.15296392271253798,
+  "timeToInteractive": 5099.653999999999,
+  "maxPotentialFirstInputDelay": 140,
+  "timeToFirstByte": 146.769,
+  "weight": {
+    "summary": "24 requests • 579 KiB",
+    "total": 592645,
+    "image": 60280,
+    "imageCount": 7,
+    "script": 217496,
+    "scriptCount": 7,
+    "document": 36352,
+    "font": 214336,
+    "fontCount": 4,
+    "stylesheet": 63423,
+    "stylesheetCount": 2,
+    "thirdParty": 130192,
+    "thirdPartyCount": 7
+  },
+  "axe": {
+    "passes": 959,
+    "violations": 12
+  }
+}

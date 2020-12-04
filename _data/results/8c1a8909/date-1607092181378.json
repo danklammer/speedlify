@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ta-petro.com/",
+  "requestedUrl": "https://www.ta-petro.com/",
+  "timestamp": 1607094567684,
+  "ranks": {
+    "hundos": 52,
+    "performance": 41,
+    "accessibility": 12,
+    "cumulative": 52
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.46,
+    "accessibility": 0.97,
+    "bestPractices": 0.6,
+    "seo": 0.82,
+    "total": 285
+  },
+  "firstContentfulPaint": 4399.656000000001,
+  "speedIndex": 5746.272898601546,
+  "largestContentfulPaint": 12196.902000000002,
+  "totalBlockingTime": 96.5,
+  "cumulativeLayoutShift": 0.2062762689590454,
+  "timeToInteractive": 9528.864000000001,
+  "maxPotentialFirstInputDelay": 99,
+  "timeToFirstByte": 953.4599999999999,
+  "weight": {
+    "summary": "143 requests • 4,689 KiB",
+    "total": 4801200,
+    "image": 3746762,
+    "imageCount": 48,
+    "script": 534458,
+    "scriptCount": 21,
+    "document": 76291,
+    "font": 219610,
+    "fontCount": 7,
+    "stylesheet": 175408,
+    "stylesheetCount": 5,
+    "thirdParty": 428559,
+    "thirdPartyCount": 106
+  },
+  "axe": {
+    "passes": 834,
+    "violations": 25
+  }
+}

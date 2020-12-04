@@ -1,0 +1,46 @@
+{
+  "url": "https://www.guardianlife.com/",
+  "requestedUrl": "https://www.guardianlife.com/",
+  "timestamp": 1607083211034,
+  "ranks": {
+    "hundos": 36,
+    "performance": 59,
+    "accessibility": 6,
+    "cumulative": 35
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.3,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 294
+  },
+  "firstContentfulPaint": 2839.6390000000006,
+  "speedIndex": 6144.7625945775635,
+  "largestContentfulPaint": 9598.283499999998,
+  "totalBlockingTime": 1130.5,
+  "cumulativeLayoutShift": 0.08777791171603733,
+  "timeToInteractive": 12007.792999999998,
+  "maxPotentialFirstInputDelay": 467,
+  "timeToFirstByte": 171.48599999999996,
+  "weight": {
+    "summary": "98 requests • 1,105 KiB",
+    "total": 1131592,
+    "image": 52601,
+    "imageCount": 18,
+    "script": 815926,
+    "scriptCount": 51,
+    "document": 64203,
+    "font": 128849,
+    "fontCount": 2,
+    "stylesheet": 60918,
+    "stylesheetCount": 3,
+    "thirdParty": 561998,
+    "thirdPartyCount": 57
+  },
+  "axe": {
+    "passes": 710,
+    "violations": 3
+  }
+}

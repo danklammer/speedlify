@@ -1,0 +1,46 @@
+{
+  "url": "https://www.dillards.com/",
+  "requestedUrl": "https://www.dillards.com/",
+  "timestamp": 1607095954058,
+  "ranks": {
+    "hundos": 45,
+    "performance": 66,
+    "accessibility": 39,
+    "cumulative": 45
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.32,
+    "accessibility": 0.9,
+    "bestPractices": 0.73,
+    "seo": 0.99,
+    "total": 294
+  },
+  "firstContentfulPaint": 2872.5689999999995,
+  "speedIndex": 6724.345981314498,
+  "largestContentfulPaint": 4242.047531005859,
+  "totalBlockingTime": 1207,
+  "cumulativeLayoutShift": 0.6226882794698079,
+  "timeToInteractive": 15380.566349945067,
+  "maxPotentialFirstInputDelay": 472,
+  "timeToFirstByte": 87.14700000000002,
+  "weight": {
+    "summary": "144 requests • 1,784 KiB",
+    "total": 1826445,
+    "image": 199957,
+    "imageCount": 20,
+    "script": 1389625,
+    "scriptCount": 67,
+    "document": 56049,
+    "font": 52160,
+    "fontCount": 3,
+    "stylesheet": 109543,
+    "stylesheetCount": 9,
+    "thirdParty": 1199597,
+    "thirdPartyCount": 113
+  },
+  "axe": {
+    "passes": 2179,
+    "violations": 29
+  }
+}

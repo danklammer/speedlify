@@ -1,0 +1,46 @@
+{
+  "url": "https://www.kraftheinzcompany.com/",
+  "requestedUrl": "https://www.kraftheinzcompany.com/",
+  "timestamp": 1607049456259,
+  "ranks": {
+    "hundos": 16,
+    "performance": 6,
+    "accessibility": 33,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.65,
+    "accessibility": 0.9,
+    "bestPractices": 0.67,
+    "seo": 0.82,
+    "total": 304
+  },
+  "firstContentfulPaint": 3430.059,
+  "speedIndex": 4265.234266009008,
+  "largestContentfulPaint": 8856.625000000004,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.011669479370117189,
+  "timeToInteractive": 3603.616680725098,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 165.36499999999998,
+  "weight": {
+    "summary": "25 requests • 1,379 KiB",
+    "total": 1412600,
+    "image": 1026479,
+    "imageCount": 11,
+    "script": 89906,
+    "scriptCount": 6,
+    "document": 22896,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 272466,
+    "stylesheetCount": 4,
+    "thirdParty": 1117238,
+    "thirdPartyCount": 20
+  },
+  "axe": {
+    "passes": 326,
+    "violations": 12
+  }
+}

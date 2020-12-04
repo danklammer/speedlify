@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ugicorp.com/home/default.aspx",
+  "requestedUrl": "https://www.ugicorp.com/",
+  "timestamp": 1607092444399,
+  "ranks": {
+    "hundos": 11,
+    "performance": 12,
+    "accessibility": 29,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.68,
+    "accessibility": 0.92,
+    "bestPractices": 0.8,
+    "seo": 0.92,
+    "total": 332
+  },
+  "firstContentfulPaint": 3034.794,
+  "speedIndex": 3818.8929542607993,
+  "largestContentfulPaint": 6410.544,
+  "totalBlockingTime": 160,
+  "cumulativeLayoutShift": 0.005881903754340278,
+  "timeToInteractive": 4677.246500000001,
+  "maxPotentialFirstInputDelay": 210,
+  "timeToFirstByte": 56.852000000000004,
+  "weight": {
+    "summary": "41 requests • 710 KiB",
+    "total": 726852,
+    "image": 390307,
+    "imageCount": 7,
+    "script": 198026,
+    "scriptCount": 15,
+    "document": 22283,
+    "font": 66598,
+    "fontCount": 5,
+    "stylesheet": 42224,
+    "stylesheetCount": 4,
+    "thirdParty": 678734,
+    "thirdPartyCount": 30
+  },
+  "axe": {
+    "passes": 428,
+    "violations": 13
+  }
+}

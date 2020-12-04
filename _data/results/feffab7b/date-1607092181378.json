@@ -1,0 +1,46 @@
+{
+  "url": "https://www.firstam.com/",
+  "requestedUrl": "https://www.firstam.com/",
+  "timestamp": 1607093131433,
+  "ranks": {
+    "hundos": 44,
+    "performance": 32,
+    "accessibility": 57,
+    "cumulative": 44
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.53,
+    "accessibility": 0.85,
+    "bestPractices": 0.67,
+    "seo": 0.92,
+    "total": 297
+  },
+  "firstContentfulPaint": 2703.8345000000004,
+  "speedIndex": 5340.680232163813,
+  "largestContentfulPaint": 8114.0635,
+  "totalBlockingTime": 86.99999999999909,
+  "cumulativeLayoutShift": 0.37823140144348144,
+  "timeToInteractive": 8846.526999999998,
+  "maxPotentialFirstInputDelay": 113,
+  "timeToFirstByte": 82.87300000000005,
+  "weight": {
+    "summary": "82 requests • 1,646 KiB",
+    "total": 1685188,
+    "image": 1174812,
+    "imageCount": 43,
+    "script": 301718,
+    "scriptCount": 14,
+    "document": 45020,
+    "font": 81141,
+    "fontCount": 5,
+    "stylesheet": 64889,
+    "stylesheetCount": 7,
+    "thirdParty": 322367,
+    "thirdPartyCount": 24
+  },
+  "axe": {
+    "passes": 972,
+    "violations": 24
+  }
+}

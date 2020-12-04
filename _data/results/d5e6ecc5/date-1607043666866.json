@@ -1,0 +1,46 @@
+{
+  "url": "https://www.apple.com/",
+  "requestedUrl": "https://www.apple.com/",
+  "timestamp": 1607045264813,
+  "ranks": {
+    "hundos": 6,
+    "performance": 12,
+    "accessibility": 17,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.58,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 0.83,
+    "total": 339
+  },
+  "firstContentfulPaint": 5109.860000000001,
+  "speedIndex": 5109.860000000001,
+  "largestContentfulPaint": 6084.860000000001,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.003325309753417969,
+  "timeToInteractive": 5184.860000000001,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 34.583,
+  "weight": {
+    "summary": "40 requests • 906 KiB",
+    "total": 927858,
+    "image": 185729,
+    "imageCount": 14,
+    "script": 324337,
+    "scriptCount": 10,
+    "document": 8592,
+    "font": 342654,
+    "fontCount": 4,
+    "stylesheet": 63220,
+    "stylesheetCount": 6,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "axe": {
+    "passes": 898,
+    "violations": 11
+  }
+}

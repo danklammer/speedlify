@@ -1,0 +1,46 @@
+{
+  "url": "https://www.dupont.com/",
+  "requestedUrl": "https://www.dupont.com/",
+  "timestamp": 1607053483837,
+  "ranks": {
+    "hundos": 87,
+    "performance": 92,
+    "accessibility": 70,
+    "cumulative": 87
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.06,
+    "accessibility": 0.81,
+    "bestPractices": 0.53,
+    "seo": 0.77,
+    "total": 217
+  },
+  "firstContentfulPaint": 7854.905,
+  "speedIndex": 15301.737089021797,
+  "largestContentfulPaint": 25285.565500000004,
+  "totalBlockingTime": 1564,
+  "cumulativeLayoutShift": 0.14800406901041666,
+  "timeToInteractive": 22239.357500000002,
+  "maxPotentialFirstInputDelay": 427,
+  "timeToFirstByte": 21.812999999999988,
+  "weight": {
+    "summary": "133 requests • 5,664 KiB",
+    "total": 5799963,
+    "image": 3582429,
+    "imageCount": 54,
+    "script": 1430737,
+    "scriptCount": 18,
+    "document": 18496,
+    "font": 410104,
+    "fontCount": 13,
+    "stylesheet": 340816,
+    "stylesheetCount": 7,
+    "thirdParty": 2605766,
+    "thirdPartyCount": 73
+  },
+  "axe": {
+    "passes": 864,
+    "violations": 58
+  }
+}

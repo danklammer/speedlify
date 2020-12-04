@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ncr.com/",
+  "requestedUrl": "https://www.ncr.com/",
+  "timestamp": 1607092599354,
+  "ranks": {
+    "hundos": 92,
+    "performance": 86,
+    "accessibility": 82,
+    "cumulative": 92
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.2,
+    "accessibility": 0.75,
+    "bestPractices": 0.6,
+    "seo": 0.79,
+    "total": 234
+  },
+  "firstContentfulPaint": 8456.748000000001,
+  "speedIndex": 10694.980197716533,
+  "largestContentfulPaint": 15549.1175,
+  "totalBlockingTime": 447.5,
+  "cumulativeLayoutShift": 1.0007511020236546,
+  "timeToInteractive": 16133.959499999997,
+  "maxPotentialFirstInputDelay": 494,
+  "timeToFirstByte": 94.06700000000001,
+  "weight": {
+    "summary": "97 requests • 6,381 KiB",
+    "total": 6534143,
+    "image": 177785,
+    "imageCount": 27,
+    "script": 799787,
+    "scriptCount": 32,
+    "document": 28498,
+    "font": 78140,
+    "fontCount": 3,
+    "stylesheet": 795683,
+    "stylesheetCount": 2,
+    "thirdParty": 694605,
+    "thirdPartyCount": 85
+  },
+  "axe": {
+    "passes": 3130,
+    "violations": 215
+  }
+}

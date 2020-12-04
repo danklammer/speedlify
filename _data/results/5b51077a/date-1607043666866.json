@@ -1,0 +1,46 @@
+{
+  "url": "https://www.deere.com/en/",
+  "requestedUrl": "https://www.johndeere.com/",
+  "timestamp": 1607048199189,
+  "ranks": {
+    "hundos": 88,
+    "performance": 96,
+    "accessibility": 65,
+    "cumulative": 88
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.01,
+    "accessibility": 0.82,
+    "bestPractices": 0.6,
+    "seo": 0.93,
+    "total": 236
+  },
+  "firstContentfulPaint": 8483.7,
+  "speedIndex": 14760.77832401091,
+  "largestContentfulPaint": 16925.68250000001,
+  "totalBlockingTime": 2486.721500000002,
+  "cumulativeLayoutShift": 1.247006893793742,
+  "timeToInteractive": 21988.2215,
+  "maxPotentialFirstInputDelay": 2027.0000000000036,
+  "timeToFirstByte": 362.268,
+  "weight": {
+    "summary": "169 requests • 2,254 KiB",
+    "total": 2307618,
+    "image": 840159,
+    "imageCount": 58,
+    "script": 922509,
+    "scriptCount": 49,
+    "document": 35023,
+    "font": 358186,
+    "fontCount": 3,
+    "stylesheet": 110599,
+    "stylesheetCount": 5,
+    "thirdParty": 699510,
+    "thirdPartyCount": 109
+  },
+  "axe": {
+    "passes": 4,
+    "violations": 4
+  }
+}

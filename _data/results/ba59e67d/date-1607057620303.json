@@ -1,0 +1,46 @@
+{
+  "url": "https://www.auto-owners.com/",
+  "requestedUrl": "https://www.auto-owners.com/",
+  "timestamp": 1607085228838,
+  "ranks": {
+    "hundos": 87,
+    "performance": 76,
+    "accessibility": 92,
+    "cumulative": 87
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.23,
+    "accessibility": 0.65,
+    "bestPractices": 0.8,
+    "seo": 0.71,
+    "total": 239
+  },
+  "firstContentfulPaint": 6638.785499999998,
+  "speedIndex": 8617.978245832406,
+  "largestContentfulPaint": 14568.585999999996,
+  "totalBlockingTime": 574.5,
+  "cumulativeLayoutShift": 0.01672235785590278,
+  "timeToInteractive": 19229.86100000002,
+  "maxPotentialFirstInputDelay": 427,
+  "timeToFirstByte": 128.78900000000002,
+  "weight": {
+    "summary": "165 requests • 2,669 KiB",
+    "total": 2732817,
+    "image": 1201351,
+    "imageCount": 46,
+    "script": 907569,
+    "scriptCount": 48,
+    "document": 20803,
+    "font": 265051,
+    "fontCount": 5,
+    "stylesheet": 294880,
+    "stylesheetCount": 7,
+    "thirdParty": 654773,
+    "thirdPartyCount": 111
+  },
+  "axe": {
+    "passes": 670,
+    "violations": 85
+  }
+}

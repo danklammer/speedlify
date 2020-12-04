@@ -1,0 +1,46 @@
+{
+  "url": "https://www.becn.com/",
+  "requestedUrl": "https://www.becn.com/",
+  "timestamp": 1607092547026,
+  "ranks": {
+    "hundos": 26,
+    "performance": 60,
+    "accessibility": 9,
+    "cumulative": 26
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.34,
+    "accessibility": 0.97,
+    "bestPractices": 0.87,
+    "seo": 0.91,
+    "total": 309
+  },
+  "firstContentfulPaint": 1760.7990000000002,
+  "speedIndex": 5138.974044628212,
+  "largestContentfulPaint": 7177.984,
+  "totalBlockingTime": 1511.0274999999992,
+  "cumulativeLayoutShift": 0.013006744384765626,
+  "timeToInteractive": 12034.934000000001,
+  "maxPotentialFirstInputDelay": 1212,
+  "timeToFirstByte": 115.36199999999997,
+  "weight": {
+    "summary": "48 requests • 1,903 KiB",
+    "total": 1949144,
+    "image": 1166466,
+    "imageCount": 23,
+    "script": 689531,
+    "scriptCount": 15,
+    "document": 32595,
+    "font": 28378,
+    "fontCount": 2,
+    "stylesheet": 17825,
+    "stylesheetCount": 2,
+    "thirdParty": 265396,
+    "thirdPartyCount": 17
+  },
+  "axe": {
+    "passes": 1066,
+    "violations": 15
+  }
+}

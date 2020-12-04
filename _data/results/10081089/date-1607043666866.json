@@ -1,0 +1,46 @@
+{
+  "url": "https://www.carmax.com/",
+  "requestedUrl": "https://www.carmax.com/",
+  "timestamp": 1607053773873,
+  "ranks": {
+    "hundos": 31,
+    "performance": 69,
+    "accessibility": 16,
+    "cumulative": 29
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.21,
+    "accessibility": 0.96,
+    "bestPractices": 0.73,
+    "seo": 1,
+    "total": 290
+  },
+  "firstContentfulPaint": 1252.1970000000001,
+  "speedIndex": 9556.231763714753,
+  "largestContentfulPaint": 11469.711999999998,
+  "totalBlockingTime": 1208.9999999999936,
+  "cumulativeLayoutShift": 0.516903076171875,
+  "timeToInteractive": 21217.862,
+  "maxPotentialFirstInputDelay": 335.9999999999991,
+  "timeToFirstByte": 67.96099999999998,
+  "weight": {
+    "summary": "298 requests • 2,675 KiB",
+    "total": 2739142,
+    "image": 1066962,
+    "imageCount": 95,
+    "script": 1317341,
+    "scriptCount": 66,
+    "document": 46134,
+    "font": 199916,
+    "fontCount": 6,
+    "stylesheet": 31138,
+    "stylesheetCount": 3,
+    "thirdParty": 1110203,
+    "thirdPartyCount": 260
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

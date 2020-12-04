@@ -1,0 +1,46 @@
+{
+  "url": "https://www.mgmresorts.com/en.html",
+  "requestedUrl": "https://www.mgmresorts.com/",
+  "timestamp": 1607083354704,
+  "ranks": {
+    "hundos": 94,
+    "performance": 95,
+    "accessibility": 91,
+    "cumulative": 94
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.02,
+    "accessibility": 0.59,
+    "bestPractices": 0.67,
+    "seo": 0.85,
+    "total": 213
+  },
+  "firstContentfulPaint": 6916.961,
+  "speedIndex": 15003.333366937579,
+  "largestContentfulPaint": 21736.723500000015,
+  "totalBlockingTime": 3371.0000000000073,
+  "cumulativeLayoutShift": 0.9142089843750001,
+  "timeToInteractive": 26148.598500000015,
+  "maxPotentialFirstInputDelay": 1852,
+  "timeToFirstByte": 62.054,
+  "weight": {
+    "summary": "266 requests • 3,146 KiB",
+    "total": 3221904,
+    "image": 288488,
+    "imageCount": 57,
+    "script": 1075209,
+    "scriptCount": 88,
+    "document": 141313,
+    "font": 1254190,
+    "fontCount": 28,
+    "stylesheet": 416611,
+    "stylesheetCount": 3,
+    "thirdParty": 780368,
+    "thirdPartyCount": 164
+  },
+  "axe": {
+    "passes": 1494,
+    "violations": 66
+  }
+}

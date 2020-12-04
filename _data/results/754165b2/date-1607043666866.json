@@ -1,0 +1,46 @@
+{
+  "url": "https://www.duke-energy.com/home",
+  "requestedUrl": "https://www.duke-energy.com/",
+  "timestamp": 1607053053909,
+  "ranks": {
+    "hundos": 90,
+    "performance": 82,
+    "accessibility": 89,
+    "cumulative": 90
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.14,
+    "accessibility": 0.63,
+    "bestPractices": 0.53,
+    "seo": 0.85,
+    "total": 215
+  },
+  "firstContentfulPaint": 2709.448,
+  "speedIndex": 13438.070144411238,
+  "largestContentfulPaint": 26206.690500000008,
+  "totalBlockingTime": 2899.363000000003,
+  "cumulativeLayoutShift": 0.45359887176089814,
+  "timeToInteractive": 25788.330500000004,
+  "maxPotentialFirstInputDelay": 1098,
+  "timeToFirstByte": 195.913,
+  "weight": {
+    "summary": "159 requests • 3,546 KiB",
+    "total": 3631246,
+    "image": 592848,
+    "imageCount": 63,
+    "script": 2620478,
+    "scriptCount": 38,
+    "document": 82493,
+    "font": 83888,
+    "fontCount": 4,
+    "stylesheet": 217368,
+    "stylesheetCount": 4,
+    "thirdParty": 1221000,
+    "thirdPartyCount": 111
+  },
+  "axe": {
+    "passes": 845,
+    "violations": 36
+  }
+}

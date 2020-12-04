@@ -1,0 +1,46 @@
+{
+  "url": "https://www.lowes.com/",
+  "requestedUrl": "https://www.lowes.com/",
+  "timestamp": 1607044440017,
+  "ranks": {
+    "hundos": 63,
+    "performance": 29,
+    "accessibility": 68,
+    "cumulative": 63
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.81,
+    "bestPractices": 0.6,
+    "seo": 0.84,
+    "total": 267
+  },
+  "firstContentfulPaint": 1192.5700000000002,
+  "speedIndex": 7817.699709127675,
+  "largestContentfulPaint": 2542.5420000000004,
+  "totalBlockingTime": 2330.5000000000027,
+  "cumulativeLayoutShift": 0.7761444040934244,
+  "timeToInteractive": 18635.861500000006,
+  "maxPotentialFirstInputDelay": 577.0000000000036,
+  "timeToFirstByte": 127.987,
+  "weight": {
+    "summary": "249 requests • 2,099 KiB",
+    "total": 2149801,
+    "image": 434711,
+    "imageCount": 84,
+    "script": 1533148,
+    "scriptCount": 90,
+    "document": 60761,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1663262,
+    "thirdPartyCount": 183
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

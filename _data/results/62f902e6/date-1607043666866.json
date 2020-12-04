@@ -1,0 +1,46 @@
+{
+  "url": "https://www.caterpillar.com/",
+  "requestedUrl": "https://www.caterpillar.com/",
+  "timestamp": 1607044655629,
+  "ranks": {
+    "hundos": 96,
+    "performance": 36,
+    "accessibility": 96,
+    "cumulative": 96
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.38,
+    "accessibility": null,
+    "bestPractices": 0.67,
+    "seo": 0.77,
+    "total": 182
+  },
+  "firstContentfulPaint": 3564.1500000000005,
+  "speedIndex": 6751.875567280187,
+  "largestContentfulPaint": 8947.024999999996,
+  "totalBlockingTime": 442.0000000000009,
+  "cumulativeLayoutShift": 0.33647672441270615,
+  "timeToInteractive": 10409.474999999999,
+  "maxPotentialFirstInputDelay": 382,
+  "timeToFirstByte": 37.357,
+  "weight": {
+    "summary": "82 requests • 1,777 KiB",
+    "total": 1819905,
+    "image": 1112202,
+    "imageCount": 37,
+    "script": 370880,
+    "scriptCount": 17,
+    "document": 15827,
+    "font": 132440,
+    "fontCount": 6,
+    "stylesheet": 146244,
+    "stylesheetCount": 16,
+    "thirdParty": 1234713,
+    "thirdPartyCount": 38
+  },
+  "axe": {
+    "passes": 1388,
+    "violations": 30
+  }
+}

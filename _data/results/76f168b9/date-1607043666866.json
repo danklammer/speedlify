@@ -1,0 +1,46 @@
+{
+  "url": "https://www.pmi.com/",
+  "requestedUrl": "https://www.pmi.com/",
+  "timestamp": 1607050865177,
+  "ranks": {
+    "hundos": 42,
+    "performance": 62,
+    "accessibility": 69,
+    "cumulative": 42
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.26,
+    "accessibility": 0.81,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 283
+  },
+  "firstContentfulPaint": 1528.8110000000001,
+  "speedIndex": 11992.93528485464,
+  "largestContentfulPaint": 6889.0525,
+  "totalBlockingTime": 1544.5,
+  "cumulativeLayoutShift": 0.7670474514431423,
+  "timeToInteractive": 7507.211,
+  "maxPotentialFirstInputDelay": 1190,
+  "timeToFirstByte": 5579.476000000001,
+  "weight": {
+    "summary": "45 requests • 984 KiB",
+    "total": 1007796,
+    "image": 522785,
+    "imageCount": 14,
+    "script": 306894,
+    "scriptCount": 14,
+    "document": 20062,
+    "font": 106915,
+    "fontCount": 6,
+    "stylesheet": 46827,
+    "stylesheetCount": 2,
+    "thirdParty": 267303,
+    "thirdPartyCount": 17
+  },
+  "axe": {
+    "passes": 1695,
+    "violations": 40
+  }
+}

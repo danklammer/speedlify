@@ -1,0 +1,46 @@
+{
+  "url": "https://www.pultegroupinc.com/home/default.aspx",
+  "requestedUrl": "https://www.pultegroupinc.com/",
+  "timestamp": 1607086825307,
+  "ranks": {
+    "hundos": 24,
+    "performance": 31,
+    "accessibility": 18,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "bestPractices": 0.8,
+    "seo": 0.79,
+    "total": 313
+  },
+  "firstContentfulPaint": 3032.749,
+  "speedIndex": 4861.727594912805,
+  "largestContentfulPaint": 15019.527000000002,
+  "totalBlockingTime": 294.9999999999991,
+  "cumulativeLayoutShift": 0.000018580118815104167,
+  "timeToInteractive": 5021.737999999999,
+  "maxPotentialFirstInputDelay": 187.99999999999955,
+  "timeToFirstByte": 90.59700000000001,
+  "weight": {
+    "summary": "45 requests • 4,549 KiB",
+    "total": 4658656,
+    "image": 4369522,
+    "imageCount": 18,
+    "script": 169023,
+    "scriptCount": 9,
+    "document": 26130,
+    "font": 37119,
+    "fontCount": 3,
+    "stylesheet": 44280,
+    "stylesheetCount": 5,
+    "thirdParty": 4601402,
+    "thirdPartyCount": 33
+  },
+  "axe": {
+    "passes": 288,
+    "violations": 16
+  }
+}

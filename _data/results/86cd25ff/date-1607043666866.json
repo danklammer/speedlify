@@ -1,0 +1,46 @@
+{
+  "url": "https://www.walgreens.com/",
+  "requestedUrl": "https://www.walgreens.com/",
+  "timestamp": 1607043984385,
+  "ranks": {
+    "hundos": 50,
+    "performance": 65,
+    "accessibility": 46,
+    "cumulative": 50
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.23,
+    "accessibility": 0.9,
+    "bestPractices": 0.67,
+    "seo": 1,
+    "total": 280
+  },
+  "firstContentfulPaint": 3949.0780000000004,
+  "speedIndex": 6994.267037188206,
+  "largestContentfulPaint": 5096.8575,
+  "totalBlockingTime": 10448.999999999998,
+  "cumulativeLayoutShift": 0.11552378294203015,
+  "timeToInteractive": 23822.0285,
+  "maxPotentialFirstInputDelay": 4710.999999999999,
+  "timeToFirstByte": 276.388,
+  "weight": {
+    "summary": "213 requests • 3,470 KiB",
+    "total": 3553317,
+    "image": 1914395,
+    "imageCount": 93,
+    "script": 1139061,
+    "scriptCount": 61,
+    "document": 372500,
+    "font": 39230,
+    "fontCount": 3,
+    "stylesheet": 9225,
+    "stylesheetCount": 2,
+    "thirdParty": 1127741,
+    "thirdPartyCount": 156
+  },
+  "axe": {
+    "passes": 3323,
+    "violations": 111
+  }
+}

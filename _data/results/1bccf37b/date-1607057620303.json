@@ -1,0 +1,46 @@
+{
+  "url": "https://www.jacobs.com/",
+  "requestedUrl": "https://www.jacobs.com/",
+  "timestamp": 1607082858809,
+  "ranks": {
+    "hundos": 29,
+    "performance": 31,
+    "accessibility": 55,
+    "cumulative": 29
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.54,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 303
+  },
+  "firstContentfulPaint": 1511.138,
+  "speedIndex": 7123.111249821008,
+  "largestContentfulPaint": 6038.828000000001,
+  "totalBlockingTime": 86.5,
+  "cumulativeLayoutShift": 0.2507583427429199,
+  "timeToInteractive": 9967.228000000003,
+  "maxPotentialFirstInputDelay": 173,
+  "timeToFirstByte": 135.188,
+  "weight": {
+    "summary": "90 requests • 4,626 KiB",
+    "total": 4737439,
+    "image": 4392933,
+    "imageCount": 20,
+    "script": 181084,
+    "scriptCount": 29,
+    "document": 23474,
+    "font": 77892,
+    "fontCount": 3,
+    "stylesheet": 56622,
+    "stylesheetCount": 25,
+    "thirdParty": 88530,
+    "thirdPartyCount": 25
+  },
+  "axe": {
+    "passes": 992,
+    "violations": 23
+  }
+}

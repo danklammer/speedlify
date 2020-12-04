@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cisco.com/",
+  "requestedUrl": "https://www.cisco.com/",
+  "timestamp": 1607044671532,
+  "ranks": {
+    "hundos": 84,
+    "performance": 66,
+    "accessibility": 74,
+    "cumulative": 84
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.22,
+    "accessibility": 0.79,
+    "bestPractices": 0.67,
+    "seo": 0.77,
+    "total": 245
+  },
+  "firstContentfulPaint": 3530.9389999999994,
+  "speedIndex": 8043.110083444974,
+  "largestContentfulPaint": 17587.739999999994,
+  "totalBlockingTime": 1097.500000000001,
+  "cumulativeLayoutShift": 0.08354793972439237,
+  "timeToInteractive": 15987.653999999999,
+  "maxPotentialFirstInputDelay": 445.99999999999955,
+  "timeToFirstByte": 40.599999999999994,
+  "weight": {
+    "summary": "184 requests • 1,609 KiB",
+    "total": 1647442,
+    "image": 55295,
+    "imageCount": 19,
+    "script": 1126002,
+    "scriptCount": 84,
+    "document": 32358,
+    "font": 114189,
+    "fontCount": 4,
+    "stylesheet": 114934,
+    "stylesheetCount": 14,
+    "thirdParty": 725173,
+    "thirdPartyCount": 85
+  },
+  "axe": {
+    "passes": 2263,
+    "violations": 65
+  }
+}

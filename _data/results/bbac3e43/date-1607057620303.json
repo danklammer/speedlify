@@ -1,0 +1,46 @@
+{
+  "url": "https://www.lb.com/",
+  "requestedUrl": "https://www.lb.com/",
+  "timestamp": 1607083337541,
+  "ranks": {
+    "hundos": 4,
+    "performance": 15,
+    "accessibility": 3,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.64,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 336
+  },
+  "firstContentfulPaint": 3614.8478779296875,
+  "speedIndex": 5817.766650882582,
+  "largestContentfulPaint": 5534.565499999999,
+  "totalBlockingTime": 0.5,
+  "cumulativeLayoutShift": 0.01430644989013672,
+  "timeToInteractive": 4605.9349999999995,
+  "maxPotentialFirstInputDelay": 140,
+  "timeToFirstByte": 75.606,
+  "weight": {
+    "summary": "15 requests • 878 KiB",
+    "total": 899479,
+    "image": 454981,
+    "imageCount": 8,
+    "script": 172752,
+    "scriptCount": 1,
+    "document": 11430,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 227921,
+    "stylesheetCount": 2,
+    "thirdParty": 417,
+    "thirdPartyCount": 1
+  },
+  "axe": {
+    "passes": 413,
+    "violations": 4
+  }
+}

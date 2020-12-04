@@ -1,0 +1,46 @@
+{
+  "url": "https://www.hess.com/",
+  "requestedUrl": "https://www.hess.com/",
+  "timestamp": 1607092898269,
+  "ranks": {
+    "hundos": 70,
+    "performance": 81,
+    "accessibility": 33,
+    "cumulative": 70
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.23,
+    "accessibility": 0.91,
+    "bestPractices": 0.67,
+    "seo": 0.91,
+    "total": 272
+  },
+  "firstContentfulPaint": 5908.897500000001,
+  "speedIndex": 11891.035012114033,
+  "largestContentfulPaint": 10366.3295,
+  "totalBlockingTime": 446.5,
+  "cumulativeLayoutShift": 0.34146994272867837,
+  "timeToInteractive": 17897.9595,
+  "maxPotentialFirstInputDelay": 220,
+  "timeToFirstByte": 199.73800000000006,
+  "weight": {
+    "summary": "102 requests • 2,704 KiB",
+    "total": 2769136,
+    "image": 1115689,
+    "imageCount": 26,
+    "script": 1418511,
+    "scriptCount": 53,
+    "document": 58681,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 172486,
+    "stylesheetCount": 13,
+    "thirdParty": 1166466,
+    "thirdPartyCount": 44
+  },
+  "axe": {
+    "passes": 421,
+    "violations": 33
+  }
+}

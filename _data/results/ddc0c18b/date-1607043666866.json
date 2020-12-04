@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cvs.com/",
+  "requestedUrl": "https://www.cvs.com/",
+  "timestamp": 1607045275663,
+  "ranks": {
+    "hundos": 28,
+    "performance": 69,
+    "accessibility": 3,
+    "cumulative": 27
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.19,
+    "accessibility": 1,
+    "bestPractices": 0.8,
+    "seo": 0.98,
+    "total": 297
+  },
+  "firstContentfulPaint": 3724.977,
+  "speedIndex": 5739.117666713507,
+  "largestContentfulPaint": 11698.345999999998,
+  "totalBlockingTime": 2569.406,
+  "cumulativeLayoutShift": 2.174260443793403,
+  "timeToInteractive": 12764.789999999997,
+  "maxPotentialFirstInputDelay": 1303,
+  "timeToFirstByte": 136.67000000000002,
+  "weight": {
+    "summary": "106 requests • 1,508 KiB",
+    "total": 1543879,
+    "image": 475461,
+    "imageCount": 33,
+    "script": 934069,
+    "scriptCount": 29,
+    "document": 9572,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 66459,
+    "stylesheetCount": 3,
+    "thirdParty": 767352,
+    "thirdPartyCount": 60
+  },
+  "axe": {
+    "passes": 1149,
+    "violations": 3
+  }
+}

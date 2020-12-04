@@ -1,0 +1,46 @@
+{
+  "url": "https://www.theice.com/index",
+  "requestedUrl": "https://www.theice.com/",
+  "timestamp": 1607095719544,
+  "ranks": {
+    "hundos": 39,
+    "performance": 40,
+    "accessibility": 34,
+    "cumulative": 40
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.47,
+    "accessibility": 0.91,
+    "bestPractices": 0.8,
+    "seo": 0.81,
+    "total": 299
+  },
+  "firstContentfulPaint": 2985.2590000000005,
+  "speedIndex": 6375.36659519396,
+  "largestContentfulPaint": 11398.679999999998,
+  "totalBlockingTime": 339.50000000000045,
+  "cumulativeLayoutShift": 0.00003761800130208333,
+  "timeToInteractive": 11061.212,
+  "maxPotentialFirstInputDelay": 187,
+  "timeToFirstByte": 54.42,
+  "weight": {
+    "summary": "88 requests • 5,243 KiB",
+    "total": 5368931,
+    "image": 4336653,
+    "imageCount": 26,
+    "script": 840405,
+    "scriptCount": 44,
+    "document": 21685,
+    "font": 55751,
+    "fontCount": 3,
+    "stylesheet": 69415,
+    "stylesheetCount": 5,
+    "thirdParty": 162973,
+    "thirdPartyCount": 8
+  },
+  "axe": {
+    "passes": 787,
+    "violations": 54
+  }
+}

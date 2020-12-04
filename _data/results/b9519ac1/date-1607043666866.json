@@ -1,0 +1,45 @@
+{
+  "url": "https://www.hpe.com/us/en/home.html",
+  "requestedUrl": "https://www.hpe.com/",
+  "timestamp": 1607049242726,
+  "ranks": {
+    "hundos": 20,
+    "performance": 14,
+    "accessibility": 64,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.57,
+    "accessibility": 0.83,
+    "bestPractices": 0.73,
+    "seo": 0.9,
+    "total": 303
+  },
+  "firstContentfulPaint": 1370.76,
+  "speedIndex": 3643.865371183656,
+  "largestContentfulPaint": 5096.8285,
+  "totalBlockingTime": 821.4999999999999,
+  "cumulativeLayoutShift": 0.00851952256096734,
+  "timeToInteractive": 5335.535,
+  "maxPotentialFirstInputDelay": 392,
+  "timeToFirstByte": 125.276,
+  "weight": {
+    "summary": "36 requests • 666 KiB",
+    "total": 682047,
+    "image": 80115,
+    "imageCount": 4,
+    "script": 310900,
+    "scriptCount": 14,
+    "document": 55024,
+    "font": 143782,
+    "fontCount": 6,
+    "stylesheet": 77575,
+    "stylesheetCount": 4,
+    "thirdParty": 51546,
+    "thirdPartyCount": 3
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

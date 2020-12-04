@@ -1,0 +1,46 @@
+{
+  "url": "https://www.eversource.com/content/",
+  "requestedUrl": "https://www.eversource.com/",
+  "timestamp": 1607087655051,
+  "ranks": {
+    "hundos": 58,
+    "performance": 79,
+    "accessibility": 37,
+    "cumulative": 58
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.22,
+    "accessibility": 0.89,
+    "bestPractices": 0.73,
+    "seo": 0.96,
+    "total": 280
+  },
+  "firstContentfulPaint": 3614.33,
+  "speedIndex": 7621.511043597572,
+  "largestContentfulPaint": 11694.062999999998,
+  "totalBlockingTime": 1310.4999999999989,
+  "cumulativeLayoutShift": 0.03731347825792101,
+  "timeToInteractive": 12527.225499999997,
+  "maxPotentialFirstInputDelay": 736,
+  "timeToFirstByte": 55.432,
+  "weight": {
+    "summary": "94 requests • 2,015 KiB",
+    "total": 2063597,
+    "image": 1260276,
+    "imageCount": 29,
+    "script": 582199,
+    "scriptCount": 28,
+    "document": 39709,
+    "font": 104564,
+    "fontCount": 6,
+    "stylesheet": 46172,
+    "stylesheetCount": 4,
+    "thirdParty": 605284,
+    "thirdPartyCount": 47
+  },
+  "axe": {
+    "passes": 1187,
+    "violations": 32
+  }
+}

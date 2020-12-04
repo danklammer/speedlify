@@ -1,0 +1,46 @@
+{
+  "url": "https://www.stanleyblackanddecker.com/",
+  "requestedUrl": "https://www.stanleyblackanddecker.com/",
+  "timestamp": 1607059321902,
+  "ranks": {
+    "hundos": 75,
+    "performance": 68,
+    "accessibility": 48,
+    "cumulative": 76
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.21,
+    "accessibility": 0.85,
+    "bestPractices": 0.6,
+    "seo": 0.86,
+    "total": 252
+  },
+  "firstContentfulPaint": 3129.6250000000005,
+  "speedIndex": 12382.17327119693,
+  "largestContentfulPaint": 5979.5315,
+  "totalBlockingTime": 1242.8900000000008,
+  "cumulativeLayoutShift": 0.2594068768819173,
+  "timeToInteractive": 14980.898000000003,
+  "maxPotentialFirstInputDelay": 377,
+  "timeToFirstByte": 945.438,
+  "weight": {
+    "summary": "132 requests • 3,632 KiB",
+    "total": 3719133,
+    "image": 2355228,
+    "imageCount": 40,
+    "script": 996989,
+    "scriptCount": 44,
+    "document": 22230,
+    "font": 151614,
+    "fontCount": 8,
+    "stylesheet": 84581,
+    "stylesheetCount": 20,
+    "thirdParty": 1244826,
+    "thirdPartyCount": 52
+  },
+  "axe": {
+    "passes": 1411,
+    "violations": 28
+  }
+}

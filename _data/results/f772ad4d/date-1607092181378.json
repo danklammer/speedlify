@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cmsenergy.com/home/default.aspx",
+  "requestedUrl": "https://www.cmsenergy.com/",
+  "timestamp": 1607093930074,
+  "ranks": {
+    "hundos": 71,
+    "performance": 16,
+    "accessibility": 75,
+    "cumulative": 73
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.66,
+    "accessibility": 0.79,
+    "bestPractices": 0.53,
+    "seo": 0.73,
+    "total": 271
+  },
+  "firstContentfulPaint": 3106.4039999999995,
+  "speedIndex": 3977.9398157212927,
+  "largestContentfulPaint": 14627.818999999998,
+  "totalBlockingTime": 105,
+  "cumulativeLayoutShift": 0.0023221545749240453,
+  "timeToInteractive": 4462.164000000001,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 77.485,
+  "weight": {
+    "summary": "60 requests • 4,542 KiB",
+    "total": 4650744,
+    "image": 4258167,
+    "imageCount": 21,
+    "script": 212549,
+    "scriptCount": 18,
+    "document": 35354,
+    "font": 93502,
+    "fontCount": 2,
+    "stylesheet": 41742,
+    "stylesheetCount": 7,
+    "thirdParty": 4606166,
+    "thirdPartyCount": 51
+  },
+  "axe": {
+    "passes": 729,
+    "violations": 57
+  }
+}

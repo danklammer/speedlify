@@ -1,0 +1,46 @@
+{
+  "url": "https://www.williams.com/",
+  "requestedUrl": "https://www.williams.com/",
+  "timestamp": 1607089467611,
+  "ranks": {
+    "hundos": 41,
+    "performance": 41,
+    "accessibility": 57,
+    "cumulative": 41
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.53,
+    "accessibility": 0.83,
+    "bestPractices": 0.8,
+    "seo": 0.79,
+    "total": 295
+  },
+  "firstContentfulPaint": 1450.071,
+  "speedIndex": 4197.6832038453995,
+  "largestContentfulPaint": 5611.025,
+  "totalBlockingTime": 612.5,
+  "cumulativeLayoutShift": 0.0036767578125,
+  "timeToInteractive": 9077.6345,
+  "maxPotentialFirstInputDelay": 386,
+  "timeToFirstByte": 678.448,
+  "weight": {
+    "summary": "76 requests • 1,592 KiB",
+    "total": 1630524,
+    "image": 843875,
+    "imageCount": 23,
+    "script": 709992,
+    "scriptCount": 27,
+    "document": 16594,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 53487,
+    "stylesheetCount": 2,
+    "thirdParty": 639781,
+    "thirdPartyCount": 57
+  },
+  "axe": {
+    "passes": 599,
+    "violations": 12
+  }
+}

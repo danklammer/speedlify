@@ -1,0 +1,46 @@
+{
+  "url": "https://www8.hp.com/us/en/home.html",
+  "requestedUrl": "https://www.hp.com/",
+  "timestamp": 1607044599497,
+  "ranks": {
+    "hundos": 81,
+    "performance": 76,
+    "accessibility": 61,
+    "cumulative": 81
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.15,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "seo": 0.82,
+    "total": 248
+  },
+  "firstContentfulPaint": 6387.6745,
+  "speedIndex": 9273.75088394736,
+  "largestContentfulPaint": 9422.454000000002,
+  "totalBlockingTime": 1099.5,
+  "cumulativeLayoutShift": 0.0248416256374783,
+  "timeToInteractive": 13794.472000000002,
+  "maxPotentialFirstInputDelay": 352,
+  "timeToFirstByte": 72.90799999999996,
+  "weight": {
+    "summary": "81 requests • 1,709 KiB",
+    "total": 1750117,
+    "image": 343413,
+    "imageCount": 20,
+    "script": 993977,
+    "scriptCount": 31,
+    "document": 48154,
+    "font": 205810,
+    "fontCount": 9,
+    "stylesheet": 56105,
+    "stylesheetCount": 4,
+    "thirdParty": 850213,
+    "thirdPartyCount": 37
+  },
+  "axe": {
+    "passes": 947,
+    "violations": 116
+  }
+}

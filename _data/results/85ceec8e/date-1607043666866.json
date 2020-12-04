@@ -1,0 +1,46 @@
+{
+  "url": "https://www.gd.com/",
+  "requestedUrl": "https://www.gd.com/",
+  "timestamp": 1607048182418,
+  "ranks": {
+    "hundos": 26,
+    "performance": 44,
+    "accessibility": 28,
+    "cumulative": 26
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.35,
+    "accessibility": 0.94,
+    "bestPractices": 0.87,
+    "seo": 0.81,
+    "total": 297
+  },
+  "firstContentfulPaint": 3237.901,
+  "speedIndex": 5978.1865635957365,
+  "largestContentfulPaint": 8236.526999999998,
+  "totalBlockingTime": 737.0000000000009,
+  "cumulativeLayoutShift": 0.450898683336046,
+  "timeToInteractive": 7312.066999999999,
+  "maxPotentialFirstInputDelay": 403,
+  "timeToFirstByte": 339.14199999999994,
+  "weight": {
+    "summary": "34 requests • 4,054 KiB",
+    "total": 4151511,
+    "image": 3354929,
+    "imageCount": 11,
+    "script": 627501,
+    "scriptCount": 13,
+    "document": 36111,
+    "font": 71924,
+    "fontCount": 4,
+    "stylesheet": 60843,
+    "stylesheetCount": 1,
+    "thirdParty": 408598,
+    "thirdPartyCount": 15
+  },
+  "axe": {
+    "passes": 501,
+    "violations": 29
+  }
+}

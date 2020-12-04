@@ -1,0 +1,46 @@
+{
+  "url": "https://www.intuit.com/",
+  "requestedUrl": "https://www.intuit.com/",
+  "timestamp": 1607092712822,
+  "ranks": {
+    "hundos": 76,
+    "performance": 82,
+    "accessibility": 8,
+    "cumulative": 76
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.21,
+    "accessibility": 0.97,
+    "bestPractices": 0.67,
+    "seo": 0.83,
+    "total": 268
+  },
+  "firstContentfulPaint": 2909.5585009460447,
+  "speedIndex": 8003.36588674534,
+  "largestContentfulPaint": 6469.2905,
+  "totalBlockingTime": 3176.348000000002,
+  "cumulativeLayoutShift": 0.17829850260416663,
+  "timeToInteractive": 20170.312500000007,
+  "maxPotentialFirstInputDelay": 1231.0000000000005,
+  "timeToFirstByte": 226.973,
+  "weight": {
+    "summary": "139 requests • 2,892 KiB",
+    "total": 2960957,
+    "image": 884100,
+    "imageCount": 33,
+    "script": 1746043,
+    "scriptCount": 44,
+    "document": 48633,
+    "font": 149500,
+    "fontCount": 5,
+    "stylesheet": 99120,
+    "stylesheetCount": 3,
+    "thirdParty": 1635996,
+    "thirdPartyCount": 100
+  },
+  "axe": {
+    "passes": 1658,
+    "violations": 14
+  }
+}

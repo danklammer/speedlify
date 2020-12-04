@@ -1,0 +1,46 @@
+{
+  "url": "https://www.borgwarner.com/home",
+  "requestedUrl": "https://www.borgwarner.com/",
+  "timestamp": 1607088450840,
+  "ranks": {
+    "hundos": 27,
+    "performance": 40,
+    "accessibility": 29,
+    "cumulative": 27
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.53,
+    "accessibility": 0.91,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 310
+  },
+  "firstContentfulPaint": 2890.735,
+  "speedIndex": 4124.764067598477,
+  "largestContentfulPaint": 5883.4884999999995,
+  "totalBlockingTime": 510.53150000000005,
+  "cumulativeLayoutShift": 0.7133390988243951,
+  "timeToInteractive": 5988.989,
+  "maxPotentialFirstInputDelay": 518,
+  "timeToFirstByte": 448.51800000000003,
+  "weight": {
+    "summary": "52 requests • 1,169 KiB",
+    "total": 1197226,
+    "image": 302288,
+    "imageCount": 25,
+    "script": 426355,
+    "scriptCount": 15,
+    "document": 42771,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 424527,
+    "stylesheetCount": 3,
+    "thirdParty": 68377,
+    "thirdPartyCount": 10
+  },
+  "axe": {
+    "passes": 1341,
+    "violations": 77
+  }
+}

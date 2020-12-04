@@ -1,0 +1,46 @@
+{
+  "url": "https://www.erieinsurance.com/",
+  "requestedUrl": "https://www.erieinsurance.com/",
+  "timestamp": 1607087703715,
+  "ranks": {
+    "hundos": 52,
+    "performance": 70,
+    "accessibility": 9,
+    "cumulative": 53
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.98,
+    "bestPractices": 0.67,
+    "seo": 0.93,
+    "total": 285
+  },
+  "firstContentfulPaint": 5043.962228088379,
+  "speedIndex": 6070.037080669623,
+  "largestContentfulPaint": 7333.312228088379,
+  "totalBlockingTime": 868.3088314361585,
+  "cumulativeLayoutShift": 0.038489153544108076,
+  "timeToInteractive": 11492.765,
+  "maxPotentialFirstInputDelay": 322,
+  "timeToFirstByte": 337.5,
+  "weight": {
+    "summary": "67 requests • 1,717 KiB",
+    "total": 1758454,
+    "image": 490547,
+    "imageCount": 17,
+    "script": 728792,
+    "scriptCount": 29,
+    "document": 83906,
+    "font": 22002,
+    "fontCount": 2,
+    "stylesheet": 421640,
+    "stylesheetCount": 6,
+    "thirdParty": 499153,
+    "thirdPartyCount": 31
+  },
+  "axe": {
+    "passes": 662,
+    "violations": 24
+  }
+}

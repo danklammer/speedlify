@@ -1,0 +1,46 @@
+{
+  "url": "https://www.wellsfargo.com/",
+  "requestedUrl": "https://www.wellsfargo.com/",
+  "timestamp": 1607044133689,
+  "ranks": {
+    "hundos": 39,
+    "performance": 41,
+    "accessibility": 64,
+    "cumulative": 39
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.36,
+    "accessibility": 0.83,
+    "bestPractices": 0.87,
+    "seo": 0.83,
+    "total": 289
+  },
+  "firstContentfulPaint": 1919.1814999999997,
+  "speedIndex": 5956.890675782948,
+  "largestContentfulPaint": 6339.197500000001,
+  "totalBlockingTime": 1320.6750000000006,
+  "cumulativeLayoutShift": 0.021126302083333333,
+  "timeToInteractive": 9734.092500000002,
+  "maxPotentialFirstInputDelay": 523.9999999999995,
+  "timeToFirstByte": 100.24200000000002,
+  "weight": {
+    "summary": "87 requests • 870 KiB",
+    "total": 890785,
+    "image": 202744,
+    "imageCount": 40,
+    "script": 587987,
+    "scriptCount": 27,
+    "document": 42974,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 31561,
+    "stylesheetCount": 2,
+    "thirdParty": 228988,
+    "thirdPartyCount": 48
+  },
+  "axe": {
+    "passes": 969,
+    "violations": 26
+  }
+}

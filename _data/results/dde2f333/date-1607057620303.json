@@ -1,0 +1,46 @@
+{
+  "url": "https://www.caseys.com/",
+  "requestedUrl": "https://www.caseys.com/",
+  "timestamp": 1607087780538,
+  "ranks": {
+    "hundos": 39,
+    "performance": 19,
+    "accessibility": 70,
+    "cumulative": 39
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.66,
+    "accessibility": 0.79,
+    "bestPractices": 0.67,
+    "seo": 0.86,
+    "total": 298
+  },
+  "firstContentfulPaint": 2846.175,
+  "speedIndex": 3927.38977077773,
+  "largestContentfulPaint": 4020.9554109191895,
+  "totalBlockingTime": 296.5,
+  "cumulativeLayoutShift": 0.027448790656195748,
+  "timeToInteractive": 11618.259709487917,
+  "maxPotentialFirstInputDelay": 205,
+  "timeToFirstByte": 146.50599999999997,
+  "weight": {
+    "summary": "136 requests • 2,374 KiB",
+    "total": 2431436,
+    "image": 934302,
+    "imageCount": 69,
+    "script": 1102563,
+    "scriptCount": 37,
+    "document": 62028,
+    "font": 156265,
+    "fontCount": 5,
+    "stylesheet": 167882,
+    "stylesheetCount": 5,
+    "thirdParty": 966518,
+    "thirdPartyCount": 74
+  },
+  "axe": {
+    "passes": 1093,
+    "violations": 15
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.goldmansachs.com/",
+  "requestedUrl": "https://www.goldmansachs.com/",
+  "timestamp": 1607044628013,
+  "ranks": {
+    "hundos": 22,
+    "performance": 9,
+    "accessibility": 78,
+    "cumulative": 23
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.63,
+    "accessibility": 0.77,
+    "bestPractices": 0.8,
+    "seo": 0.79,
+    "total": 299
+  },
+  "firstContentfulPaint": 2806.157,
+  "speedIndex": 4418.589976356115,
+  "largestContentfulPaint": 5437.279999999999,
+  "totalBlockingTime": 259,
+  "cumulativeLayoutShift": 0.30132293701171875,
+  "timeToInteractive": 5962.070500000001,
+  "maxPotentialFirstInputDelay": 470,
+  "timeToFirstByte": 437.15500000000003,
+  "weight": {
+    "summary": "116 requests • 2,649 KiB",
+    "total": 2712274,
+    "image": 1852185,
+    "imageCount": 40,
+    "script": 528048,
+    "scriptCount": 39,
+    "document": 16447,
+    "font": 166557,
+    "fontCount": 9,
+    "stylesheet": 102254,
+    "stylesheetCount": 16,
+    "thirdParty": 94245,
+    "thirdPartyCount": 18
+  },
+  "axe": {
+    "passes": 961,
+    "violations": 57
+  }
+}

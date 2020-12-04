@@ -1,0 +1,46 @@
+{
+  "url": "https://www.valero.com/",
+  "requestedUrl": "https://www.valero.com/",
+  "timestamp": 1607045705517,
+  "ranks": {
+    "hundos": 5,
+    "performance": 8,
+    "accessibility": 2,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.69,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "seo": 0.93,
+    "total": 349
+  },
+  "firstContentfulPaint": 2648.7529999999997,
+  "speedIndex": 3403.5036879068157,
+  "largestContentfulPaint": 6558.507,
+  "totalBlockingTime": 51.5,
+  "cumulativeLayoutShift": 0.01328125,
+  "timeToInteractive": 5740.182,
+  "maxPotentialFirstInputDelay": 153,
+  "timeToFirstByte": 31.188999999999993,
+  "weight": {
+    "summary": "37 requests • 3,427 KiB",
+    "total": 3508849,
+    "image": 3233696,
+    "imageCount": 20,
+    "script": 132230,
+    "scriptCount": 4,
+    "document": 14904,
+    "font": 58471,
+    "fontCount": 6,
+    "stylesheet": 69341,
+    "stylesheetCount": 5,
+    "thirdParty": 91472,
+    "thirdPartyCount": 12
+  },
+  "axe": {
+    "passes": 436,
+    "violations": 1
+  }
+}

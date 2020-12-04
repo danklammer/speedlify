@@ -1,0 +1,46 @@
+{
+  "url": "https://www.amerisourcebergen.com/",
+  "requestedUrl": "https://www.amerisourcebergen.com/",
+  "timestamp": 1607045333552,
+  "ranks": {
+    "hundos": 14,
+    "performance": 13,
+    "accessibility": 16,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.57,
+    "accessibility": 0.98,
+    "bestPractices": 0.67,
+    "seo": 0.92,
+    "total": 314
+  },
+  "firstContentfulPaint": 2433.5860000000002,
+  "speedIndex": 3372.99002195872,
+  "largestContentfulPaint": 5305.571999999999,
+  "totalBlockingTime": 460.5,
+  "cumulativeLayoutShift": 0.026784922281901043,
+  "timeToInteractive": 10868.1895,
+  "maxPotentialFirstInputDelay": 347,
+  "timeToFirstByte": 440.365,
+  "weight": {
+    "summary": "122 requests • 1,356 KiB",
+    "total": 1388539,
+    "image": 474584,
+    "imageCount": 43,
+    "script": 544369,
+    "scriptCount": 27,
+    "document": 16042,
+    "font": 249774,
+    "fontCount": 3,
+    "stylesheet": 81269,
+    "stylesheetCount": 2,
+    "thirdParty": 466042,
+    "thirdPartyCount": 97
+  },
+  "axe": {
+    "passes": 578,
+    "violations": 8
+  }
+}

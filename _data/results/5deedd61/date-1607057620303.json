@@ -1,0 +1,45 @@
+{
+  "url": "https://www.dickssportinggoods.com/",
+  "requestedUrl": "https://www.dickssportinggoods.com/",
+  "timestamp": 1607087555282,
+  "ranks": {
+    "hundos": 77,
+    "performance": 85,
+    "accessibility": 27,
+    "cumulative": 77
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.92,
+    "bestPractices": 0.67,
+    "seo": 0.86,
+    "total": 262
+  },
+  "firstContentfulPaint": 3618.8650000000002,
+  "speedIndex": 7937.131933387613,
+  "largestContentfulPaint": 9149.7365,
+  "totalBlockingTime": 1694.4999999999986,
+  "cumulativeLayoutShift": 0.26093032052781845,
+  "timeToInteractive": 15906.01149999999,
+  "maxPotentialFirstInputDelay": 436.0000000000009,
+  "timeToFirstByte": 474.10300000000007,
+  "weight": {
+    "summary": "198 requests • 1,608 KiB",
+    "total": 1646338,
+    "image": 379258,
+    "imageCount": 66,
+    "script": 1022874,
+    "scriptCount": 57,
+    "document": 49853,
+    "font": 107143,
+    "fontCount": 6,
+    "stylesheet": 40335,
+    "stylesheetCount": 4,
+    "thirdParty": 571578,
+    "thirdPartyCount": 143
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

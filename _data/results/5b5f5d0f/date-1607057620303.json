@@ -1,0 +1,46 @@
+{
+  "url": "https://shop.advanceautoparts.com/",
+  "requestedUrl": "https://www.advanceautoparts.com/",
+  "timestamp": 1607085340720,
+  "ranks": {
+    "hundos": 82,
+    "performance": 88,
+    "accessibility": 69,
+    "cumulative": 86
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.16,
+    "accessibility": 0.79,
+    "bestPractices": 0.6,
+    "seo": 0.86,
+    "total": 253
+  },
+  "firstContentfulPaint": 3900.640000000001,
+  "speedIndex": 10825.665095293733,
+  "largestContentfulPaint": 5225.762803108215,
+  "totalBlockingTime": 1673.9999999999945,
+  "cumulativeLayoutShift": 1.37441322432624,
+  "timeToInteractive": 17795.948008010862,
+  "maxPotentialFirstInputDelay": 407.9999999999982,
+  "timeToFirstByte": 155.726,
+  "weight": {
+    "summary": "267 requests • 2,358 KiB",
+    "total": 2414649,
+    "image": 373948,
+    "imageCount": 71,
+    "script": 1577462,
+    "scriptCount": 95,
+    "document": 70304,
+    "font": 193457,
+    "fontCount": 8,
+    "stylesheet": 139114,
+    "stylesheetCount": 10,
+    "thirdParty": 1333881,
+    "thirdPartyCount": 205
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

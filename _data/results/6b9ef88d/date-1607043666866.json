@@ -1,0 +1,46 @@
+{
+  "url": "https://www.amgen.com/",
+  "requestedUrl": "https://www.amgen.com/",
+  "timestamp": 1607051487425,
+  "ranks": {
+    "hundos": 59,
+    "performance": 28,
+    "accessibility": 75,
+    "cumulative": 59
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.45,
+    "accessibility": 0.75,
+    "bestPractices": 0.73,
+    "seo": 0.73,
+    "total": 266
+  },
+  "firstContentfulPaint": 2993.6200000000003,
+  "speedIndex": 6620.692699933487,
+  "largestContentfulPaint": 4289.979,
+  "totalBlockingTime": 593.5,
+  "cumulativeLayoutShift": 0.11425397109985351,
+  "timeToInteractive": 18016.908,
+  "maxPotentialFirstInputDelay": 321,
+  "timeToFirstByte": 185.83900000000006,
+  "weight": {
+    "summary": "118 requests • 8,016 KiB",
+    "total": 8207922,
+    "image": 6465402,
+    "imageCount": 33,
+    "script": 977614,
+    "scriptCount": 27,
+    "document": 65889,
+    "font": 568933,
+    "fontCount": 12,
+    "stylesheet": 101409,
+    "stylesheetCount": 4,
+    "thirdParty": 1523756,
+    "thirdPartyCount": 86
+  },
+  "axe": {
+    "passes": 1325,
+    "violations": 43
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ford.com/",
+  "requestedUrl": "https://www.ford.com/",
+  "timestamp": 1607043800615,
+  "ranks": {
+    "hundos": 77,
+    "performance": 74,
+    "accessibility": 12,
+    "cumulative": 75
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.16,
+    "accessibility": 0.98,
+    "bestPractices": 0.6,
+    "seo": 0.81,
+    "total": 255
+  },
+  "firstContentfulPaint": 3343.467445449829,
+  "speedIndex": 8543.020832566646,
+  "largestContentfulPaint": 11170.7795,
+  "totalBlockingTime": 2098.7615545501694,
+  "cumulativeLayoutShift": 0.7413649156358507,
+  "timeToInteractive": 12185.7925,
+  "maxPotentialFirstInputDelay": 978.9999999999982,
+  "timeToFirstByte": 663.6179999999999,
+  "weight": {
+    "summary": "154 requests • 1,426 KiB",
+    "total": 1459719,
+    "image": 169295,
+    "imageCount": 38,
+    "script": 844714,
+    "scriptCount": 41,
+    "document": 82432,
+    "font": 78099,
+    "fontCount": 2,
+    "stylesheet": 213994,
+    "stylesheetCount": 3,
+    "thirdParty": 651548,
+    "thirdPartyCount": 107
+  },
+  "axe": {
+    "passes": 8,
+    "violations": 4
+  }
+}

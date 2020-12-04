@@ -1,0 +1,46 @@
+{
+  "url": "https://www.o-i.com/",
+  "requestedUrl": "https://www.o-i.com/",
+  "timestamp": 1607095651483,
+  "ranks": {
+    "hundos": 47,
+    "performance": 71,
+    "accessibility": 28,
+    "cumulative": 47
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.29,
+    "accessibility": 0.94,
+    "bestPractices": 0.8,
+    "seo": 0.89,
+    "total": 292
+  },
+  "firstContentfulPaint": 3160.7699999999995,
+  "speedIndex": 6305.507524675348,
+  "largestContentfulPaint": 9360.7835,
+  "totalBlockingTime": 774.5,
+  "cumulativeLayoutShift": 0.7978863118489582,
+  "timeToInteractive": 11167.817609039306,
+  "maxPotentialFirstInputDelay": 340,
+  "timeToFirstByte": 60.00200000000018,
+  "weight": {
+    "summary": "74 requests • 4,602 KiB",
+    "total": 4712799,
+    "image": 2970382,
+    "imageCount": 12,
+    "script": 430606,
+    "scriptCount": 23,
+    "document": 30081,
+    "font": 138406,
+    "fontCount": 7,
+    "stylesheet": 103953,
+    "stylesheetCount": 14,
+    "thirdParty": 366152,
+    "thirdPartyCount": 21
+  },
+  "axe": {
+    "passes": 934,
+    "violations": 42
+  }
+}

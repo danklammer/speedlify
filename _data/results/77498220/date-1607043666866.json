@@ -1,0 +1,45 @@
+{
+  "url": "https://www.viacomcbs.com/",
+  "requestedUrl": "https://www.viacomcbs.com/",
+  "timestamp": 1607049283484,
+  "ranks": {
+    "hundos": 78,
+    "performance": 97,
+    "accessibility": 85,
+    "cumulative": 77
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": null,
+    "accessibility": 0.65,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 245
+  },
+  "firstContentfulPaint": 4379.875000000001,
+  "speedIndex": 8226.732258565808,
+  "totalBlockingTime": 505.0000000000009,
+  "cumulativeLayoutShift": 0.0002573784722222222,
+  "timeToInteractive": 10988.2,
+  "maxPotentialFirstInputDelay": 431.0000000000018,
+  "timeToFirstByte": 256.96200000000005,
+  "weight": {
+    "summary": "89 requests • 14,967 KiB",
+    "total": 15325887,
+    "image": 3254937,
+    "imageCount": 43,
+    "script": 839791,
+    "scriptCount": 23,
+    "document": 9067,
+    "font": 86651,
+    "fontCount": 3,
+    "stylesheet": 44989,
+    "stylesheetCount": 1,
+    "thirdParty": 11364141,
+    "thirdPartyCount": 47
+  },
+  "axe": {
+    "passes": 713,
+    "violations": 28
+  }
+}

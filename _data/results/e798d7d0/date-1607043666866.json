@@ -1,0 +1,46 @@
+{
+  "url": "https://usa.visa.com/",
+  "requestedUrl": "https://www.visa.com/",
+  "timestamp": 1607049701227,
+  "ranks": {
+    "hundos": 26,
+    "performance": 73,
+    "accessibility": 1,
+    "cumulative": 25
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.19,
+    "accessibility": 1,
+    "bestPractices": 0.73,
+    "seo": 1,
+    "total": 292
+  },
+  "firstContentfulPaint": 5421.864,
+  "speedIndex": 7875.752742572525,
+  "largestContentfulPaint": 10251.187499999996,
+  "totalBlockingTime": 730.1674999999977,
+  "cumulativeLayoutShift": 0.944914320203993,
+  "timeToInteractive": 13034.216999999997,
+  "maxPotentialFirstInputDelay": 751,
+  "timeToFirstByte": 75.006,
+  "weight": {
+    "summary": "55 requests • 1,658 KiB",
+    "total": 1697956,
+    "image": 240437,
+    "imageCount": 15,
+    "script": 429010,
+    "scriptCount": 16,
+    "document": 14384,
+    "font": 913797,
+    "fontCount": 8,
+    "stylesheet": 89189,
+    "stylesheetCount": 9,
+    "thirdParty": 175075,
+    "thirdPartyCount": 12
+  },
+  "axe": {
+    "passes": 920,
+    "violations": 2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.mckesson.com/",
+  "requestedUrl": "https://www.mckesson.com/",
+  "timestamp": 1607045305125,
+  "ranks": {
+    "hundos": 29,
+    "performance": 48,
+    "accessibility": 32,
+    "cumulative": 32
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.31,
+    "accessibility": 0.93,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 297
+  },
+  "firstContentfulPaint": 4792.737000000001,
+  "speedIndex": 7946.986730036255,
+  "largestContentfulPaint": 12384.393499999998,
+  "totalBlockingTime": 479.8684999999996,
+  "cumulativeLayoutShift": 0.036619854609171554,
+  "timeToInteractive": 13354.094999999998,
+  "maxPotentialFirstInputDelay": 290,
+  "timeToFirstByte": 910.7280000000001,
+  "weight": {
+    "summary": "100 requests • 1,754 KiB",
+    "total": 1796352,
+    "image": 557622,
+    "imageCount": 35,
+    "script": 865825,
+    "scriptCount": 35,
+    "document": 24660,
+    "font": 233148,
+    "fontCount": 5,
+    "stylesheet": 101889,
+    "stylesheetCount": 7,
+    "thirdParty": 490674,
+    "thirdPartyCount": 54
+  },
+  "axe": {
+    "passes": 1080,
+    "violations": 78
+  }
+}

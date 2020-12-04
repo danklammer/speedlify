@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ge.com/",
+  "requestedUrl": "https://www.ge.com/",
+  "timestamp": 1607045723089,
+  "ranks": {
+    "hundos": 80,
+    "performance": 73,
+    "accessibility": 82,
+    "cumulative": 80
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.16,
+    "accessibility": 0.74,
+    "bestPractices": 0.67,
+    "seo": 0.93,
+    "total": 250
+  },
+  "firstContentfulPaint": 5110.943500000001,
+  "speedIndex": 7909.3698246593785,
+  "largestContentfulPaint": 11125.271,
+  "totalBlockingTime": 1755.9774999999977,
+  "cumulativeLayoutShift": 0.03860648801591661,
+  "timeToInteractive": 12218.077000000001,
+  "maxPotentialFirstInputDelay": 1719.999999999999,
+  "timeToFirstByte": 73.364,
+  "weight": {
+    "summary": "93 requests • 3,659 KiB",
+    "total": 3746821,
+    "image": 2382203,
+    "imageCount": 30,
+    "script": 704017,
+    "scriptCount": 33,
+    "document": 222631,
+    "font": 296053,
+    "fontCount": 10,
+    "stylesheet": 132863,
+    "stylesheetCount": 9,
+    "thirdParty": 791574,
+    "thirdPartyCount": 53
+  },
+  "axe": {
+    "passes": 1526,
+    "violations": 77
+  }
+}

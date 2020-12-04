@@ -1,0 +1,46 @@
+{
+  "url": "https://www.pgecorp.com/corp/index.page",
+  "requestedUrl": "https://www.pgecorp.com/",
+  "timestamp": 1607054052209,
+  "ranks": {
+    "hundos": 67,
+    "performance": 79,
+    "accessibility": 52,
+    "cumulative": 67
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.84,
+    "bestPractices": 0.67,
+    "seo": 0.92,
+    "total": 260
+  },
+  "firstContentfulPaint": 6612.025,
+  "speedIndex": 9675.016435376334,
+  "largestContentfulPaint": 20792.030499999993,
+  "totalBlockingTime": 752.5000000000009,
+  "cumulativeLayoutShift": 0.04618922710418701,
+  "timeToInteractive": 20735.867499999997,
+  "maxPotentialFirstInputDelay": 478.0000000000009,
+  "timeToFirstByte": 44.101,
+  "weight": {
+    "summary": "160 requests • 2,819 KiB",
+    "total": 2886959,
+    "image": 952909,
+    "imageCount": 46,
+    "script": 1457501,
+    "scriptCount": 58,
+    "document": 69214,
+    "font": 53673,
+    "fontCount": 3,
+    "stylesheet": 298510,
+    "stylesheetCount": 2,
+    "thirdParty": 1094412,
+    "thirdPartyCount": 127
+  },
+  "axe": {
+    "passes": 16,
+    "violations": 5
+  }
+}

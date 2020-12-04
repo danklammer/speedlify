@@ -1,0 +1,46 @@
+{
+  "url": "https://www.conagrabrands.com/",
+  "requestedUrl": "https://www.conagrabrands.com/",
+  "timestamp": 1607085393122,
+  "ranks": {
+    "hundos": 48,
+    "performance": 34,
+    "accessibility": 67,
+    "cumulative": 48
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.59,
+    "accessibility": 0.8,
+    "bestPractices": 0.67,
+    "seo": 0.84,
+    "total": 290
+  },
+  "firstContentfulPaint": 2355.8909999999996,
+  "speedIndex": 4474.991577146631,
+  "largestContentfulPaint": 4627.690500000001,
+  "totalBlockingTime": 393.9234848785404,
+  "cumulativeLayoutShift": 0.3224710193210178,
+  "timeToInteractive": 9519.661700134277,
+  "maxPotentialFirstInputDelay": 210,
+  "timeToFirstByte": 56.315,
+  "weight": {
+    "summary": "152 requests • 5,016 KiB",
+    "total": 5136489,
+    "image": 4511036,
+    "imageCount": 90,
+    "script": 434640,
+    "scriptCount": 25,
+    "document": 15339,
+    "font": 113837,
+    "fontCount": 4,
+    "stylesheet": 45486,
+    "stylesheetCount": 6,
+    "thirdParty": 438003,
+    "thirdPartyCount": 85
+  },
+  "axe": {
+    "passes": 729,
+    "violations": 39
+  }
+}

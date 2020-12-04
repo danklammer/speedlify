@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bnymellon.com/",
+  "requestedUrl": "https://www.bnymellon.com/",
+  "timestamp": 1607053595275,
+  "ranks": {
+    "hundos": 40,
+    "performance": 37,
+    "accessibility": 42,
+    "cumulative": 39
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.41,
+    "accessibility": 0.88,
+    "bestPractices": 0.8,
+    "seo": 0.74,
+    "total": 283
+  },
+  "firstContentfulPaint": 2160.54,
+  "speedIndex": 11965.566842387021,
+  "largestContentfulPaint": 21605.164500000014,
+  "totalBlockingTime": 337.5,
+  "cumulativeLayoutShift": 0.10413221571180556,
+  "timeToInteractive": 17738.377000000004,
+  "maxPotentialFirstInputDelay": 224,
+  "timeToFirstByte": 55.357999999999976,
+  "weight": {
+    "summary": "83 requests • 4,579 KiB",
+    "total": 4688826,
+    "image": 3854497,
+    "imageCount": 12,
+    "script": 460403,
+    "scriptCount": 41,
+    "document": 16352,
+    "font": 294725,
+    "fontCount": 7,
+    "stylesheet": 24411,
+    "stylesheetCount": 2,
+    "thirdParty": 437923,
+    "thirdPartyCount": 55
+  },
+  "axe": {
+    "passes": 883,
+    "violations": 9
+  }
+}

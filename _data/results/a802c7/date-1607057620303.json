@@ -1,0 +1,46 @@
+{
+  "url": "https://www.lithiainvestorrelations.com/",
+  "requestedUrl": "https://www.lithiainvestorrelations.com/",
+  "timestamp": 1607059727515,
+  "ranks": {
+    "hundos": 74,
+    "performance": 54,
+    "accessibility": 80,
+    "cumulative": 73
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.74,
+    "bestPractices": 0.6,
+    "seo": 0.83,
+    "total": 254
+  },
+  "firstContentfulPaint": 5671.848,
+  "speedIndex": 8850.66984000843,
+  "largestContentfulPaint": 9017.855999999996,
+  "totalBlockingTime": 1,
+  "cumulativeLayoutShift": 0.181289429558648,
+  "timeToInteractive": 11261.079499999994,
+  "maxPotentialFirstInputDelay": 52,
+  "timeToFirstByte": 45.761000000000024,
+  "weight": {
+    "summary": "64 requests • 1,598 KiB",
+    "total": 1636325,
+    "image": 208207,
+    "imageCount": 8,
+    "script": 733325,
+    "scriptCount": 33,
+    "document": 24359,
+    "font": 133133,
+    "fontCount": 3,
+    "stylesheet": 537084,
+    "stylesheetCount": 18,
+    "thirdParty": 137123,
+    "thirdPartyCount": 9
+  },
+  "axe": {
+    "passes": 293,
+    "violations": 44
+  }
+}

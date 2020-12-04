@@ -1,0 +1,46 @@
+{
+  "url": "https://www.olin.com/",
+  "requestedUrl": "https://www.olin.com/",
+  "timestamp": 1607093190148,
+  "ranks": {
+    "hundos": 48,
+    "performance": 47,
+    "accessibility": 58,
+    "cumulative": 48
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.85,
+    "bestPractices": 0.87,
+    "seo": 0.77,
+    "total": 291
+  },
+  "firstContentfulPaint": 6611.8295,
+  "speedIndex": 7728.630878844509,
+  "largestContentfulPaint": 7629.547999999999,
+  "totalBlockingTime": 67.5,
+  "cumulativeLayoutShift": 0.01358045154147678,
+  "timeToInteractive": 8926.661999999997,
+  "maxPotentialFirstInputDelay": 97,
+  "timeToFirstByte": 390.71999999999997,
+  "weight": {
+    "summary": "41 requests • 1,097 KiB",
+    "total": 1123567,
+    "image": 191992,
+    "imageCount": 8,
+    "script": 685070,
+    "scriptCount": 19,
+    "document": 46132,
+    "font": 35573,
+    "fontCount": 3,
+    "stylesheet": 163346,
+    "stylesheetCount": 7,
+    "thirdParty": 101639,
+    "thirdPartyCount": 14
+  },
+  "axe": {
+    "passes": 420,
+    "violations": 31
+  }
+}

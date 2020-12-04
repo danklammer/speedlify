@@ -1,0 +1,46 @@
+{
+  "url": "https://www.key.com/personal/index.jsp",
+  "requestedUrl": "https://www.key.com/",
+  "timestamp": 1607093597291,
+  "ranks": {
+    "hundos": 54,
+    "performance": 76,
+    "accessibility": 1,
+    "cumulative": 54
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.26,
+    "accessibility": 1,
+    "bestPractices": 0.67,
+    "seo": 0.91,
+    "total": 284
+  },
+  "firstContentfulPaint": 4399.23,
+  "speedIndex": 7709.318001405556,
+  "largestContentfulPaint": 6739.615500000002,
+  "totalBlockingTime": 819,
+  "cumulativeLayoutShift": 0.057004394531249995,
+  "timeToInteractive": 12901.871500000001,
+  "maxPotentialFirstInputDelay": 429,
+  "timeToFirstByte": 353.526,
+  "weight": {
+    "summary": "121 requests • 1,682 KiB",
+    "total": 1722453,
+    "image": 697141,
+    "imageCount": 40,
+    "script": 649869,
+    "scriptCount": 23,
+    "document": 19754,
+    "font": 162590,
+    "fontCount": 4,
+    "stylesheet": 156936,
+    "stylesheetCount": 3,
+    "thirdParty": 325807,
+    "thirdPartyCount": 78
+  },
+  "axe": {
+    "passes": 712,
+    "violations": 1
+  }
+}

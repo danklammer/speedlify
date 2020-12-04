@@ -1,0 +1,46 @@
+{
+  "url": "https://www.jmsmucker.com/",
+  "requestedUrl": "https://www.jmsmucker.com/",
+  "timestamp": 1607092277100,
+  "ranks": {
+    "hundos": 30,
+    "performance": 75,
+    "accessibility": 14,
+    "cumulative": 29
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.26,
+    "accessibility": 0.96,
+    "bestPractices": 0.87,
+    "seo": 0.98,
+    "total": 307
+  },
+  "firstContentfulPaint": 5290.008000000001,
+  "speedIndex": 6818.4661964836305,
+  "largestContentfulPaint": 12622.353999999998,
+  "totalBlockingTime": 520.5,
+  "cumulativeLayoutShift": 0.5836883926391602,
+  "timeToInteractive": 15489.755000000001,
+  "maxPotentialFirstInputDelay": 668,
+  "timeToFirstByte": 101.94899999999998,
+  "weight": {
+    "summary": "112 requests • 2,091 KiB",
+    "total": 2140694,
+    "image": 622344,
+    "imageCount": 43,
+    "script": 620411,
+    "scriptCount": 20,
+    "document": 575200,
+    "font": 197676,
+    "fontCount": 9,
+    "stylesheet": 105265,
+    "stylesheetCount": 6,
+    "thirdParty": 1105319,
+    "thirdPartyCount": 91
+  },
+  "axe": {
+    "passes": 668,
+    "violations": 12
+  }
+}

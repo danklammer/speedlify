@@ -1,0 +1,45 @@
+{
+  "url": "https://www.rsac.com/",
+  "requestedUrl": "https://www.rsac.com/",
+  "timestamp": 1607082678897,
+  "ranks": {
+    "hundos": 12,
+    "performance": 43,
+    "accessibility": 7,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.46,
+    "accessibility": 0.98,
+    "bestPractices": 0.87,
+    "seo": 0.91,
+    "total": 322
+  },
+  "firstContentfulPaint": 1898.9470000000001,
+  "speedIndex": 9535.18539827767,
+  "largestContentfulPaint": 10067.121499999997,
+  "totalBlockingTime": 377.10599999999977,
+  "cumulativeLayoutShift": 0.005107757618650794,
+  "timeToInteractive": 8852.137499999997,
+  "maxPotentialFirstInputDelay": 308,
+  "timeToFirstByte": 958.546,
+  "weight": {
+    "summary": "90 requests • 11,318 KiB",
+    "total": 4980861,
+    "image": 3614839,
+    "imageCount": 58,
+    "script": 185931,
+    "scriptCount": 12,
+    "document": 9992,
+    "font": 1115779,
+    "fontCount": 7,
+    "stylesheet": 31404,
+    "stylesheetCount": 6,
+    "thirdParty": 102961,
+    "thirdPartyCount": 6
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

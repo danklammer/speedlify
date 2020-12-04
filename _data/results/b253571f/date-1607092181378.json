@@ -1,0 +1,46 @@
+{
+  "url": "https://www.questdiagnostics.com/home/",
+  "requestedUrl": "https://www.questdiagnostics.com/",
+  "timestamp": 1607095107910,
+  "ranks": {
+    "hundos": 41,
+    "performance": 39,
+    "accessibility": 5,
+    "cumulative": 41
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.47,
+    "accessibility": 0.98,
+    "bestPractices": 0.73,
+    "seo": 0.81,
+    "total": 299
+  },
+  "firstContentfulPaint": 4109.2695,
+  "speedIndex": 6320.039032242442,
+  "largestContentfulPaint": 5570.787000000001,
+  "totalBlockingTime": 347,
+  "cumulativeLayoutShift": 0.005517841787439833,
+  "timeToInteractive": 10278.110499999993,
+  "maxPotentialFirstInputDelay": 270.5,
+  "timeToFirstByte": 51.769000000000005,
+  "weight": {
+    "summary": "83 requests • 1,153 KiB",
+    "total": 1180534,
+    "image": 635962,
+    "imageCount": 26,
+    "script": 341403,
+    "scriptCount": 23,
+    "document": 23766,
+    "font": 101814,
+    "fontCount": 2,
+    "stylesheet": 47114,
+    "stylesheetCount": 25,
+    "thirdParty": 198906,
+    "thirdPartyCount": 8
+  },
+  "axe": {
+    "passes": 509,
+    "violations": 13
+  }
+}

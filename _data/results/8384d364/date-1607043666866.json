@@ -1,0 +1,46 @@
+{
+  "url": "https://www.ibm.com/us-en/?ar=1",
+  "requestedUrl": "https://www.ibm.com/",
+  "timestamp": 1607045792004,
+  "ranks": {
+    "hundos": 54,
+    "performance": 70,
+    "accessibility": 40,
+    "cumulative": 54
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.19,
+    "accessibility": 0.91,
+    "bestPractices": 0.73,
+    "seo": 0.92,
+    "total": 275
+  },
+  "firstContentfulPaint": 2732.77,
+  "speedIndex": 6997.552709066016,
+  "largestContentfulPaint": 22586.491500000007,
+  "totalBlockingTime": 1448.4999999999982,
+  "cumulativeLayoutShift": 0.8103882109324138,
+  "timeToInteractive": 20777.511,
+  "maxPotentialFirstInputDelay": 521,
+  "timeToFirstByte": 43.997,
+  "weight": {
+    "summary": "177 requests • 2,340 KiB",
+    "total": 2395930,
+    "image": 691696,
+    "imageCount": 40,
+    "script": 1459744,
+    "scriptCount": 77,
+    "document": 26200,
+    "font": 110032,
+    "fontCount": 8,
+    "stylesheet": 71110,
+    "stylesheetCount": 2,
+    "thirdParty": 2011784,
+    "thirdPartyCount": 144
+  },
+  "axe": {
+    "passes": 1137,
+    "violations": 17
+  }
+}

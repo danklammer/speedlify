@@ -1,0 +1,46 @@
+{
+  "url": "https://www.citigroup.com/citi/",
+  "requestedUrl": "https://www.citigroup.com/",
+  "timestamp": 1607045697365,
+  "ranks": {
+    "hundos": 60,
+    "performance": 63,
+    "accessibility": 6,
+    "cumulative": 59
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.24,
+    "accessibility": 1,
+    "bestPractices": 0.67,
+    "seo": 0.81,
+    "total": 272
+  },
+  "firstContentfulPaint": 9521.496,
+  "speedIndex": 14678.566074440647,
+  "largestContentfulPaint": 21636.466999999997,
+  "totalBlockingTime": 415,
+  "cumulativeLayoutShift": 0.02594944000244141,
+  "timeToInteractive": 18680.880999999998,
+  "maxPotentialFirstInputDelay": 392,
+  "timeToFirstByte": 213.21099999999998,
+  "weight": {
+    "summary": "129 requests • 3,638 KiB",
+    "total": 3724921,
+    "image": 1670749,
+    "imageCount": 30,
+    "script": 1218174,
+    "scriptCount": 49,
+    "document": 198750,
+    "font": 458355,
+    "fontCount": 7,
+    "stylesheet": 120351,
+    "stylesheetCount": 9,
+    "thirdParty": 1675028,
+    "thirdPartyCount": 91
+  },
+  "axe": {
+    "passes": 698,
+    "violations": 11
+  }
+}

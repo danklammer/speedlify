@@ -1,0 +1,46 @@
+{
+  "url": "https://www.officedepot.com/",
+  "requestedUrl": "https://www.officedepot.com/",
+  "timestamp": 1607082753949,
+  "ranks": {
+    "hundos": 92,
+    "performance": 80,
+    "accessibility": 58,
+    "cumulative": 92
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.15,
+    "accessibility": 0.82,
+    "bestPractices": 0.6,
+    "seo": 0.62,
+    "total": 219
+  },
+  "firstContentfulPaint": 3522.643,
+  "speedIndex": 8944.792425126408,
+  "largestContentfulPaint": 7496.915999999999,
+  "totalBlockingTime": 2445.5,
+  "cumulativeLayoutShift": 0.26812796359592017,
+  "timeToInteractive": 20593.752500000002,
+  "maxPotentialFirstInputDelay": 418,
+  "timeToFirstByte": 297.106,
+  "weight": {
+    "summary": "177 requests • 2,303 KiB",
+    "total": 2358324,
+    "image": 432094,
+    "imageCount": 65,
+    "script": 1637163,
+    "scriptCount": 57,
+    "document": 101576,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 161132,
+    "stylesheetCount": 12,
+    "thirdParty": 1472136,
+    "thirdPartyCount": 125
+  },
+  "axe": {
+    "passes": 4130,
+    "violations": 31
+  }
+}

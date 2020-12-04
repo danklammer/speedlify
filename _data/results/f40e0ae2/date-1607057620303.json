@@ -1,0 +1,46 @@
+{
+  "url": "https://www.jbhunt.com/",
+  "requestedUrl": "https://www.jbhunt.com/",
+  "timestamp": 1607087350147,
+  "ranks": {
+    "hundos": 44,
+    "performance": 44,
+    "accessibility": 71,
+    "cumulative": 44
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.49,
+    "accessibility": 0.78,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 293
+  },
+  "firstContentfulPaint": 3012.032,
+  "speedIndex": 7685.647895041147,
+  "largestContentfulPaint": 11529.533000000003,
+  "totalBlockingTime": 267.5,
+  "cumulativeLayoutShift": 0.019333674536810983,
+  "timeToInteractive": 8545.743,
+  "maxPotentialFirstInputDelay": 251,
+  "timeToFirstByte": 113.281,
+  "weight": {
+    "summary": "60 requests • 4,998 KiB",
+    "total": 5117555,
+    "image": 3989438,
+    "imageCount": 21,
+    "script": 286738,
+    "scriptCount": 16,
+    "document": 16807,
+    "font": 586618,
+    "fontCount": 9,
+    "stylesheet": 69241,
+    "stylesheetCount": 2,
+    "thirdParty": 102352,
+    "thirdPartyCount": 8
+  },
+  "axe": {
+    "passes": 1124,
+    "violations": 38
+  }
+}

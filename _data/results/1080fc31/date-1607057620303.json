@@ -1,0 +1,46 @@
+{
+  "url": "https://www.landolakesinc.com/",
+  "requestedUrl": "https://www.landolakesinc.com/",
+  "timestamp": 1607059458085,
+  "ranks": {
+    "hundos": 34,
+    "performance": 39,
+    "accessibility": 22,
+    "cumulative": 34
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.48,
+    "accessibility": 0.93,
+    "bestPractices": 0.67,
+    "seo": 0.88,
+    "total": 296
+  },
+  "firstContentfulPaint": 3520.6755,
+  "speedIndex": 5409.648844861072,
+  "largestContentfulPaint": 7645.625,
+  "totalBlockingTime": 257,
+  "cumulativeLayoutShift": 0.0995446400112576,
+  "timeToInteractive": 14728.685,
+  "maxPotentialFirstInputDelay": 220,
+  "timeToFirstByte": 240.281,
+  "weight": {
+    "summary": "90 requests • 2,243 KiB",
+    "total": 2296872,
+    "image": 743099,
+    "imageCount": 24,
+    "script": 494155,
+    "scriptCount": 31,
+    "document": 18644,
+    "font": 933359,
+    "fontCount": 9,
+    "stylesheet": 86156,
+    "stylesheetCount": 17,
+    "thirdParty": 351957,
+    "thirdPartyCount": 31
+  },
+  "axe": {
+    "passes": 245,
+    "violations": 14
+  }
+}

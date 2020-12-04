@@ -1,0 +1,46 @@
+{
+  "url": "https://www.baxter.com/",
+  "requestedUrl": "https://www.baxter.com/",
+  "timestamp": 1607084205311,
+  "ranks": {
+    "hundos": 30,
+    "performance": 44,
+    "accessibility": 37,
+    "cumulative": 30
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.43,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "seo": 0.84,
+    "total": 302
+  },
+  "firstContentfulPaint": 2140.868,
+  "speedIndex": 6864.8713999718575,
+  "largestContentfulPaint": 4046.527500000001,
+  "totalBlockingTime": 745.5,
+  "cumulativeLayoutShift": 1.1038629659016927,
+  "timeToInteractive": 11297.433500000003,
+  "maxPotentialFirstInputDelay": 605,
+  "timeToFirstByte": 802.945,
+  "weight": {
+    "summary": "59 requests • 2,064 KiB",
+    "total": 2113772,
+    "image": 974038,
+    "imageCount": 22,
+    "script": 505899,
+    "scriptCount": 17,
+    "document": 17780,
+    "font": 343323,
+    "fontCount": 7,
+    "stylesheet": 27641,
+    "stylesheetCount": 5,
+    "thirdParty": 735711,
+    "thirdPartyCount": 24
+  },
+  "axe": {
+    "passes": 1116,
+    "violations": 27
+  }
+}

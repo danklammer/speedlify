@@ -1,0 +1,46 @@
+{
+  "url": "https://www.libertymutual.com/",
+  "requestedUrl": "https://www.libertymutual.com/",
+  "timestamp": 1607046461074,
+  "ranks": {
+    "hundos": 8,
+    "performance": 10,
+    "accessibility": 36,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.61,
+    "accessibility": 0.92,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 326
+  },
+  "firstContentfulPaint": 1369.125,
+  "speedIndex": 5864.397196071536,
+  "largestContentfulPaint": 1369.125,
+  "totalBlockingTime": 847.5000000000036,
+  "cumulativeLayoutShift": 0.002802353752983941,
+  "timeToInteractive": 13290.752160041813,
+  "maxPotentialFirstInputDelay": 349.0000000000018,
+  "timeToFirstByte": 62.583,
+  "weight": {
+    "summary": "184 requests • 1,188 KiB",
+    "total": 1216677,
+    "image": 84308,
+    "imageCount": 52,
+    "script": 1005799,
+    "scriptCount": 74,
+    "document": 60505,
+    "font": 33793,
+    "fontCount": 3,
+    "stylesheet": 1435,
+    "stylesheetCount": 1,
+    "thirdParty": 803375,
+    "thirdPartyCount": 147
+  },
+  "axe": {
+    "passes": 813,
+    "violations": 10
+  }
+}

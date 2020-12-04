@@ -1,0 +1,46 @@
+{
+  "url": "https://www.altria.com/",
+  "requestedUrl": "https://www.altria.com/",
+  "timestamp": 1607051930758,
+  "ranks": {
+    "hundos": 12,
+    "performance": 34,
+    "accessibility": 25,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.42,
+    "accessibility": 0.93,
+    "bestPractices": 0.87,
+    "seo": 0.9,
+    "total": 312
+  },
+  "firstContentfulPaint": 2044.7590000000002,
+  "speedIndex": 8809.89491870217,
+  "largestContentfulPaint": 10839.391,
+  "totalBlockingTime": 408,
+  "cumulativeLayoutShift": 0.000005717807345920138,
+  "timeToInteractive": 14321.284000000003,
+  "maxPotentialFirstInputDelay": 300,
+  "timeToFirstByte": 1571.43,
+  "weight": {
+    "summary": "65 requests • 11,036 KiB",
+    "total": 11300446,
+    "image": 8896326,
+    "imageCount": 26,
+    "script": 802824,
+    "scriptCount": 19,
+    "document": 48516,
+    "font": 913097,
+    "fontCount": 8,
+    "stylesheet": 177475,
+    "stylesheetCount": 6,
+    "thirdParty": 232483,
+    "thirdPartyCount": 13
+  },
+  "axe": {
+    "passes": 730,
+    "violations": 14
+  }
+}

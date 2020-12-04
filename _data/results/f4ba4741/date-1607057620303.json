@@ -1,0 +1,46 @@
+{
+  "url": "https://www.pxd.com/",
+  "requestedUrl": "https://www.pxd.com/",
+  "timestamp": 1607085495014,
+  "ranks": {
+    "hundos": 16,
+    "performance": 15,
+    "accessibility": 59,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.7,
+    "accessibility": 0.83,
+    "bestPractices": 0.93,
+    "seo": 0.77,
+    "total": 323
+  },
+  "firstContentfulPaint": 2194.6769999999997,
+  "speedIndex": 4122.379554565133,
+  "largestContentfulPaint": 7210.677,
+  "totalBlockingTime": 107.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4175.677,
+  "maxPotentialFirstInputDelay": 265,
+  "timeToFirstByte": 28.572000000000003,
+  "weight": {
+    "summary": "27 requests • 8,170 KiB",
+    "total": 8366182,
+    "image": 1712851,
+    "imageCount": 10,
+    "script": 231985,
+    "scriptCount": 7,
+    "document": 13031,
+    "font": 43806,
+    "fontCount": 1,
+    "stylesheet": 42448,
+    "stylesheetCount": 3,
+    "thirdParty": 97419,
+    "thirdPartyCount": 7
+  },
+  "axe": {
+    "passes": 257,
+    "violations": 38
+  }
+}

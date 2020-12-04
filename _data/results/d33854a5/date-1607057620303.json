@@ -1,0 +1,46 @@
+{
+  "url": "http://mobile.murphyusa.com/",
+  "requestedUrl": "https://www.murphyusa.com/",
+  "timestamp": 1607083537916,
+  "ranks": {
+    "hundos": 59,
+    "performance": 3,
+    "accessibility": 95,
+    "cumulative": 59
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.86,
+    "accessibility": 0.48,
+    "bestPractices": 0.67,
+    "seo": 0.71,
+    "total": 272
+  },
+  "firstContentfulPaint": 2512.307,
+  "speedIndex": 2512.307,
+  "largestContentfulPaint": 3349.8465,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.3669373395807401,
+  "timeToInteractive": 2512.307,
+  "maxPotentialFirstInputDelay": 47.5,
+  "timeToFirstByte": 30.287999999999997,
+  "weight": {
+    "summary": "11 requests • 243 KiB",
+    "total": 248361,
+    "image": 206307,
+    "imageCount": 6,
+    "script": 37150,
+    "scriptCount": 2,
+    "document": 2577,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 1961,
+    "stylesheetCount": 1,
+    "thirdParty": 33169,
+    "thirdPartyCount": 1
+  },
+  "axe": {
+    "passes": 462,
+    "violations": 64
+  }
+}

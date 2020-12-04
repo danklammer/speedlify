@@ -1,0 +1,46 @@
+{
+  "url": "https://www.voya.com/",
+  "requestedUrl": "https://www.voya.com/",
+  "timestamp": 1607088931774,
+  "ranks": {
+    "hundos": 32,
+    "performance": 56,
+    "accessibility": 10,
+    "cumulative": 32
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.36,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 305
+  },
+  "firstContentfulPaint": 4852.3550000000005,
+  "speedIndex": 7829.7042242420175,
+  "largestContentfulPaint": 12723.915,
+  "totalBlockingTime": 214.5,
+  "cumulativeLayoutShift": 1.0004093837738037,
+  "timeToInteractive": 11307.339,
+  "maxPotentialFirstInputDelay": 277,
+  "timeToFirstByte": 167.048,
+  "weight": {
+    "summary": "70 requests • 2,283 KiB",
+    "total": 2337330,
+    "image": 1387684,
+    "imageCount": 20,
+    "script": 676819,
+    "scriptCount": 29,
+    "document": 23496,
+    "font": 163718,
+    "fontCount": 4,
+    "stylesheet": 84095,
+    "stylesheetCount": 4,
+    "thirdParty": 213694,
+    "thirdPartyCount": 33
+  },
+  "axe": {
+    "passes": 885,
+    "violations": 56
+  }
+}

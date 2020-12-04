@@ -1,0 +1,46 @@
+{
+  "url": "https://www.simon.com/",
+  "requestedUrl": "https://www.simon.com/",
+  "timestamp": 1607096359643,
+  "ranks": {
+    "hundos": 57,
+    "performance": 58,
+    "accessibility": 51,
+    "cumulative": 57
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.86,
+    "bestPractices": 0.67,
+    "seo": 0.91,
+    "total": 281
+  },
+  "firstContentfulPaint": 3983.549,
+  "speedIndex": 7522.781266271308,
+  "largestContentfulPaint": 4417.976,
+  "totalBlockingTime": 661.3619999999996,
+  "cumulativeLayoutShift": 0.4176366093953451,
+  "timeToInteractive": 10242.79,
+  "maxPotentialFirstInputDelay": 1010.4999999999998,
+  "timeToFirstByte": 202.715,
+  "weight": {
+    "summary": "121 requests • 7,954 KiB",
+    "total": 2076805,
+    "image": 128762,
+    "imageCount": 38,
+    "script": 405486,
+    "scriptCount": 28,
+    "document": 58539,
+    "font": 185956,
+    "fontCount": 3,
+    "stylesheet": 32261,
+    "stylesheetCount": 1,
+    "thirdParty": 8090999,
+    "thirdPartyCount": 119
+  },
+  "axe": {
+    "passes": 785,
+    "violations": 10
+  }
+}

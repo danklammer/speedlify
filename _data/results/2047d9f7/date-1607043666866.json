@@ -1,0 +1,46 @@
+{
+  "url": "https://www.conocophillips.com/",
+  "requestedUrl": "https://www.conocophillips.com/",
+  "timestamp": 1607048341933,
+  "ranks": {
+    "hundos": 27,
+    "performance": 40,
+    "accessibility": 52,
+    "cumulative": 28
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.37,
+    "accessibility": 0.88,
+    "bestPractices": 0.8,
+    "seo": 0.92,
+    "total": 297
+  },
+  "firstContentfulPaint": 2134.551,
+  "speedIndex": 7931.264408498262,
+  "largestContentfulPaint": 6508.657,
+  "totalBlockingTime": 779.5700000000002,
+  "cumulativeLayoutShift": 0.000527591069539388,
+  "timeToInteractive": 9971.311999999998,
+  "maxPotentialFirstInputDelay": 419,
+  "timeToFirstByte": 197.88600000000002,
+  "weight": {
+    "summary": "116 requests • 17,348 KiB",
+    "total": 17764403,
+    "image": 5174944,
+    "imageCount": 63,
+    "script": 687359,
+    "scriptCount": 19,
+    "document": 51558,
+    "font": 197462,
+    "fontCount": 8,
+    "stylesheet": 92557,
+    "stylesheetCount": 2,
+    "thirdParty": 12343360,
+    "thirdPartyCount": 54
+  },
+  "axe": {
+    "passes": 999,
+    "violations": 23
+  }
+}
